@@ -1,0 +1,3142 @@
+Year,County_FIPS,County,State,Diagnosed Diabetes Percentage,Overall SVI,county
+2018,1001,Autauga County,Alabama,9.5,0.4354,01001
+2018,1003,Baldwin County,Alabama,8.4,0.2162,01003
+2018,1005,Barbour County,Alabama,13.5,0.9959,01005
+2018,1007,Bibb County,Alabama,10.2,0.6003,01007
+2018,1009,Blount County,Alabama,10.5,0.4242,01009
+2018,1011,Bullock County,Alabama,9.4,0.8898,01011
+2018,1013,Butler County,Alabama,10.9,0.8653,01013
+2018,1015,Calhoun County,Alabama,12.9,0.8252,01015
+2018,1017,Chambers County,Alabama,12,0.7382,01017
+2018,1019,Cherokee County,Alabama,10.5,0.4516,01019
+2018,1021,Chilton County,Alabama,14.4,0.7602,01021
+2018,1023,Choctaw County,Alabama,11,0.8748,01023
+2018,1025,Clarke County,Alabama,14.3,0.8471,01025
+2018,1027,Clay County,Alabama,8.6,0.564,01027
+2018,1029,Cleburne County,Alabama,8.3,0.5417,01029
+2018,1031,Coffee County,Alabama,13.8,0.5408,01031
+2018,1033,Colbert County,Alabama,12.3,0.4274,01033
+2018,1035,Conecuh County,Alabama,11.2,0.8086,01035
+2018,1037,Coosa County,Alabama,9.5,0.5261,01037
+2018,1039,Covington County,Alabama,11.9,0.7723,01039
+2018,1041,Crenshaw County,Alabama,10.7,0.6873,01041
+2018,1043,Cullman County,Alabama,11,0.5182,01043
+2018,1045,Dale County,Alabama,11.7,0.7599,01045
+2018,1047,Dallas County,Alabama,13.9,0.949,01047
+2018,1049,Dekalb County,Alabama,11.1,0.8022,01049
+2018,1051,Elmore County,Alabama,12.1,0.5401,01051
+2018,1053,Escambia County,Alabama,13.5,0.8557,01053
+2018,1055,Etowah County,Alabama,13.8,0.6564,01055
+2018,1057,Fayette County,Alabama,9.4,0.7038,01057
+2018,1059,Franklin County,Alabama,9.5,0.8417,01059
+2018,1061,Geneva County,Alabama,11.2,0.7955,01061
+2018,1063,Greene County,Alabama,12.1,0.9854,01063
+2018,1065,Hale County,Alabama,10.4,0.9599,01065
+2018,1067,Henry County,Alabama,9.8,0.5519,01067
+2018,1069,Houston County,Alabama,14.2,0.6838,01069
+2018,1071,Jackson County,Alabama,10.5,0.5726,01071
+2018,1073,Jefferson County,Alabama,11.2,0.6621,01073
+2018,1075,Lamar County,Alabama,11.8,0.6264,01075
+2018,1077,Lauderdale County,Alabama,9.9,0.4468,01077
+2018,1079,Lawrence County,Alabama,9.1,0.4952,01079
+2018,1081,Lee County,Alabama,9.9,0.6602,01081
+2018,1083,Limestone County,Alabama,11.3,0.5296,01083
+2018,1085,Lowndes County,Alabama,11.8,0.9188,01085
+2018,1087,Macon County,Alabama,11.2,0.8971,01087
+2018,1089,Madison County,Alabama,10.7,0.3076,01089
+2018,1091,Marengo County,Alabama,12.8,0.7621,01091
+2018,1093,Marion County,Alabama,9.7,0.671,01093
+2018,1095,Marshall County,Alabama,9.8,0.7261,01095
+2018,1097,Mobile County,Alabama,11.9,0.7532,01097
+2018,1099,Monroe County,Alabama,11.6,0.7481,01099
+2018,1101,Montgomery County,Alabama,14.2,0.8427,01101
+2018,1103,Morgan County,Alabama,9.4,0.6895,01103
+2018,1105,Perry County,Alabama,13.4,0.9949,01105
+2018,1107,Pickens County,Alabama,10.9,0.9207,01107
+2018,1109,Pike County,Alabama,10.3,0.9016,01109
+2018,1111,Randolph County,Alabama,11,0.7191,01111
+2018,1113,Russell County,Alabama,10,0.9115,01113
+2018,1117,Shelby County,Alabama,8.8,0.1169,01117
+2018,1115,St. Clair County,Alabama,10.6,0.3656,01115
+2018,1119,Sumter County,Alabama,11.7,0.9557,01119
+2018,1121,Talladega County,Alabama,14.2,0.8736,01121
+2018,1123,Tallapoosa County,Alabama,10.6,0.8863,01123
+2018,1125,Tuscaloosa County,Alabama,11.8,0.6255,01125
+2018,1127,Walker County,Alabama,11.2,0.7452,01127
+2018,1129,Washington County,Alabama,11.2,0.7303,01129
+2018,1131,Wilcox County,Alabama,11.2,0.928,01131
+2018,1133,Winston County,Alabama,10.2,0.7025,01133
+2018,2013,Aleutians East Borough,Alaska,9.3,0.5803,02013
+2018,2016,Aleutians West Census Area,Alaska,7.9,0.4927,02016
+2018,2020,Anchorage Municipality,Alaska,8.8,0.4602,02020
+2018,2050,Bethel Census Area,Alaska,8,0.9748,02050
+2018,2060,Bristol Bay Borough,Alaska,9.1,0.3525,02060
+2018,2068,Denali Borough,Alaska,6.8,0.101,02068
+2018,2070,Dillingham Census Area,Alaska,8.2,0.8682,02070
+2018,2090,Fairbanks North Star Borough,Alaska,7.9,0.3446,02090
+2018,2100,Haines Borough,Alaska,7.3,0.207,02100
+2018,2105,Hoonah-Angoon Census Area,Alaska,7.3,0.4178,02105
+2018,2110,Juneau City and Borough,Alaska,6.3,0.2987,02110
+2018,2122,Kenai Peninsula Borough,Alaska,8.2,0.4073,02122
+2018,2130,Ketchikan Gateway Borough,Alaska,8.8,0.5548,02130
+2018,2150,Kodiak Island Borough,Alaska,7,0.7006,02150
+2018,2158,Kusilvak Census Area,Alaska,7.4,0.9334,02158
+2018,2164,Lake and Peninsula Borough,Alaska,8.5,0.7978,02164
+2018,2170,Matanuska-Susitna Borough,Alaska,8.2,0.3172,02170
+2018,2180,Nome Census Area,Alaska,7.8,0.9299,02180
+2018,2185,North Slope Borough,Alaska,7.5,0.7344,02185
+2018,2188,Northwest Arctic Borough,Alaska,11.6,0.9354,02188
+2018,2195,Petersburg Census Area,Alaska,9.2,0.665,02195
+2018,2198,Prince of Wales-Hyder Censu,Alaska,9.3,0.7662,02198
+2018,2220,Sitka City and Borough,Alaska,7.3,0.4022,02220
+2018,2230,Skagway Municipality,Alaska,6.6,0.1685,02230
+2018,2240,Southeast Fairbanks Census Area,Alaska,8.7,0.5838,02240
+2018,2261,Valdez-Cordova Census Area,Alaska,6.2,0.2704,02261
+2018,2275,Wrangell City and Borough,Alaska,8.4,0.5618,02275
+2018,2282,Yakutat City and Borough,Alaska,9,0.5873,02282
+2018,2290,Yukon-Koyukuk Census Area,Alaska,9.9,0.8812,02290
+2018,4001,Apache County,Arizona,12.3,0.9885,04001
+2018,4003,Cochise County,Arizona,7.8,0.9064,04003
+2018,4005,Coconino County,Arizona,6.9,0.7131,04005
+2018,4007,Gila County,Arizona,9,0.899,04007
+2018,4009,Graham County,Arizona,11,0.964,04009
+2018,4011,Greenlee County,Arizona,8.8,0.6188,04011
+2018,4012,La Paz County,Arizona,9.9,0.9236,04012
+2018,4013,Maricopa County,Arizona,8,0.6354,04013
+2018,4015,Mohave County,Arizona,9.4,0.8624,04015
+2018,4017,Navajo County,Arizona,11.5,0.9955,04017
+2018,4019,Pima County,Arizona,7.6,0.8828,04019
+2018,4021,Pinal County,Arizona,11.7,0.8592,04021
+2018,4023,Santa Cruz County,Arizona,9.4,0.9318,04023
+2018,4025,Yavapai County,Arizona,7.2,0.521,04025
+2018,4027,Yuma County,Arizona,9.5,0.9895,04027
+2018,5001,Arkansas County,Arkansas,10,0.7787,05001
+2018,5003,Ashley County,Arkansas,9.9,0.8576,05003
+2018,5005,Baxter County,Arkansas,9.1,0.2793,05005
+2018,5007,Benton County,Arkansas,9.1,0.2707,05007
+2018,5009,Boone County,Arkansas,8,0.4379,05009
+2018,5011,Bradley County,Arkansas,8.8,0.9803,05011
+2018,5013,Calhoun County,Arkansas,6.8,0.5481,05013
+2018,5015,Carroll County,Arkansas,6.5,0.5952,05015
+2018,5017,Chicot County,Arkansas,7.6,0.9968,05017
+2018,5019,Clark County,Arkansas,10.4,0.7892,05019
+2018,5021,Clay County,Arkansas,7.6,0.6529,05021
+2018,5023,Cleburne County,Arkansas,8.4,0.2083,05023
+2018,5025,Cleveland County,Arkansas,8.5,0.5643,05025
+2018,5027,Columbia County,Arkansas,13.6,0.9398,05027
+2018,5029,Conway County,Arkansas,9.4,0.7589,05029
+2018,5031,Craighead County,Arkansas,11.1,0.8041,05031
+2018,5033,Crawford County,Arkansas,10.7,0.6105,05033
+2018,5035,Crittenden County,Arkansas,12.7,0.9341,05035
+2018,5037,Cross County,Arkansas,10.9,0.7013,05037
+2018,5039,Dallas County,Arkansas,9.6,0.8777,05039
+2018,5041,Desha County,Arkansas,8.8,0.9596,05041
+2018,5043,Drew County,Arkansas,10.3,0.801,05043
+2018,5045,Faulkner County,Arkansas,10.3,0.4774,05045
+2018,5047,Franklin County,Arkansas,8.8,0.5943,05047
+2018,5049,Fulton County,Arkansas,7.1,0.6688,05049
+2018,5051,Garland County,Arkansas,10.2,0.828,05051
+2018,5053,Grant County,Arkansas,9,0.3541,05053
+2018,5055,Greene County,Arkansas,9.8,0.5834,05055
+2018,5057,Hempstead County,Arkansas,10.6,0.9468,05057
+2018,5059,Hot Spring County,Arkansas,10.5,0.8188,05059
+2018,5061,Howard County,Arkansas,8,0.9045,05061
+2018,5063,Independence County,Arkansas,7.6,0.7525,05063
+2018,5065,Izard County,Arkansas,9,0.5697,05065
+2018,5067,Jackson County,Arkansas,8.3,0.765,05067
+2018,5069,Jefferson County,Arkansas,11.9,0.9436,05069
+2018,5071,Johnson County,Arkansas,9.6,0.8768,05071
+2018,5073,Lafayette County,Arkansas,8.1,0.7898,05073
+2018,5075,Lawrence County,Arkansas,9.3,0.6471,05075
+2018,5077,Lee County,Arkansas,10,0.9656,05077
+2018,5079,Lincoln County,Arkansas,9.6,0.8134,05079
+2018,5081,Little River County,Arkansas,8.5,0.6306,05081
+2018,5083,Logan County,Arkansas,7.7,0.8045,05083
+2018,5085,Lonoke County,Arkansas,9.7,0.3309,05085
+2018,5087,Madison County,Arkansas,9.1,0.6535,05087
+2018,5089,Marion County,Arkansas,8,0.5175,05089
+2018,5091,Miller County,Arkansas,10.4,0.9124,05091
+2018,5093,Mississippi County,Arkansas,14.9,0.9554,05093
+2018,5095,Monroe County,Arkansas,8.2,0.8516,05095
+2018,5097,Montgomery County,Arkansas,7.9,0.7,05097
+2018,5099,Nevada County,Arkansas,9.6,0.8841,05099
+2018,5101,Newton County,Arkansas,9.7,0.2815,05101
+2018,5103,Ouachita County,Arkansas,11.1,0.8656,05103
+2018,5105,Perry County,Arkansas,8.9,0.636,05105
+2018,5107,Phillips County,Arkansas,13.6,0.9239,05107
+2018,5109,Pike County,Arkansas,10,0.7124,05109
+2018,5111,Poinsett County,Arkansas,11.7,0.8268,05111
+2018,5113,Polk County,Arkansas,8.6,0.8949,05113
+2018,5115,Pope County,Arkansas,11.5,0.7936,05115
+2018,5117,Prairie County,Arkansas,7.7,0.6548,05117
+2018,5119,Pulaski County,Arkansas,10.8,0.6287,05119
+2018,5121,Randolph County,Arkansas,11,0.7166,05121
+2018,5125,Saline County,Arkansas,8.7,0.3325,05125
+2018,5127,Scott County,Arkansas,7.7,0.8873,05127
+2018,5129,Searcy County,Arkansas,9.5,0.4376,05129
+2018,5131,Sebastian County,Arkansas,11,0.8328,05131
+2018,5133,Sevier County,Arkansas,11.7,0.7675,05133
+2018,5135,Sharp County,Arkansas,9.2,0.6191,05135
+2018,5123,St. Francis County,Arkansas,11.4,0.9691,05123
+2018,5137,Stone County,Arkansas,8.6,0.5102,05137
+2018,5139,Union County,Arkansas,10.4,0.8054,05139
+2018,5141,Van Buren County,Arkansas,9.1,0.7226,05141
+2018,5143,Washington County,Arkansas,9.9,0.6745,05143
+2018,5145,White County,Arkansas,11.9,0.7446,05145
+2018,5147,Woodruff County,Arkansas,8.5,0.849,05147
+2018,5149,Yell County,Arkansas,9.5,0.8783,05149
+2018,6001,Alameda County,California,6.6,0.4701,06001
+2018,6003,Alpine County,California,7.3,0.7287,06003
+2018,6005,Amador County,California,8.3,0.5334,06005
+2018,6007,Butte County,California,8.9,0.8064,06007
+2018,6009,Calaveras County,California,7.2,0.235,06009
+2018,6011,Colusa County,California,7.1,0.7436,06011
+2018,6013,Contra Costa County,California,7.6,0.4057,06013
+2018,6015,Del Norte County,California,8.1,0.9713,06015
+2018,6017,El Dorado County,California,6.4,0.1838,06017
+2018,6019,Fresno County,California,9.6,0.9611,06019
+2018,6021,Glenn County,California,7,0.8895,06021
+2018,6023,Humboldt County,California,7.4,0.7605,06023
+2018,6025,Imperial County,California,9.5,0.9978,06025
+2018,6027,Inyo County,California,7.1,0.5701,06027
+2018,6029,Kern County,California,10.5,0.9659,06029
+2018,6031,Kings County,California,10.5,0.9707,06031
+2018,6033,Lake County,California,8.2,0.9178,06033
+2018,6035,Lassen County,California,7.7,0.5997,06035
+2018,6037,Los Angeles County,California,9.1,0.7682,06037
+2018,6039,Madera County,California,9.4,0.9541,06039
+2018,6041,Marin County,California,6,0.2701,06041
+2018,6043,Mariposa County,California,7.4,0.5293,06043
+2018,6045,Mendocino County,California,8.3,0.8818,06045
+2018,6047,Merced County,California,11.3,0.9717,06047
+2018,6049,Modoc County,California,7.5,0.7516,06049
+2018,6051,Mono County,California,6.8,0.1408,06051
+2018,6053,Monterey County,California,8.2,0.799,06053
+2018,6055,Napa County,California,7.5,0.5051,06055
+2018,6057,Nevada County,California,5.1,0.2045,06057
+2018,6059,Orange County,California,8,0.4191,06059
+2018,6061,Placer County,California,6,0.1519,06061
+2018,6063,Plumas County,California,6.9,0.2653,06063
+2018,6065,Riverside County,California,9.6,0.7939,06065
+2018,6067,Sacramento County,California,8.9,0.7338,06067
+2018,6069,San Benito County,California,7.8,0.5245,06069
+2018,6071,San Bernardino County,California,11.1,0.901,06071
+2018,6073,San Diego County,California,7.8,0.5596,06073
+2018,6075,San Francisco County,California,6.6,0.3911,06075
+2018,6077,San Joaquin County,California,9.9,0.8892,06077
+2018,6079,San Luis Obispo County,California,7.8,0.3739,06079
+2018,6081,San Mateo County,California,7.4,0.265,06081
+2018,6083,Santa Barbara County,California,6.8,0.7111,06083
+2018,6085,Santa Clara County,California,8.3,0.3557,06085
+2018,6087,Santa Cruz County,California,5.7,0.543,06087
+2018,6089,Shasta County,California,8,0.7022,06089
+2018,6091,Sierra County,California,6.9,0.0452,06091
+2018,6093,Siskiyou County,California,6.6,0.7223,06093
+2018,6095,Solano County,California,8.1,0.5911,06095
+2018,6097,Sonoma County,California,7.8,0.4035,06097
+2018,6099,Stanislaus County,California,9.4,0.8675,06099
+2018,6101,Sutter County,California,9.6,0.8822,06101
+2018,6103,Tehama County,California,7.7,0.9624,06103
+2018,6105,Trinity County,California,6.9,0.7411,06105
+2018,6107,Tulare County,California,10.2,0.9417,06107
+2018,6109,Tuolumne County,California,6.7,0.4688,06109
+2018,6111,Ventura County,California,7.6,0.4828,06111
+2018,6113,Yolo County,California,7.8,0.6768,06113
+2018,6115,Yuba County,California,8,0.942,06115
+2018,8001,Adams County,Colorado,7.7,0.5892,08001
+2018,8003,Alamosa County,Colorado,8.1,0.9452,08003
+2018,8005,Arapahoe County,Colorado,7.1,0.2662,08005
+2018,8007,Archuleta County,Colorado,5.6,0.257,08007
+2018,8009,Baca County,Colorado,7.6,0.6086,08009
+2018,8011,Bent County,Colorado,7.4,0.8981,08011
+2018,8013,Boulder County,Colorado,5.5,0.1704,08013
+2018,8014,Broomfield County,Colorado,6.1,0.049,08014
+2018,8015,Chaffee County,Colorado,6.1,0.2389,08015
+2018,8017,Cheyenne County,Colorado,7.3,0.2589,08017
+2018,8019,Clear Creek County,Colorado,6.8,0.0197,08019
+2018,8021,Conejos County,Colorado,8.1,0.9325,08021
+2018,8023,Costilla County,Colorado,8.7,0.9379,08023
+2018,8025,Crowley County,Colorado,7.5,0.893,08025
+2018,8027,Custer County,Colorado,6.3,0.2433,08027
+2018,8029,Delta County,Colorado,7,0.6866,08029
+2018,8031,Denver County,Colorado,6.3,0.4197,08031
+2018,8033,Dolores County,Colorado,6.9,0.1516,08033
+2018,8035,Douglas County,Colorado,5.5,0.015,08035
+2018,8037,Eagle County,Colorado,5.2,0.1369,08037
+2018,8041,El Paso County,Colorado,6.6,0.3927,08041
+2018,8039,Elbert County,Colorado,5.3,0,08039
+2018,8043,Fremont County,Colorado,7.6,0.6525,08043
+2018,8045,Garfield County,Colorado,5.7,0.351,08045
+2018,8047,Gilpin County,Colorado,6.5,0.0022,08047
+2018,8049,Grand County,Colorado,5.6,0.0987,08049
+2018,8051,Gunnison County,Colorado,6.1,0.1392,08051
+2018,8053,Hinsdale County,Colorado,6.9,0.0624,08053
+2018,8055,Huerfano County,Colorado,7,0.5955,08055
+2018,8057,Jackson County,Colorado,7.4,0.1137,08057
+2018,8059,Jefferson County,Colorado,5.7,0.0627,08059
+2018,8061,Kiowa County,Colorado,6.8,0.3188,08061
+2018,8063,Kit Carson County,Colorado,6.9,0.5153,08063
+2018,8067,La Plata County,Colorado,5.4,0.1086,08067
+2018,8065,Lake County,Colorado,6.8,0.4452,08065
+2018,8069,Larimer County,Colorado,5.3,0.1194,08069
+2018,8071,Las Animas County,Colorado,9.3,0.8373,08071
+2018,8073,Lincoln County,Colorado,6.8,0.4857,08073
+2018,8075,Logan County,Colorado,8.1,0.628,08075
+2018,8077,Mesa County,Colorado,7.1,0.5755,08077
+2018,8079,Mineral County,Colorado,6.7,0.0261,08079
+2018,8081,Moffat County,Colorado,7.1,0.5471,08081
+2018,8083,Montezuma County,Colorado,8.6,0.4946,08083
+2018,8085,Montrose County,Colorado,6.8,0.7153,08085
+2018,8087,Morgan County,Colorado,7,0.7414,08087
+2018,8089,Otero County,Colorado,8.5,0.9561,08089
+2018,8091,Ouray County,Colorado,6.7,0.0239,08091
+2018,8093,Park County,Colorado,5.9,0.0006,08093
+2018,8095,Phillips County,Colorado,6.9,0.2955,08095
+2018,8097,Pitkin County,Colorado,5.9,0.0656,08097
+2018,8099,Prowers County,Colorado,7.8,0.9392,08099
+2018,8101,Pueblo County,Colorado,9.1,0.8669,08101
+2018,8103,Rio Blanco County,Colorado,6.3,0.3401,08103
+2018,8105,Rio Grande County,Colorado,7.6,0.9586,08105
+2018,8107,Routt County,Colorado,5.9,0.0634,08107
+2018,8109,Saguache County,Colorado,8.2,0.807,08109
+2018,8111,San Juan County,Colorado,7,0.1283,08111
+2018,8113,San Miguel County,Colorado,6.5,0.0331,08113
+2018,8115,Sedgwick County,Colorado,6.8,0.6936,08115
+2018,8117,Summit County,Colorado,5.6,0.0707,08117
+2018,8119,Teller County,Colorado,5.7,0.0729,08119
+2018,8121,Washington County,Colorado,7.5,0.2822,08121
+2018,8123,Weld County,Colorado,8,0.3994,08123
+2018,8125,Yuma County,Colorado,6.8,0.5637,08125
+2018,9001,Fairfield County,Connecticut,6.4,0.4497,09001
+2018,9003,Hartford County,Connecticut,8.7,0.515,09003
+2018,9005,Litchfield County,Connecticut,6.2,0.0818,09005
+2018,9007,Middlesex County,Connecticut,6.5,0.1182,09007
+2018,9009,New Haven County,Connecticut,8.8,0.5223,09009
+2018,9011,New London County,Connecticut,8.3,0.3561,09011
+2018,9013,Tolland County,Connecticut,7.2,0.0694,09013
+2018,9015,Windham County,Connecticut,9.6,0.4232,09015
+2018,10001,Kent County,Delaware,12.4,0.7268,10001
+2018,10003,New Castle County,Delaware,9.5,0.3761,10003
+2018,10005,Sussex County,Delaware,9.4,0.4019,10005
+2018,11001,District Of Columbia,District of Columbia,8.7,0.5965,11001
+2018,12001,Alachua County,Florida,10,0.4729,12001
+2018,12003,Baker County,Florida,11.5,0.6803,12003
+2018,12005,Bay County,Florida,10.7,0.6076,12005
+2018,12007,Bradford County,Florida,10.2,0.9264,12007
+2018,12009,Brevard County,Florida,9.6,0.3713,12009
+2018,12011,Broward County,Florida,8.5,0.5844,12011
+2018,12013,Calhoun County,Florida,13,0.8401,12013
+2018,12015,Charlotte County,Florida,7.9,0.4889,12015
+2018,12017,Citrus County,Florida,7.8,0.6022,12017
+2018,12019,Clay County,Florida,10.5,0.3803,12019
+2018,12021,Collier County,Florida,7,0.4618,12021
+2018,12023,Columbia County,Florida,12.4,0.8596,12023
+2018,12027,Desoto County,Florida,11.2,0.9618,12027
+2018,12029,Dixie County,Florida,10.4,0.8994,12029
+2018,12031,Duval County,Florida,12.3,0.692,12031
+2018,12033,Escambia County,Florida,10.6,0.4863,12033
+2018,12035,Flagler County,Florida,8.7,0.2799,12035
+2018,12037,Franklin County,Florida,8.8,0.8083,12037
+2018,12039,Gadsden County,Florida,16.1,0.9901,12039
+2018,12041,Gilchrist County,Florida,10.6,0.7567,12041
+2018,12043,Glades County,Florida,13.4,0.9048,12043
+2018,12045,Gulf County,Florida,10,0.592,12045
+2018,12047,Hamilton County,Florida,12,0.9908,12047
+2018,12049,Hardee County,Florida,12.3,0.9831,12049
+2018,12051,Hendry County,Florida,11.5,0.9939,12051
+2018,12053,Hernando County,Florida,10,0.549,12053
+2018,12055,Highlands County,Florida,10.5,0.8729,12055
+2018,12057,Hillsborough County,Florida,9.8,0.6701,12057
+2018,12059,Holmes County,Florida,12.1,0.9347,12059
+2018,12061,Indian River County,Florida,7.8,0.3962,12061
+2018,12063,Jackson County,Florida,13.9,0.9583,12063
+2018,12065,Jefferson County,Florida,10.3,0.5748,12065
+2018,12067,Lafayette County,Florida,10.6,0.9806,12067
+2018,12069,Lake County,Florida,9.2,0.6029,12069
+2018,12071,Lee County,Florida,7.4,0.5525,12071
+2018,12073,Leon County,Florida,7.9,0.4943,12073
+2018,12075,Levy County,Florida,11.8,0.7793,12075
+2018,12077,Liberty County,Florida,11.2,0.8334,12077
+2018,12079,Madison County,Florida,12,0.9608,12079
+2018,12081,Manatee County,Florida,8,0.5197,12081
+2018,12083,Marion County,Florida,11.5,0.7535,12083
+2018,12085,Martin County,Florida,6.9,0.399,12085
+2018,12086,Miami-Dade County,Florida,7.1,0.8175,12086
+2018,12087,Monroe County,Florida,6.7,0.4557,12087
+2018,12089,Nassau County,Florida,8.3,0.2459,12089
+2018,12091,Okaloosa County,Florida,10.3,0.386,12091
+2018,12093,Okeechobee County,Florida,10.6,0.9465,12093
+2018,12095,Orange County,Florida,8.9,0.6691,12095
+2018,12097,Osceola County,Florida,11.1,0.8178,12097
+2018,12099,Palm Beach County,Florida,9,0.5592,12099
+2018,12101,Pasco County,Florida,9.1,0.6344,12101
+2018,12103,Pinellas County,Florida,7.7,0.5169,12103
+2018,12105,Polk County,Florida,10.8,0.9035,12105
+2018,12107,Putnam County,Florida,13.4,0.9525,12107
+2018,12113,Santa Rosa County,Florida,10.4,0.3096,12113
+2018,12115,Sarasota County,Florida,6.5,0.2538,12115
+2018,12117,Seminole County,Florida,8.7,0.1844,12117
+2018,12109,St. Johns County,Florida,6.8,0.0761,12109
+2018,12111,St. Lucie County,Florida,9.5,0.7185,12111
+2018,12119,Sumter County,Florida,9.4,0.236,12119
+2018,12121,Suwannee County,Florida,10.9,0.9424,12121
+2018,12123,Taylor County,Florida,11.1,0.8984,12123
+2018,12125,Union County,Florida,11.4,0.8382,12125
+2018,12127,Volusia County,Florida,10.4,0.5347,12127
+2018,12129,Wakulla County,Florida,8.5,0.4032,12129
+2018,12131,Walton County,Florida,9.6,0.5822,12131
+2018,12133,Washington County,Florida,11.2,0.8939,12133
+2018,13001,Appling County,Georgia,9,0.9669,13001
+2018,13003,Atkinson County,Georgia,8,0.9615,13003
+2018,13005,Bacon County,Georgia,7.2,0.9389,13005
+2018,13007,Baker County,Georgia,7.8,0.7424,13007
+2018,13009,Baldwin County,Georgia,9.7,0.8666,13009
+2018,13011,Banks County,Georgia,7.7,0.5586,13011
+2018,13013,Barrow County,Georgia,8.8,0.4204,13013
+2018,13015,Bartow County,Georgia,8.6,0.5914,13015
+2018,13017,Ben Hill County,Georgia,8.6,0.8726,13017
+2018,13019,Berrien County,Georgia,9.1,0.85,13019
+2018,13021,Bibb County,Georgia,14,0.9175,13021
+2018,13023,Bleckley County,Georgia,6.9,0.7395,13023
+2018,13025,Brantley County,Georgia,7.3,0.6229,13025
+2018,13027,Brooks County,Georgia,7.4,0.8398,13027
+2018,13029,Bryan County,Georgia,9.2,0.3389,13029
+2018,13031,Bulloch County,Georgia,10.1,0.8121,13031
+2018,13033,Burke County,Georgia,10.4,0.8455,13033
+2018,13035,Butts County,Georgia,9.7,0.7653,13035
+2018,13037,Calhoun County,Georgia,8.5,0.9774,13037
+2018,13039,Camden County,Georgia,9.4,0.5159,13039
+2018,13043,Candler County,Georgia,8.2,0.9828,13043
+2018,13045,Carroll County,Georgia,11.9,0.7825,13045
+2018,13047,Catoosa County,Georgia,10.8,0.1318,13047
+2018,13049,Charlton County,Georgia,8,0.8752,13049
+2018,13051,Chatham County,Georgia,9.7,0.6949,13051
+2018,13053,Chattahoochee County,Georgia,7.9,0.6379,13053
+2018,13055,Chattooga County,Georgia,8.5,0.9252,13055
+2018,13057,Cherokee County,Georgia,8.9,0.1185,13057
+2018,13059,Clarke County,Georgia,8.3,0.7675,13059
+2018,13061,Clay County,Georgia,8.9,0.9309,13061
+2018,13063,Clayton County,Georgia,12.3,0.9102,13063
+2018,13065,Clinch County,Georgia,7.2,0.9777,13065
+2018,13067,Cobb County,Georgia,8.4,0.2669,13067
+2018,13069,Coffee County,Georgia,12.1,0.9506,13069
+2018,13071,Colquitt County,Georgia,10.4,0.9812,13071
+2018,13073,Columbia County,Georgia,9.6,0.1334,13073
+2018,13075,Cook County,Georgia,9.5,0.851,13075
+2018,13077,Coweta County,Georgia,11.4,0.2427,13077
+2018,13079,Crawford County,Georgia,8.8,0.6815,13079
+2018,13081,Crisp County,Georgia,9.6,0.9857,13081
+2018,13083,Dade County,Georgia,7.8,0.5156,13083
+2018,13085,Dawson County,Georgia,7.8,0.1038,13085
+2018,13087,Decatur County,Georgia,10.2,0.9455,13087
+2018,13089,Dekalb County,Georgia,11.3,0.6611,13089
+2018,13091,Dodge County,Georgia,10.2,0.9223,13091
+2018,13093,Dooly County,Georgia,10.9,0.9484,13093
+2018,13095,Dougherty County,Georgia,12.6,0.9513,13095
+2018,13097,Douglas County,Georgia,10.8,0.5404,13097
+2018,13099,Early County,Georgia,8.9,0.9201,13099
+2018,13101,Echols County,Georgia,7.3,0.6615,13101
+2018,13103,Effingham County,Georgia,8.8,0.2363,13103
+2018,13105,Elbert County,Georgia,8.8,0.8338,13105
+2018,13107,Emanuel County,Georgia,10,0.9768,13107
+2018,13109,Evans County,Georgia,7.1,0.9847,13109
+2018,13111,Fannin County,Georgia,7.7,0.3003,13111
+2018,13113,Fayette County,Georgia,6.8,0.0608,13113
+2018,13115,Floyd County,Georgia,11.4,0.8854,13115
+2018,13117,Forsyth County,Georgia,7.4,0.0373,13117
+2018,13119,Franklin County,Georgia,7.5,0.8462,13119
+2018,13121,Fulton County,Georgia,8.4,0.5268,13121
+2018,13123,Gilmer County,Georgia,7.4,0.5599,13123
+2018,13125,Glascock County,Georgia,7,0.686,13125
+2018,13127,Glynn County,Georgia,7.5,0.7159,13127
+2018,13129,Gordon County,Georgia,9,0.8806,13129
+2018,13131,Grady County,Georgia,11.2,0.9258,13131
+2018,13133,Greene County,Georgia,7.8,0.5379,13133
+2018,13135,Gwinnett County,Georgia,9.7,0.4347,13135
+2018,13137,Habersham County,Georgia,7.6,0.7146,13137
+2018,13139,Hall County,Georgia,9.8,0.6618,13139
+2018,13141,Hancock County,Georgia,8.6,0.7984,13141
+2018,13143,Haralson County,Georgia,5.9,0.5427,13143
+2018,13145,Harris County,Georgia,10.1,0.1341,13145
+2018,13147,Hart County,Georgia,7.8,0.7194,13147
+2018,13149,Heard County,Georgia,7.9,0.7232,13149
+2018,13151,Henry County,Georgia,11.6,0.3137,13151
+2018,13153,Houston County,Georgia,11.5,0.5669,13153
+2018,13155,Irwin County,Georgia,8.5,0.8408,13155
+2018,13157,Jackson County,Georgia,8.5,0.3516,13157
+2018,13159,Jasper County,Georgia,8.2,0.6927,13159
+2018,13161,Jeff Davis County,Georgia,7.8,0.9373,13161
+2018,13163,Jefferson County,Georgia,8.4,0.9439,13163
+2018,13165,Jenkins County,Georgia,8.2,0.8283,13165
+2018,13167,Johnson County,Georgia,8.5,0.9061,13167
+2018,13169,Jones County,Georgia,10.8,0.3793,13169
+2018,13171,Lamar County,Georgia,7.7,0.4917,13171
+2018,13173,Lanier County,Georgia,8.8,0.8697,13173
+2018,13175,Laurens County,Georgia,13.2,0.8013,13175
+2018,13177,Lee County,Georgia,9.7,0.3519,13177
+2018,13179,Liberty County,Georgia,11.1,0.8882,13179
+2018,13181,Lincoln County,Georgia,8.8,0.5564,13181
+2018,13183,Long County,Georgia,8.9,0.8271,13183
+2018,13185,Lowndes County,Georgia,14.4,0.8662,13185
+2018,13187,Lumpkin County,Georgia,7.3,0.4338,13187
+2018,13193,Macon County,Georgia,10.7,0.9312,13193
+2018,13195,Madison County,Georgia,8.9,0.6417,13195
+2018,13197,Marion County,Georgia,8,0.8519,13197
+2018,13189,Mcduffie County,Georgia,8.8,0.9376,13189
+2018,13191,Mcintosh County,Georgia,11.2,0.5863,13191
+2018,13199,Meriwether County,Georgia,8.9,0.8701,13199
+2018,13201,Miller County,Georgia,7,0.7799,13201
+2018,13205,Mitchell County,Georgia,9,0.9879,13205
+2018,13207,Monroe County,Georgia,8.9,0.4596,13207
+2018,13209,Montgomery County,Georgia,7.9,0.8465,13209
+2018,13211,Morgan County,Georgia,8.1,0.2446,13211
+2018,13213,Murray County,Georgia,10.8,0.7134,13213
+2018,13215,Muscogee County,Georgia,12.9,0.9003,13215
+2018,13217,Newton County,Georgia,14,0.707,13217
+2018,13219,Oconee County,Georgia,6.7,0.0354,13219
+2018,13221,Oglethorpe County,Georgia,7.8,0.5217,13221
+2018,13223,Paulding County,Georgia,8.1,0.1376,13223
+2018,13225,Peach County,Georgia,8.9,0.9404,13225
+2018,13227,Pickens County,Georgia,9.7,0.2796,13227
+2018,13229,Pierce County,Georgia,8.2,0.657,13229
+2018,13231,Pike County,Georgia,9,0.151,13231
+2018,13233,Polk County,Georgia,10,0.8048,13233
+2018,13235,Pulaski County,Georgia,8.7,0.8459,13235
+2018,13237,Putnam County,Georgia,8.5,0.428,13237
+2018,13239,Quitman County,Georgia,7.9,0.9433,13239
+2018,13241,Rabun County,Georgia,7.7,0.5341,13241
+2018,13243,Randolph County,Georgia,8.1,0.9739,13243
+2018,13245,Richmond County,Georgia,13.8,0.9328,13245
+2018,13247,Rockdale County,Georgia,10.1,0.5529,13247
+2018,13249,Schley County,Georgia,7.6,0.8248,13249
+2018,13251,Screven County,Georgia,10.1,0.8525,13251
+2018,13253,Seminole County,Georgia,7.1,0.8344,13253
+2018,13255,Spalding County,Georgia,9.5,0.8691,13255
+2018,13257,Stephens County,Georgia,8.7,0.7968,13257
+2018,13259,Stewart County,Georgia,8.4,0.9245,13259
+2018,13261,Sumter County,Georgia,13.6,0.9764,13261
+2018,13263,Talbot County,Georgia,8,0.8589,13263
+2018,13265,Taliaferro County,Georgia,8.4,0.9089,13265
+2018,13267,Tattnall County,Georgia,9.3,0.908,13267
+2018,13269,Taylor County,Georgia,8.7,0.9197,13269
+2018,13271,Telfair County,Georgia,11.7,0.8369,13271
+2018,13273,Terrell County,Georgia,7.9,0.957,13273
+2018,13275,Thomas County,Georgia,7.6,0.9108,13275
+2018,13277,Tift County,Georgia,9.2,0.8809,13277
+2018,13279,Toombs County,Georgia,10,0.9761,13279
+2018,13281,Towns County,Georgia,7.2,0.3258,13281
+2018,13283,Treutlen County,Georgia,7.2,0.9471,13283
+2018,13285,Troup County,Georgia,10.2,0.9013,13285
+2018,13287,Turner County,Georgia,9.3,0.9809,13287
+2018,13289,Twiggs County,Georgia,8.6,0.758,13289
+2018,13291,Union County,Georgia,7,0.3115,13291
+2018,13293,Upson County,Georgia,7.3,0.8532,13293
+2018,13295,Walker County,Georgia,12.2,0.6408,13295
+2018,13297,Walton County,Georgia,9.8,0.293,13297
+2018,13299,Ware County,Georgia,9.4,0.8449,13299
+2018,13301,Warren County,Georgia,8.9,0.8946,13301
+2018,13303,Washington County,Georgia,8.8,0.9462,13303
+2018,13305,Wayne County,Georgia,10.1,0.9166,13305
+2018,13307,Webster County,Georgia,7.8,0.7876,13307
+2018,13309,Wheeler County,Georgia,7.9,0.8124,13309
+2018,13311,White County,Georgia,7.4,0.2357,13311
+2018,13313,Whitfield County,Georgia,12.2,0.8793,13313
+2018,13315,Wilcox County,Georgia,9.9,0.8169,13315
+2018,13317,Wilkes County,Georgia,8.1,0.7561,13317
+2018,13319,Wilkinson County,Georgia,7.1,0.7873,13319
+2018,13321,Worth County,Georgia,8.5,0.7357,13321
+2018,15001,Hawaii County,Hawaii,8.9,0.5771,15001
+2018,15003,Honolulu County,Hawaii,10.4,0.472,15003
+2018,15005,Kalawao County,Hawaii,8.4,0.3162,15005
+2018,15007,Kauai County,Hawaii,7.9,0.3099,15007
+2018,15009,Maui County,Hawaii,8.1,0.3879,15009
+2018,16001,Ada County,Idaho,6.9,0.1373,16001
+2018,16003,Adams County,Idaho,8.5,0.2936,16003
+2018,16005,Bannock County,Idaho,9.8,0.579,16005
+2018,16007,Bear Lake County,Idaho,7.1,0.2143,16007
+2018,16009,Benewah County,Idaho,7.5,0.7334,16009
+2018,16011,Bingham County,Idaho,9.4,0.507,16011
+2018,16013,Blaine County,Idaho,5.1,0.3239,16013
+2018,16015,Boise County,Idaho,8.5,0.0672,16015
+2018,16017,Bonner County,Idaho,6.8,0.2401,16017
+2018,16019,Bonneville County,Idaho,9.4,0.3634,16019
+2018,16021,Boundary County,Idaho,7.6,0.3083,16021
+2018,16023,Butte County,Idaho,7.2,0.2462,16023
+2018,16025,Camas County,Idaho,7.3,0.1338,16025
+2018,16027,Canyon County,Idaho,10.2,0.7366,16027
+2018,16029,Caribou County,Idaho,8.7,0.1917,16029
+2018,16031,Cassia County,Idaho,9.5,0.6732,16031
+2018,16033,Clark County,Idaho,6.7,0.8911,16033
+2018,16035,Clearwater County,Idaho,9.1,0.4401,16035
+2018,16037,Custer County,Idaho,7.2,0.4369,16037
+2018,16039,Elmore County,Idaho,7.4,0.5882,16039
+2018,16041,Franklin County,Idaho,7,0.1414,16041
+2018,16043,Fremont County,Idaho,7,0.5137,16043
+2018,16045,Gem County,Idaho,8.8,0.6627,16045
+2018,16047,Gooding County,Idaho,7.6,0.7076,16047
+2018,16049,Idaho County,Idaho,7.2,0.5392,16049
+2018,16051,Jefferson County,Idaho,8,0.2525,16051
+2018,16053,Jerome County,Idaho,7,0.6736,16053
+2018,16055,Kootenai County,Idaho,8,0.2328,16055
+2018,16057,Latah County,Idaho,7,0.2484,16057
+2018,16059,Lemhi County,Idaho,7.3,0.2997,16059
+2018,16061,Lewis County,Idaho,7.5,0.5678,16061
+2018,16063,Lincoln County,Idaho,8.3,0.5576,16063
+2018,16065,Madison County,Idaho,8.4,0.4029,16065
+2018,16067,Minidoka County,Idaho,8.7,0.6783,16067
+2018,16069,Nez Perce County,Idaho,8.8,0.5067,16069
+2018,16071,Oneida County,Idaho,8.3,0.3424,16071
+2018,16073,Owyhee County,Idaho,10.6,0.8245,16073
+2018,16075,Payette County,Idaho,7.8,0.601,16075
+2018,16077,Power County,Idaho,7.1,0.5162,16077
+2018,16079,Shoshone County,Idaho,7.9,0.757,16079
+2018,16081,Teton County,Idaho,6.6,0.1344,16081
+2018,16083,Twin Falls County,Idaho,9.8,0.4955,16083
+2018,16085,Valley County,Idaho,7,0.0882,16085
+2018,16087,Washington County,Idaho,8,0.8506,16087
+2018,17001,Adams County,Illinois,8.9,0.249,17001
+2018,17003,Alexander County,Illinois,7.5,0.9573,17003
+2018,17005,Bond County,Illinois,7.6,0.3732,17005
+2018,17007,Boone County,Illinois,6.9,0.4697,17007
+2018,17009,Brown County,Illinois,7.2,0.4745,17009
+2018,17011,Bureau County,Illinois,7.6,0.2863,17011
+2018,17013,Calhoun County,Illinois,6.9,0.1901,17013
+2018,17015,Carroll County,Illinois,6.7,0.1682,17015
+2018,17017,Cass County,Illinois,6.7,0.6971,17017
+2018,17019,Champaign County,Illinois,8.4,0.499,17019
+2018,17021,Christian County,Illinois,7.6,0.2408,17021
+2018,17023,Clark County,Illinois,7.9,0.2073,17023
+2018,17025,Clay County,Illinois,7.7,0.6115,17025
+2018,17027,Clinton County,Illinois,7.2,0.1787,17027
+2018,17029,Coles County,Illinois,9.5,0.4978,17029
+2018,17031,Cook County,Illinois,9,0.6755,17031
+2018,17033,Crawford County,Illinois,7.4,0.3838,17033
+2018,17035,Cumberland County,Illinois,7.9,0.1627,17035
+2018,17039,De Witt County,Illinois,7.2,0.129,17039
+2018,17037,Dekalb County,Illinois,6.7,0.4866,17037
+2018,17041,Douglas County,Illinois,7.6,0.4439,17041
+2018,17043,Dupage County,Illinois,6.3,0.1611,17043
+2018,17045,Edgar County,Illinois,7.2,0.3433,17045
+2018,17047,Edwards County,Illinois,6.6,0.2443,17047
+2018,17049,Effingham County,Illinois,7.2,0.199,17049
+2018,17051,Fayette County,Illinois,8.1,0.5949,17051
+2018,17053,Ford County,Illinois,6.7,0.3051,17053
+2018,17055,Franklin County,Illinois,8.4,0.6092,17055
+2018,17057,Fulton County,Illinois,6.5,0.5761,17057
+2018,17059,Gallatin County,Illinois,6.8,0.4538,17059
+2018,17061,Greene County,Illinois,6.8,0.1952,17061
+2018,17063,Grundy County,Illinois,7.4,0.0844,17063
+2018,17065,Hamilton County,Illinois,6.8,0.1529,17065
+2018,17067,Hancock County,Illinois,6.8,0.1232,17067
+2018,17069,Hardin County,Illinois,6.8,0.5019,17069
+2018,17071,Henderson County,Illinois,7.3,0.0669,17071
+2018,17073,Henry County,Illinois,7.9,0.201,17073
+2018,17075,Iroquois County,Illinois,7.4,0.3404,17075
+2018,17077,Jackson County,Illinois,7.8,0.7045,17077
+2018,17079,Jasper County,Illinois,6.9,0.2417,17079
+2018,17081,Jefferson County,Illinois,8,0.8108,17081
+2018,17083,Jersey County,Illinois,7.1,0.1041,17083
+2018,17085,Jo Daviess County,Illinois,8.2,0.0525,17085
+2018,17087,Johnson County,Illinois,7,0.4624,17087
+2018,17089,Kane County,Illinois,8.1,0.4169,17089
+2018,17091,Kankakee County,Illinois,9.5,0.6656,17091
+2018,17093,Kendall County,Illinois,9.1,0.1398,17093
+2018,17095,Knox County,Illinois,8.4,0.6462,17095
+2018,17097,Lake County,Illinois,7.5,0.3513,17097
+2018,17099,Lasalle County,Illinois,8.1,0.4303,17099
+2018,17101,Lawrence County,Illinois,8.1,0.7783,17101
+2018,17103,Lee County,Illinois,6.8,0.301,17103
+2018,17105,Livingston County,Illinois,7.2,0.4841,17105
+2018,17107,Logan County,Illinois,7,0.2271,17107
+2018,17115,Macon County,Illinois,8,0.5971,17115
+2018,17117,Macoupin County,Illinois,7.4,0.1987,17117
+2018,17119,Madison County,Illinois,8.9,0.2965,17119
+2018,17121,Marion County,Illinois,8.1,0.7385,17121
+2018,17123,Marshall County,Illinois,7.3,0.0545,17123
+2018,17125,Mason County,Illinois,7.1,0.2946,17125
+2018,17127,Massac County,Illinois,8,0.7513,17127
+2018,17109,Mcdonough County,Illinois,7.6,0.5166,17109
+2018,17111,Mchenry County,Illinois,7.3,0.0701,17111
+2018,17113,Mclean County,Illinois,8.1,0.1904,17113
+2018,17129,Menard County,Illinois,7.1,0.0484,17129
+2018,17131,Mercer County,Illinois,6.8,0.1134,17131
+2018,17133,Monroe County,Illinois,7.2,0.0016,17133
+2018,17135,Montgomery County,Illinois,6.7,0.3914,17135
+2018,17137,Morgan County,Illinois,7.9,0.5045,17137
+2018,17139,Moultrie County,Illinois,7.3,0.2949,17139
+2018,17141,Ogle County,Illinois,7.1,0.2917,17141
+2018,17143,Peoria County,Illinois,8.9,0.6131,17143
+2018,17145,Perry County,Illinois,7.2,0.6487,17145
+2018,17147,Piatt County,Illinois,7.2,0.0032,17147
+2018,17149,Pike County,Illinois,7.4,0.3494,17149
+2018,17151,Pope County,Illinois,7.2,0.4545,17151
+2018,17153,Pulaski County,Illinois,8.1,0.6943,17153
+2018,17155,Putnam County,Illinois,6.9,0.0277,17155
+2018,17157,Randolph County,Illinois,6.9,0.4567,17157
+2018,17159,Richland County,Illinois,7.3,0.4105,17159
+2018,17161,Rock Island County,Illinois,9.3,0.7137,17161
+2018,17165,Saline County,Illinois,6.9,0.8637,17165
+2018,17167,Sangamon County,Illinois,7.7,0.4357,17167
+2018,17169,Schuyler County,Illinois,6.9,0.5707,17169
+2018,17171,Scott County,Illinois,7.3,0.1354,17171
+2018,17173,Shelby County,Illinois,7.3,0.085,17173
+2018,17163,St. Clair County,Illinois,7.7,0.5229,17163
+2018,17175,Stark County,Illinois,7.2,0.0634,17175
+2018,17177,Stephenson County,Illinois,8.1,0.5,17177
+2018,17179,Tazewell County,Illinois,8.1,0.107,17179
+2018,17181,Union County,Illinois,7.2,0.6844,17181
+2018,17183,Vermilion County,Illinois,7.4,0.8131,17183
+2018,17185,Wabash County,Illinois,7,0.3207,17185
+2018,17187,Warren County,Illinois,8,0.6073,17187
+2018,17189,Washington County,Illinois,6.9,0.0653,17189
+2018,17191,Wayne County,Illinois,7.5,0.4331,17191
+2018,17193,White County,Illinois,7.6,0.5382,17193
+2018,17195,Whiteside County,Illinois,8.8,0.3283,17195
+2018,17197,Will County,Illinois,8.7,0.2022,17197
+2018,17199,Williamson County,Illinois,9.7,0.4806,17199
+2018,17201,Winnebago County,Illinois,8.6,0.7204,17201
+2018,17203,Woodford County,Illinois,6.8,0.0188,17203
+2018,18001,Adams County,Indiana,6.7,0.5904,18001
+2018,18003,Allen County,Indiana,10.2,0.5236,18003
+2018,18005,Bartholomew County,Indiana,9.6,0.3631,18005
+2018,18007,Benton County,Indiana,8,0.3347,18007
+2018,18009,Blackford County,Indiana,8.5,0.371,18009
+2018,18011,Boone County,Indiana,8.8,0.0449,18011
+2018,18013,Brown County,Indiana,6.9,0.0602,18013
+2018,18015,Carroll County,Indiana,7.8,0.1175,18015
+2018,18017,Cass County,Indiana,10.7,0.7197,18017
+2018,18019,Clark County,Indiana,9.2,0.2548,18019
+2018,18021,Clay County,Indiana,11.7,0.3338,18021
+2018,18023,Clinton County,Indiana,11.6,0.571,18023
+2018,18025,Crawford County,Indiana,9.7,0.3889,18025
+2018,18027,Daviess County,Indiana,7.2,0.6882,18027
+2018,18029,Dearborn County,Indiana,8.1,0.0799,18029
+2018,18031,Decatur County,Indiana,8.9,0.2102,18031
+2018,18033,Dekalb County,Indiana,7.9,0.2334,18033
+2018,18035,Delaware County,Indiana,10.5,0.5666,18035
+2018,18037,Dubois County,Indiana,6.8,0.208,18037
+2018,18039,Elkhart County,Indiana,10,0.7701,18039
+2018,18041,Fayette County,Indiana,10.3,0.6108,18041
+2018,18043,Floyd County,Indiana,9.4,0.1669,18043
+2018,18045,Fountain County,Indiana,8.6,0.2032,18045
+2018,18047,Franklin County,Indiana,8.7,0.1471,18047
+2018,18049,Fulton County,Indiana,7.7,0.3459,18049
+2018,18051,Gibson County,Indiana,7.4,0.315,18051
+2018,18053,Grant County,Indiana,12.8,0.7331,18053
+2018,18055,Greene County,Indiana,11.2,0.4443,18055
+2018,18057,Hamilton County,Indiana,8.1,0.0255,18057
+2018,18059,Hancock County,Indiana,9.6,0.0169,18059
+2018,18061,Harrison County,Indiana,8.9,0.1866,18061
+2018,18063,Hendricks County,Indiana,9.3,0.0815,18063
+2018,18065,Henry County,Indiana,8.5,0.3793,18065
+2018,18067,Howard County,Indiana,9.5,0.4815,18067
+2018,18069,Huntington County,Indiana,11.3,0.1248,18069
+2018,18071,Jackson County,Indiana,9.9,0.5389,18071
+2018,18073,Jasper County,Indiana,7.9,0.2685,18073
+2018,18075,Jay County,Indiana,10.1,0.6748,18075
+2018,18077,Jefferson County,Indiana,8.6,0.4414,18077
+2018,18079,Jennings County,Indiana,9.4,0.3847,18079
+2018,18081,Johnson County,Indiana,8.9,0.1424,18081
+2018,18083,Knox County,Indiana,11,0.5927,18083
+2018,18085,Kosciusko County,Indiana,9.8,0.4608,18085
+2018,18087,Lagrange County,Indiana,8.1,0.3707,18087
+2018,18089,Lake County,Indiana,11.7,0.7252,18089
+2018,18091,Laporte County,Indiana,12,0.7217,18091
+2018,18093,Lawrence County,Indiana,9.3,0.2752,18093
+2018,18095,Madison County,Indiana,13.9,0.6713,18095
+2018,18097,Marion County,Indiana,11.4,0.7971,18097
+2018,18099,Marshall County,Indiana,8.6,0.5796,18099
+2018,18101,Martin County,Indiana,7,0.2398,18101
+2018,18103,Miami County,Indiana,9,0.5879,18103
+2018,18105,Monroe County,Indiana,8,0.4519,18105
+2018,18107,Montgomery County,Indiana,9.1,0.3685,18107
+2018,18109,Morgan County,Indiana,10.9,0.2156,18109
+2018,18111,Newton County,Indiana,9.8,0.3366,18111
+2018,18113,Noble County,Indiana,8.6,0.4742,18113
+2018,18115,Ohio County,Indiana,7,0.0252,18115
+2018,18117,Orange County,Indiana,8.1,0.6455,18117
+2018,18119,Owen County,Indiana,9.3,0.3455,18119
+2018,18121,Parke County,Indiana,7.8,0.5809,18121
+2018,18123,Perry County,Indiana,7.5,0.3102,18123
+2018,18125,Pike County,Indiana,9.1,0.1745,18125
+2018,18127,Porter County,Indiana,9.8,0.1478,18127
+2018,18129,Posey County,Indiana,8.3,0.0105,18129
+2018,18131,Pulaski County,Indiana,7.8,0.2309,18131
+2018,18133,Putnam County,Indiana,11.2,0.3484,18133
+2018,18135,Randolph County,Indiana,9.1,0.4296,18135
+2018,18137,Ripley County,Indiana,9,0.3774,18137
+2018,18139,Rush County,Indiana,6.6,0.2567,18139
+2018,18143,Scott County,Indiana,8.1,0.4201,18143
+2018,18145,Shelby County,Indiana,11.6,0.2182,18145
+2018,18147,Spencer County,Indiana,7.7,0.0879,18147
+2018,18141,St. Joseph County,Indiana,9.5,0.6223,18141
+2018,18149,Starke County,Indiana,9.8,0.3417,18149
+2018,18151,Steuben County,Indiana,7.7,0.271,18151
+2018,18153,Sullivan County,Indiana,9.3,0.6401,18153
+2018,18155,Switzerland County,Indiana,9.6,0.6271,18155
+2018,18157,Tippecanoe County,Indiana,9.7,0.493,18157
+2018,18159,Tipton County,Indiana,9.8,0.0726,18159
+2018,18161,Union County,Indiana,7,0.1713,18161
+2018,18163,Vanderburgh County,Indiana,9.5,0.5242,18163
+2018,18165,Vermillion County,Indiana,8.8,0.4503,18165
+2018,18167,Vigo County,Indiana,9.3,0.7274,18167
+2018,18169,Wabash County,Indiana,8.7,0.2882,18169
+2018,18171,Warren County,Indiana,8.4,0.078,18171
+2018,18173,Warrick County,Indiana,10.5,0.0678,18173
+2018,18175,Washington County,Indiana,7.9,0.3777,18175
+2018,18177,Wayne County,Indiana,12.6,0.7105,18177
+2018,18179,Wells County,Indiana,9.3,0.1439,18179
+2018,18181,White County,Indiana,10.5,0.2439,18181
+2018,18183,Whitley County,Indiana,9.1,0.0315,18183
+2018,19001,Adair County,Iowa,8.5,0.0538,19001
+2018,19003,Adams County,Iowa,6.3,0.0376,19003
+2018,19005,Allamakee County,Iowa,7.8,0.322,19005
+2018,19007,Appanoose County,Iowa,8.8,0.3783,19007
+2018,19009,Audubon County,Iowa,6.8,0.0226,19009
+2018,19011,Benton County,Iowa,9.1,0.0118,19011
+2018,19013,Black Hawk County,Iowa,8.2,0.4264,19013
+2018,19015,Boone County,Iowa,6.6,0.1178,19015
+2018,19017,Bremer County,Iowa,7.6,0.0322,19017
+2018,19019,Buchanan County,Iowa,8.6,0.0662,19019
+2018,19021,Buena Vista County,Iowa,8.2,0.7408,19021
+2018,19023,Butler County,Iowa,8.5,0.0236,19023
+2018,19025,Calhoun County,Iowa,7.5,0.158,19025
+2018,19027,Carroll County,Iowa,6.3,0.0455,19027
+2018,19029,Cass County,Iowa,8.4,0.1981,19029
+2018,19031,Cedar County,Iowa,7.6,0.008,19031
+2018,19033,Cerro Gordo County,Iowa,7.5,0.2497,19033
+2018,19035,Cherokee County,Iowa,6.6,0.1701,19035
+2018,19037,Chickasaw County,Iowa,8.1,0.0599,19037
+2018,19039,Clarke County,Iowa,7.1,0.4847,19039
+2018,19041,Clay County,Iowa,7,0.3439,19041
+2018,19043,Clayton County,Iowa,7.5,0.1841,19043
+2018,19045,Clinton County,Iowa,8.9,0.2646,19045
+2018,19047,Crawford County,Iowa,7,0.8551,19047
+2018,19049,Dallas County,Iowa,6.4,0.0596,19049
+2018,19051,Davis County,Iowa,9.5,0.3503,19051
+2018,19053,Decatur County,Iowa,8.7,0.6822,19053
+2018,19055,Delaware County,Iowa,8.1,0.0344,19055
+2018,19057,Des Moines County,Iowa,10.1,0.4653,19057
+2018,19059,Dickinson County,Iowa,8.3,0.0917,19059
+2018,19061,Dubuque County,Iowa,6.9,0.2347,19061
+2018,19063,Emmet County,Iowa,7.5,0.3946,19063
+2018,19065,Fayette County,Iowa,9,0.2252,19065
+2018,19067,Floyd County,Iowa,7.6,0.3596,19067
+2018,19069,Franklin County,Iowa,9.1,0.1962,19069
+2018,19071,Fremont County,Iowa,6.5,0.0554,19071
+2018,19073,Greene County,Iowa,8.4,0.1978,19073
+2018,19075,Grundy County,Iowa,7.2,0.0038,19075
+2018,19077,Guthrie County,Iowa,6.9,0.122,19077
+2018,19079,Hamilton County,Iowa,6.8,0.1153,19079
+2018,19081,Hancock County,Iowa,5.5,0.0713,19081
+2018,19083,Hardin County,Iowa,8.3,0.1242,19083
+2018,19085,Harrison County,Iowa,9.8,0.0646,19085
+2018,19087,Henry County,Iowa,8,0.3134,19087
+2018,19089,Howard County,Iowa,6.9,0.1567,19089
+2018,19091,Humboldt County,Iowa,7.7,0.1446,19091
+2018,19093,Ida County,Iowa,6.5,0.0866,19093
+2018,19095,Iowa County,Iowa,8.8,0.0347,19095
+2018,19097,Jackson County,Iowa,7.6,0.1268,19097
+2018,19099,Jasper County,Iowa,9.8,0.2548,19099
+2018,19101,Jefferson County,Iowa,6.4,0.4895,19101
+2018,19103,Johnson County,Iowa,7.6,0.2675,19103
+2018,19105,Jones County,Iowa,8.3,0.1924,19105
+2018,19107,Keokuk County,Iowa,6.7,0.0398,19107
+2018,19109,Kossuth County,Iowa,9.5,0.1048,19109
+2018,19111,Lee County,Iowa,7.8,0.5041,19111
+2018,19113,Linn County,Iowa,8.3,0.1806,19113
+2018,19115,Louisa County,Iowa,7.8,0.457,19115
+2018,19117,Lucas County,Iowa,9.3,0.2755,19117
+2018,19119,Lyon County,Iowa,9.1,0.0439,19119
+2018,19121,Madison County,Iowa,6.9,0.0204,19121
+2018,19123,Mahaska County,Iowa,8.2,0.4637,19123
+2018,19125,Marion County,Iowa,7.2,0.1949,19125
+2018,19127,Marshall County,Iowa,9,0.6863,19127
+2018,19129,Mills County,Iowa,6.2,0.1076,19129
+2018,19131,Mitchell County,Iowa,7.1,0.086,19131
+2018,19133,Monona County,Iowa,8.4,0.1796,19133
+2018,19135,Monroe County,Iowa,8.6,0.2519,19135
+2018,19137,Montgomery County,Iowa,7.5,0.528,19137
+2018,19139,Muscatine County,Iowa,7.7,0.3904,19139
+2018,19141,O&#39;brien County,Iowa,6.4,0.2322,19141
+2018,19143,Osceola County,Iowa,7.3,0.2634,19143
+2018,19145,Page County,Iowa,9.7,0.3341,19145
+2018,19147,Palo Alto County,Iowa,8.9,0.1729,19147
+2018,19149,Plymouth County,Iowa,6.9,0.1271,19149
+2018,19151,Pocahontas County,Iowa,6.5,0.1462,19151
+2018,19153,Polk County,Iowa,8.5,0.3768,19153
+2018,19155,Pottawattamie County,Iowa,8.7,0.4599,19155
+2018,19157,Poweshiek County,Iowa,7.4,0.1548,19157
+2018,19159,Ringgold County,Iowa,6.8,0.1299,19159
+2018,19161,Sac County,Iowa,7.3,0.0748,19161
+2018,19163,Scott County,Iowa,9.1,0.2659,19163
+2018,19165,Shelby County,Iowa,8.1,0.1303,19165
+2018,19167,Sioux County,Iowa,7,0.2207,19167
+2018,19169,Story County,Iowa,8.5,0.2124,19169
+2018,19171,Tama County,Iowa,8.2,0.3274,19171
+2018,19173,Taylor County,Iowa,8.6,0.2771,19173
+2018,19175,Union County,Iowa,11.2,0.4455,19175
+2018,19177,Van Buren County,Iowa,7.9,0.2465,19177
+2018,19179,Wapello County,Iowa,10.6,0.7439,19179
+2018,19181,Warren County,Iowa,8.6,0.072,19181
+2018,19183,Washington County,Iowa,7.7,0.2239,19183
+2018,19185,Wayne County,Iowa,10.6,0.4583,19185
+2018,19187,Webster County,Iowa,7.2,0.458,19187
+2018,19189,Winnebago County,Iowa,7.3,0.2061,19189
+2018,19191,Winneshiek County,Iowa,5.7,0.0115,19191
+2018,19193,Woodbury County,Iowa,8.5,0.6968,19193
+2018,19195,Worth County,Iowa,8.6,0.0697,19195
+2018,19197,Wright County,Iowa,7.6,0.4803,19197
+2018,20001,Allen County,Kansas,10.9,0.3978,20001
+2018,20003,Anderson County,Kansas,8.2,0.2274,20003
+2018,20005,Atchison County,Kansas,8.2,0.4911,20005
+2018,20007,Barber County,Kansas,7.5,0.2803,20007
+2018,20009,Barton County,Kansas,10.4,0.5439,20009
+2018,20011,Bourbon County,Kansas,10.8,0.5828,20011
+2018,20013,Brown County,Kansas,9.6,0.2717,20013
+2018,20015,Butler County,Kansas,9,0.2624,20015
+2018,20017,Chase County,Kansas,8,0.4067,20017
+2018,20019,Chautauqua County,Kansas,7.5,0.7188,20019
+2018,20021,Cherokee County,Kansas,11.1,0.3828,20021
+2018,20023,Cheyenne County,Kansas,7.3,0.1003,20023
+2018,20025,Clark County,Kansas,7.7,0.3124,20025
+2018,20027,Clay County,Kansas,10.6,0.0494,20027
+2018,20029,Cloud County,Kansas,7.8,0.2739,20029
+2018,20031,Coffey County,Kansas,10.3,0.2035,20031
+2018,20033,Comanche County,Kansas,7.8,0.0793,20033
+2018,20035,Cowley County,Kansas,8.7,0.7318,20035
+2018,20037,Crawford County,Kansas,9.8,0.6987,20037
+2018,20039,Decatur County,Kansas,8,0.1573,20039
+2018,20041,Dickinson County,Kansas,8.4,0.3322,20041
+2018,20043,Doniphan County,Kansas,7.5,0.2306,20043
+2018,20045,Douglas County,Kansas,7.3,0.2232,20045
+2018,20047,Edwards County,Kansas,8.9,0.372,20047
+2018,20049,Elk County,Kansas,10.3,0.3895,20049
+2018,20051,Ellis County,Kansas,8,0.1564,20051
+2018,20053,Ellsworth County,Kansas,9.2,0.3952,20053
+2018,20055,Finney County,Kansas,8.2,0.8236,20055
+2018,20057,Ford County,Kansas,10.3,0.857,20057
+2018,20059,Franklin County,Kansas,8.4,0.2137,20059
+2018,20061,Geary County,Kansas,11.7,0.6576,20061
+2018,20063,Gove County,Kansas,9.7,0.0975,20063
+2018,20065,Graham County,Kansas,7.3,0.1255,20065
+2018,20067,Grant County,Kansas,8,0.3815,20067
+2018,20069,Gray County,Kansas,8.1,0.2736,20069
+2018,20071,Greeley County,Kansas,6.7,0.5752,20071
+2018,20073,Greenwood County,Kansas,8.6,0.2127,20073
+2018,20075,Hamilton County,Kansas,9.3,0.2586,20075
+2018,20077,Harper County,Kansas,7.3,0.3223,20077
+2018,20079,Harvey County,Kansas,7.5,0.335,20079
+2018,20081,Haskell County,Kansas,7,0.4115,20081
+2018,20083,Hodgeman County,Kansas,7.9,0.1118,20083
+2018,20085,Jackson County,Kansas,10.2,0.2694,20085
+2018,20087,Jefferson County,Kansas,8.8,0.0548,20087
+2018,20089,Jewell County,Kansas,8.1,0.0876,20089
+2018,20091,Johnson County,Kansas,7.1,0.0615,20091
+2018,20093,Kearny County,Kansas,7.6,0.4656,20093
+2018,20095,Kingman County,Kansas,8.4,0.0513,20095
+2018,20097,Kiowa County,Kansas,9.1,0.258,20097
+2018,20099,Labette County,Kansas,10.5,0.6392,20099
+2018,20101,Lane County,Kansas,7.4,0.0303,20101
+2018,20103,Leavenworth County,Kansas,11.1,0.2404,20103
+2018,20105,Lincoln County,Kansas,6,0.1322,20105
+2018,20107,Linn County,Kansas,9.1,0.4478,20107
+2018,20109,Logan County,Kansas,8.4,0.1296,20109
+2018,20111,Lyon County,Kansas,7.7,0.7322,20111
+2018,20115,Marion County,Kansas,8,0.1771,20115
+2018,20117,Marshall County,Kansas,9.2,0.1264,20117
+2018,20113,Mcpherson County,Kansas,8.4,0.1067,20113
+2018,20119,Meade County,Kansas,9.3,0.3717,20119
+2018,20121,Miami County,Kansas,7.8,0.0258,20121
+2018,20123,Mitchell County,Kansas,8.2,0.2844,20123
+2018,20125,Montgomery County,Kansas,10.1,0.8029,20125
+2018,20127,Morris County,Kansas,8.7,0.2436,20127
+2018,20129,Morton County,Kansas,8.2,0.408,20129
+2018,20131,Nemaha County,Kansas,6.2,0.0962,20131
+2018,20133,Neosho County,Kansas,10.4,0.658,20133
+2018,20135,Ness County,Kansas,8.3,0.15,20135
+2018,20137,Norton County,Kansas,8.9,0.2975,20137
+2018,20139,Osage County,Kansas,12,0.2341,20139
+2018,20141,Osborne County,Kansas,8.6,0.0723,20141
+2018,20143,Ottawa County,Kansas,8.3,0.0271,20143
+2018,20145,Pawnee County,Kansas,8.4,0.2866,20145
+2018,20147,Phillips County,Kansas,7.5,0.242,20147
+2018,20149,Pottawatomie County,Kansas,8.9,0.1487,20149
+2018,20151,Pratt County,Kansas,6.9,0.3873,20151
+2018,20153,Rawlins County,Kansas,7,0.136,20153
+2018,20155,Reno County,Kansas,9.4,0.5866,20155
+2018,20157,Republic County,Kansas,6.1,0.0605,20157
+2018,20159,Rice County,Kansas,8.6,0.4252,20159
+2018,20161,Riley County,Kansas,7.6,0.4373,20161
+2018,20163,Rooks County,Kansas,7.5,0.142,20163
+2018,20165,Rush County,Kansas,6.1,0.0783,20165
+2018,20167,Russell County,Kansas,7.3,0.2392,20167
+2018,20169,Saline County,Kansas,8.8,0.4162,20169
+2018,20171,Scott County,Kansas,7.8,0.3061,20171
+2018,20173,Sedgwick County,Kansas,10.7,0.5357,20173
+2018,20175,Seward County,Kansas,7,0.9111,20175
+2018,20177,Shawnee County,Kansas,10,0.5099,20177
+2018,20179,Sheridan County,Kansas,6.9,0.0685,20179
+2018,20181,Sherman County,Kansas,8.4,0.4984,20181
+2018,20183,Smith County,Kansas,6.4,0.0503,20183
+2018,20185,Stafford County,Kansas,7.3,0.2777,20185
+2018,20187,Stanton County,Kansas,6.6,0.4965,20187
+2018,20189,Stevens County,Kansas,9.6,0.6739,20189
+2018,20191,Sumner County,Kansas,9.4,0.2223,20191
+2018,20193,Thomas County,Kansas,7.6,0.0704,20193
+2018,20195,Trego County,Kansas,7.9,0.0389,20195
+2018,20197,Wabaunsee County,Kansas,7.6,0.0532,20197
+2018,20199,Wallace County,Kansas,6.9,0.143,20199
+2018,20201,Washington County,Kansas,7.1,0.1481,20201
+2018,20203,Wichita County,Kansas,8.5,0.4678,20203
+2018,20205,Wilson County,Kansas,10,0.6366,20205
+2018,20207,Woodson County,Kansas,7.6,0.4398,20207
+2018,20209,Wyandotte County,Kansas,13.2,0.9242,20209
+2018,21001,Adair County,Kentucky,9.5,0.7121,21001
+2018,21003,Allen County,Kentucky,8,0.6796,21003
+2018,21005,Anderson County,Kentucky,9.6,0.2637,21005
+2018,21007,Ballard County,Kentucky,8.6,0.4459,21007
+2018,21009,Barren County,Kentucky,11.7,0.7761,21009
+2018,21011,Bath County,Kentucky,11.5,0.729,21011
+2018,21013,Bell County,Kentucky,9.2,0.8927,21013
+2018,21015,Boone County,Kentucky,10.5,0.1277,21015
+2018,21017,Bourbon County,Kentucky,7.1,0.5561,21017
+2018,21019,Boyd County,Kentucky,11.7,0.6908,21019
+2018,21021,Boyle County,Kentucky,9.5,0.4315,21021
+2018,21023,Bracken County,Kentucky,6.7,0.3866,21023
+2018,21025,Breathitt County,Kentucky,11.2,0.822,21025
+2018,21027,Breckinridge County,Kentucky,7.1,0.7376,21027
+2018,21029,Bullitt County,Kentucky,12.2,0.1385,21029
+2018,21031,Butler County,Kentucky,8.8,0.792,21031
+2018,21033,Caldwell County,Kentucky,11.7,0.4981,21033
+2018,21035,Calloway County,Kentucky,8.6,0.4997,21035
+2018,21037,Campbell County,Kentucky,10.3,0.2188,21037
+2018,21039,Carlisle County,Kentucky,6.5,0.3395,21039
+2018,21041,Carroll County,Kentucky,7.8,0.8904,21041
+2018,21043,Carter County,Kentucky,11.4,0.8204,21043
+2018,21045,Casey County,Kentucky,9,0.7656,21045
+2018,21047,Christian County,Kentucky,13.7,0.9127,21047
+2018,21049,Clark County,Kentucky,7.6,0.6061,21049
+2018,21051,Clay County,Kentucky,9.1,0.9099,21051
+2018,21053,Clinton County,Kentucky,9,0.778,21053
+2018,21055,Crittenden County,Kentucky,8.1,0.4844,21055
+2018,21057,Cumberland County,Kentucky,7.9,0.5315,21057
+2018,21059,Daviess County,Kentucky,10.8,0.6169,21059
+2018,21061,Edmonson County,Kentucky,8,0.6357,21061
+2018,21063,Elliott County,Kentucky,7.2,0.7239,21063
+2018,21065,Estill County,Kentucky,8.4,0.7997,21065
+2018,21067,Fayette County,Kentucky,10.2,0.4876,21067
+2018,21069,Fleming County,Kentucky,9.9,0.771,21069
+2018,21071,Floyd County,Kentucky,14.8,0.8503,21071
+2018,21073,Franklin County,Kentucky,9.8,0.5468,21073
+2018,21075,Fulton County,Kentucky,7.9,0.8704,21075
+2018,21077,Gallatin County,Kentucky,8,0.6124,21077
+2018,21079,Garrard County,Kentucky,7,0.4299,21079
+2018,21081,Grant County,Kentucky,10.8,0.5602,21081
+2018,21083,Graves County,Kentucky,11.1,0.7752,21083
+2018,21085,Grayson County,Kentucky,8.9,0.6096,21085
+2018,21087,Green County,Kentucky,8.3,0.5226,21087
+2018,21089,Greenup County,Kentucky,10.2,0.3217,21089
+2018,21091,Hancock County,Kentucky,8.4,0.3822,21091
+2018,21093,Hardin County,Kentucky,11,0.5672,21093
+2018,21095,Harlan County,Kentucky,14.2,0.8803,21095
+2018,21097,Harrison County,Kentucky,6.4,0.5057,21097
+2018,21099,Hart County,Kentucky,8.5,0.7659,21099
+2018,21101,Henderson County,Kentucky,13.8,0.7089,21101
+2018,21103,Henry County,Kentucky,7.1,0.5274,21103
+2018,21105,Hickman County,Kentucky,8.5,0.5739,21105
+2018,21107,Hopkins County,Kentucky,13.7,0.5541,21107
+2018,21109,Jackson County,Kentucky,11,0.6662,21109
+2018,21111,Jefferson County,Kentucky,11.3,0.5682,21111
+2018,21113,Jessamine County,Kentucky,8.2,0.5201,21113
+2018,21115,Johnson County,Kentucky,11.7,0.8102,21115
+2018,21117,Kenton County,Kentucky,10.3,0.3379,21117
+2018,21119,Knott County,Kentucky,14.2,0.8548,21119
+2018,21121,Knox County,Kentucky,9.1,0.8325,21121
+2018,21123,Larue County,Kentucky,7.1,0.5318,21123
+2018,21125,Laurel County,Kentucky,12.8,0.7522,21125
+2018,21127,Lawrence County,Kentucky,10.2,0.7583,21127
+2018,21129,Lee County,Kentucky,9,0.8182,21129
+2018,21131,Leslie County,Kentucky,10.7,0.7745,21131
+2018,21133,Letcher County,Kentucky,15.4,0.8755,21133
+2018,21135,Lewis County,Kentucky,10,0.6242,21135
+2018,21137,Lincoln County,Kentucky,9,0.7083,21137
+2018,21139,Livingston County,Kentucky,7.1,0.264,21139
+2018,21141,Logan County,Kentucky,7.8,0.5287,21141
+2018,21143,Lyon County,Kentucky,7.6,0.3252,21143
+2018,21151,Madison County,Kentucky,7.9,0.4968,21151
+2018,21153,Magoffin County,Kentucky,12.9,0.8057,21153
+2018,21155,Marion County,Kentucky,8.8,0.9057,21155
+2018,21157,Marshall County,Kentucky,8.1,0.2723,21157
+2018,21159,Martin County,Kentucky,11.7,0.8494,21159
+2018,21161,Mason County,Kentucky,9.3,0.6682,21161
+2018,21145,Mccracken County,Kentucky,11.2,0.4153,21145
+2018,21147,Mccreary County,Kentucky,10.8,0.878,21147
+2018,21149,Mclean County,Kentucky,7.3,0.4217,21149
+2018,21163,Meade County,Kentucky,10,0.3178,21163
+2018,21165,Menifee County,Kentucky,10.2,0.5847,21165
+2018,21167,Mercer County,Kentucky,6.7,0.4134,21167
+2018,21169,Metcalfe County,Kentucky,9,0.6812,21169
+2018,21171,Monroe County,Kentucky,8.1,0.6975,21171
+2018,21173,Montgomery County,Kentucky,9.7,0.7987,21173
+2018,21175,Morgan County,Kentucky,8.8,0.8293,21175
+2018,21177,Muhlenberg County,Kentucky,10.4,0.6134,21177
+2018,21179,Nelson County,Kentucky,8.3,0.2895,21179
+2018,21181,Nicholas County,Kentucky,7.1,0.8197,21181
+2018,21183,Ohio County,Kentucky,9.6,0.5799,21183
+2018,21185,Oldham County,Kentucky,7.4,0.0395,21185
+2018,21187,Owen County,Kentucky,7.4,0.5264,21187
+2018,21189,Owsley County,Kentucky,8.4,0.8414,21189
+2018,21191,Pendleton County,Kentucky,9.4,0.415,21191
+2018,21193,Perry County,Kentucky,11.7,0.9051,21193
+2018,21195,Pike County,Kentucky,13.4,0.7908,21195
+2018,21197,Powell County,Kentucky,8.8,0.7732,21197
+2018,21199,Pulaski County,Kentucky,11.2,0.742,21199
+2018,21201,Robertson County,Kentucky,6.7,0.3538,21201
+2018,21203,Rockcastle County,Kentucky,8.9,0.7882,21203
+2018,21205,Rowan County,Kentucky,7.9,0.7557,21205
+2018,21207,Russell County,Kentucky,9.6,0.8634,21207
+2018,21209,Scott County,Kentucky,7.4,0.3331,21209
+2018,21211,Shelby County,Kentucky,7.8,0.4261,21211
+2018,21213,Simpson County,Kentucky,6.8,0.2879,21213
+2018,21215,Spencer County,Kentucky,8.7,0.0369,21215
+2018,21217,Taylor County,Kentucky,8.6,0.721,21217
+2018,21219,Todd County,Kentucky,9.3,0.8092,21219
+2018,21221,Trigg County,Kentucky,9,0.365,21221
+2018,21223,Trimble County,Kentucky,7.3,0.7143,21223
+2018,21225,Union County,Kentucky,9.7,0.5366,21225
+2018,21227,Warren County,Kentucky,7.8,0.7096,21227
+2018,21229,Washington County,Kentucky,9.5,0.5127,21229
+2018,21231,Wayne County,Kentucky,11.2,0.7478,21231
+2018,21233,Webster County,Kentucky,7.3,0.7854,21233
+2018,21235,Whitley County,Kentucky,11.6,0.8379,21235
+2018,21237,Wolfe County,Kentucky,9.9,0.8621,21237
+2018,21239,Woodford County,Kentucky,7.1,0.2041,21239
+2018,22001,Acadia Parish,Louisiana,10,0.9182,22001
+2018,22003,Allen Parish,Louisiana,8.5,0.9261,22003
+2018,22005,Ascension Parish,Louisiana,10.6,0.3968,22005
+2018,22007,Assumption Parish,Louisiana,11.1,0.779,22007
+2018,22009,Avoyelles Parish,Louisiana,10.2,0.9634,22009
+2018,22011,Beauregard Parish,Louisiana,9.8,0.6519,22011
+2018,22013,Bienville Parish,Louisiana,8.8,0.9401,22013
+2018,22015,Bossier Parish,Louisiana,9.5,0.5876,22015
+2018,22017,Caddo Parish,Louisiana,11.9,0.8385,22017
+2018,22019,Calcasieu Parish,Louisiana,11.1,0.7392,22019
+2018,22021,Caldwell Parish,Louisiana,8.4,0.9331,22021
+2018,22023,Cameron Parish,Louisiana,7.4,0.2643,22023
+2018,22025,Catahoula Parish,Louisiana,8.5,0.7806,22025
+2018,22027,Claiborne Parish,Louisiana,11.4,0.9478,22027
+2018,22029,Concordia Parish,Louisiana,10.4,0.9134,22029
+2018,22031,De Soto Parish,Louisiana,9.3,0.8917,22031
+2018,22033,East Baton Rouge Parish,Louisiana,11.6,0.6653,22033
+2018,22035,East Carroll Parish,Louisiana,8.6,0.9357,22035
+2018,22037,East Feliciana Parish,Louisiana,9.1,0.8185,22037
+2018,22039,Evangeline Parish,Louisiana,9.6,0.9975,22039
+2018,22041,Franklin Parish,Louisiana,9,0.9519,22041
+2018,22043,Grant Parish,Louisiana,7.8,0.6274,22043
+2018,22045,Iberia Parish,Louisiana,10.9,0.9605,22045
+2018,22047,Iberville Parish,Louisiana,10.4,0.886,22047
+2018,22049,Jackson Parish,Louisiana,7.7,0.9382,22049
+2018,22051,Jefferson Parish,Louisiana,11.6,0.6121,22051
+2018,22053,Jefferson Davis Parish,Louisiana,9,0.8105,22053
+2018,22055,Lafayette Parish,Louisiana,11.3,0.6217,22055
+2018,22057,Lafourche Parish,Louisiana,11.6,0.7669,22057
+2018,22059,Lasalle Parish,Louisiana,9,0.7634,22059
+2018,22061,Lincoln Parish,Louisiana,9.3,0.8478,22061
+2018,22063,Livingston Parish,Louisiana,8.3,0.4309,22063
+2018,22065,Madison Parish,Louisiana,9.6,0.9697,22065
+2018,22067,Morehouse Parish,Louisiana,8.9,0.8847,22067
+2018,22069,Natchitoches Parish,Louisiana,11.7,0.8573,22069
+2018,22071,Orleans Parish,Louisiana,10.6,0.7449,22071
+2018,22073,Ouachita Parish,Louisiana,12.3,0.8522,22073
+2018,22075,Plaquemines Parish,Louisiana,11.1,0.7061,22075
+2018,22077,Pointe Coupee Parish,Louisiana,9.5,0.8475,22077
+2018,22079,Rapides Parish,Louisiana,13.5,0.9086,22079
+2018,22081,Red River Parish,Louisiana,7.6,0.8137,22081
+2018,22083,Richland Parish,Louisiana,10.3,0.8554,22083
+2018,22085,Sabine Parish,Louisiana,8.6,0.8315,22085
+2018,22087,St. Bernard Parish,Louisiana,9.7,0.7713,22087
+2018,22089,St. Charles Parish,Louisiana,9.1,0.3529,22089
+2018,22091,St. Helena Parish,Louisiana,8.1,0.9,22091
+2018,22093,St. James Parish,Louisiana,8.6,0.6299,22093
+2018,22095,St. John The Baptist Parish,Louisiana,10.5,0.7468,22095
+2018,22097,St. Landry Parish,Louisiana,11.4,0.922,22097
+2018,22099,St. Martin Parish,Louisiana,9.5,0.7831,22099
+2018,22101,St. Mary Parish,Louisiana,11.7,0.9162,22101
+2018,22103,St. Tammany Parish,Louisiana,10.1,0.3105,22103
+2018,22105,Tangipahoa Parish,Louisiana,11.2,0.8885,22105
+2018,22107,Tensas Parish,Louisiana,8.8,0.8366,22107
+2018,22109,Terrebonne Parish,Louisiana,11.2,0.8952,22109
+2018,22111,Union Parish,Louisiana,10.8,0.808,22111
+2018,22113,Vermilion Parish,Louisiana,7.8,0.8201,22113
+2018,22115,Vernon Parish,Louisiana,11.8,0.7433,22115
+2018,22117,Washington Parish,Louisiana,15.1,0.9962,22117
+2018,22119,Webster Parish,Louisiana,10.6,0.879,22119
+2018,22121,West Baton Rouge Parish,Louisiana,9.5,0.7611,22121
+2018,22123,West Carroll Parish,Louisiana,8.5,0.6685,22123
+2018,22125,West Feliciana Parish,Louisiana,7.8,0.6901,22125
+2018,22127,Winn Parish,Louisiana,9.5,0.7755,22127
+2018,23001,Androscoggin County,Maine,10.3,0.5567,23001
+2018,23003,Aroostook County,Maine,11.4,0.5946,23003
+2018,23005,Cumberland County,Maine,6.9,0.1363,23005
+2018,23007,Franklin County,Maine,7.7,0.215,23007
+2018,23009,Hancock County,Maine,7,0.193,23009
+2018,23011,Kennebec County,Maine,8.4,0.3787,23011
+2018,23013,Knox County,Maine,6.1,0.1475,23013
+2018,23015,Lincoln County,Maine,7.2,0.1143,23015
+2018,23017,Oxford County,Maine,8.4,0.3726,23017
+2018,23019,Penobscot County,Maine,9.8,0.4532,23019
+2018,23021,Piscataquis County,Maine,9.9,0.4898,23021
+2018,23023,Sagadahoc County,Maine,6.9,0.0522,23023
+2018,23025,Somerset County,Maine,9.1,0.622,23025
+2018,23027,Waldo County,Maine,8.6,0.2197,23027
+2018,23029,Washington County,Maine,8.4,0.6439,23029
+2018,23031,York County,Maine,7.9,0.0936,23031
+2018,24001,Allegany County,Maryland,11,0.621,24001
+2018,24003,Anne Arundel County,Maryland,9.1,0.1783,24003
+2018,24005,Baltimore County,Maryland,9.9,0.3818,24005
+2018,24510,Baltimore City,Maryland,12.4,0.8312,24510
+2018,24009,Calvert County,Maryland,9.9,0.0471,24009
+2018,24011,Caroline County,Maryland,12.6,0.5535,24011
+2018,24013,Carroll County,Maryland,7.6,0.0404,24013
+2018,24015,Cecil County,Maryland,9.3,0.2933,24015
+2018,24017,Charles County,Maryland,10.9,0.1723,24017
+2018,24019,Dorchester County,Maryland,13.3,0.7506,24019
+2018,24021,Frederick County,Maryland,8.6,0.1589,24021
+2018,24023,Garrett County,Maryland,10,0.1812,24023
+2018,24025,Harford County,Maryland,9.7,0.0933,24025
+2018,24027,Howard County,Maryland,6.8,0.1306,24027
+2018,24029,Kent County,Maryland,8.7,0.4277,24029
+2018,24031,Montgomery County,Maryland,7.3,0.3255,24031
+2018,24033,Prince George&#39;s County,Maryland,12.6,0.6261,24033
+2018,24035,Queen Anne&#39;s County,Maryland,7.4,0.022,24035
+2018,24039,Somerset County,Maryland,12.8,0.8978,24039
+2018,24037,St. Mary&#39;s County,Maryland,10.6,0.2086,24037
+2018,24041,Talbot County,Maryland,7.1,0.1331,24041
+2018,24043,Washington County,Maryland,12,0.614,24043
+2018,24045,Wicomico County,Maryland,11.4,0.7739,24045
+2018,24047,Worcester County,Maryland,9.4,0.2803,24047
+2018,25001,Barnstable County,Massachusetts,6.9,0.0564,25001
+2018,25003,Berkshire County,Massachusetts,8.3,0.4083,25003
+2018,25005,Bristol County,Massachusetts,8,0.5248,25005
+2018,25007,Dukes County,Massachusetts,7,0.0096,25007
+2018,25009,Essex County,Massachusetts,8.2,0.508,25009
+2018,25011,Franklin County,Massachusetts,6.7,0.2096,25011
+2018,25013,Hampden County,Massachusetts,7.9,0.8232,25013
+2018,25015,Hampshire County,Massachusetts,6.2,0.2325,25015
+2018,25017,Middlesex County,Massachusetts,6.4,0.2264,25017
+2018,25019,Nantucket County,Massachusetts,6.5,0.0268,25019
+2018,25021,Norfolk County,Massachusetts,7,0.2092,25021
+2018,25023,Plymouth County,Massachusetts,8,0.2303,25023
+2018,25025,Suffolk County,Massachusetts,8.3,0.7379,25025
+2018,25027,Worcester County,Massachusetts,8,0.4096,25027
+2018,26001,Alcona County,Michigan,7.3,0.2557,26001
+2018,26003,Alger County,Michigan,7.5,0.4481,26003
+2018,26005,Allegan County,Michigan,7.4,0.1758,26005
+2018,26007,Alpena County,Michigan,6.6,0.3408,26007
+2018,26009,Antrim County,Michigan,6.4,0.1156,26009
+2018,26011,Arenac County,Michigan,8,0.5054,26011
+2018,26013,Baraga County,Michigan,8,0.6599,26013
+2018,26015,Barry County,Michigan,8.4,0.0869,26015
+2018,26017,Bay County,Michigan,8.4,0.4404,26017
+2018,26019,Benzie County,Michigan,8,0.1051,26019
+2018,26021,Berrien County,Michigan,8.2,0.6475,26021
+2018,26023,Branch County,Michigan,8.1,0.6315,26023
+2018,26025,Calhoun County,Michigan,11.4,0.7242,26025
+2018,26027,Cass County,Michigan,9.2,0.328,26027
+2018,26029,Charlevoix County,Michigan,7.5,0.0968,26029
+2018,26031,Cheboygan County,Michigan,9.2,0.286,26031
+2018,26033,Chippewa County,Michigan,8.8,0.7245,26033
+2018,26035,Clare County,Michigan,8.8,0.772,26035
+2018,26037,Clinton County,Michigan,8.7,0.0401,26037
+2018,26039,Crawford County,Michigan,8.3,0.3697,26039
+2018,26041,Delta County,Michigan,10.1,0.3545,26041
+2018,26043,Dickinson County,Michigan,7.6,0.2296,26043
+2018,26045,Eaton County,Michigan,8.4,0.3131,26045
+2018,26047,Emmet County,Michigan,5.5,0.1357,26047
+2018,26049,Genesee County,Michigan,10.5,0.6624,26049
+2018,26051,Gladwin County,Michigan,7.3,0.5398,26051
+2018,26053,Gogebic County,Michigan,8.7,0.4038,26053
+2018,26055,Grand Traverse County,Michigan,5.9,0.1803,26055
+2018,26057,Gratiot County,Michigan,8.7,0.6035,26057
+2018,26059,Hillsdale County,Michigan,7.8,0.5019,26059
+2018,26061,Houghton County,Michigan,7.7,0.4962,26061
+2018,26063,Huron County,Michigan,8.4,0.2745,26063
+2018,26065,Ingham County,Michigan,8.4,0.5742,26065
+2018,26067,Ionia County,Michigan,8.3,0.478,26067
+2018,26069,Iosco County,Michigan,9.2,0.4494,26069
+2018,26071,Iron County,Michigan,7.7,0.2825,26071
+2018,26073,Isabella County,Michigan,8.5,0.6016,26073
+2018,26075,Jackson County,Michigan,9.7,0.5506,26075
+2018,26077,Kalamazoo County,Michigan,9.5,0.407,26077
+2018,26079,Kalkaska County,Michigan,8.4,0.5083,26079
+2018,26081,Kent County,Michigan,8.7,0.4761,26081
+2018,26083,Keweenaw County,Michigan,6.8,0.0787,26083
+2018,26085,Lake County,Michigan,7.6,0.7818,26085
+2018,26087,Lapeer County,Michigan,6.7,0.2382,26087
+2018,26089,Leelanau County,Michigan,7.2,0.0245,26089
+2018,26091,Lenawee County,Michigan,9.6,0.4076,26091
+2018,26093,Livingston County,Michigan,6.5,0.0067,26093
+2018,26095,Luce County,Michigan,7.6,0.5338,26095
+2018,26097,Mackinac County,Michigan,7.8,0.6452,26097
+2018,26099,Macomb County,Michigan,10.2,0.3296,26099
+2018,26101,Manistee County,Michigan,8.6,0.3997,26101
+2018,26103,Marquette County,Michigan,7.6,0.3057,26103
+2018,26105,Mason County,Michigan,8.6,0.3376,26105
+2018,26107,Mecosta County,Michigan,6.6,0.5975,26107
+2018,26109,Menominee County,Michigan,7.7,0.2764,26109
+2018,26111,Midland County,Michigan,7.5,0.1618,26111
+2018,26113,Missaukee County,Michigan,10.1,0.4755,26113
+2018,26115,Monroe County,Michigan,8.5,0.1494,26115
+2018,26117,Montcalm County,Michigan,9.9,0.6127,26117
+2018,26119,Montmorency County,Michigan,8.1,0.3729,26119
+2018,26121,Muskegon County,Michigan,11.5,0.7035,26121
+2018,26123,Newaygo County,Michigan,8.5,0.6318,26123
+2018,26125,Oakland County,Michigan,7.8,0.114,26125
+2018,26127,Oceana County,Michigan,9.3,0.858,26127
+2018,26129,Ogemaw County,Michigan,8.2,0.6258,26129
+2018,26131,Ontonagon County,Michigan,7.1,0.2732,26131
+2018,26133,Osceola County,Michigan,9.5,0.7401,26133
+2018,26135,Oscoda County,Michigan,7,0.6694,26135
+2018,26137,Otsego County,Michigan,7.7,0.3694,26137
+2018,26139,Ottawa County,Michigan,7.6,0.2172,26139
+2018,26141,Presque Isle County,Michigan,8.7,0.2761,26141
+2018,26143,Roscommon County,Michigan,8,0.4627,26143
+2018,26145,Saginaw County,Michigan,10.3,0.7048,26145
+2018,26151,Sanilac County,Michigan,7.6,0.4834,26151
+2018,26153,Schoolcraft County,Michigan,7.2,0.5452,26153
+2018,26155,Shiawassee County,Michigan,7.6,0.1325,26155
+2018,26147,St. Clair County,Michigan,8,0.279,26147
+2018,26149,St. Joseph County,Michigan,10.6,0.6516,26149
+2018,26157,Tuscola County,Michigan,8.5,0.3959,26157
+2018,26159,Van Buren County,Michigan,9.4,0.6589,26159
+2018,26161,Washtenaw County,Michigan,8.1,0.2236,26161
+2018,26163,Wayne County,Michigan,11,0.8723,26163
+2018,26165,Wexford County,Michigan,9.9,0.5035,26165
+2018,27001,Aitkin County,Minnesota,7.5,0.3083,27001
+2018,27003,Anoka County,Minnesota,7.8,0.1404,27003
+2018,27005,Becker County,Minnesota,6.1,0.299,27005
+2018,27007,Beltrami County,Minnesota,8.8,0.7771,27007
+2018,27009,Benton County,Minnesota,8.4,0.4318,27009
+2018,27011,Big Stone County,Minnesota,7.7,0.2006,27011
+2018,27013,Blue Earth County,Minnesota,8.5,0.2838,27013
+2018,27015,Brown County,Minnesota,8.6,0.1274,27015
+2018,27017,Carlton County,Minnesota,8.5,0.2666,27017
+2018,27019,Carver County,Minnesota,6.9,0.0124,27019
+2018,27021,Cass County,Minnesota,7.6,0.35,27021
+2018,27023,Chippewa County,Minnesota,9.8,0.3522,27023
+2018,27025,Chisago County,Minnesota,7.9,0.0592,27025
+2018,27027,Clay County,Minnesota,7.2,0.2217,27027
+2018,27029,Clearwater County,Minnesota,8.6,0.7917,27029
+2018,27031,Cook County,Minnesota,7.6,0.2029,27031
+2018,27033,Cottonwood County,Minnesota,7.6,0.4726,27033
+2018,27035,Crow Wing County,Minnesota,6.9,0.1223,27035
+2018,27037,Dakota County,Minnesota,7.1,0.1207,27037
+2018,27039,Dodge County,Minnesota,7.5,0.0573,27039
+2018,27041,Douglas County,Minnesota,7.5,0.0446,27041
+2018,27043,Faribault County,Minnesota,7.4,0.157,27043
+2018,27045,Fillmore County,Minnesota,5,0.2169,27045
+2018,27047,Freeborn County,Minnesota,6.5,0.4328,27047
+2018,27049,Goodhue County,Minnesota,6.9,0.1707,27049
+2018,27051,Grant County,Minnesota,6.8,0.0946,27051
+2018,27053,Hennepin County,Minnesota,6.6,0.3092,27053
+2018,27055,Houston County,Minnesota,7.1,0.0185,27055
+2018,27057,Hubbard County,Minnesota,7.9,0.2051,27057
+2018,27059,Isanti County,Minnesota,7.8,0.1022,27059
+2018,27061,Itasca County,Minnesota,9,0.3293,27061
+2018,27063,Jackson County,Minnesota,8.3,0.0306,27063
+2018,27065,Kanabec County,Minnesota,9,0.2841,27065
+2018,27067,Kandiyohi County,Minnesota,6.9,0.4064,27067
+2018,27069,Kittson County,Minnesota,9,0.0997,27069
+2018,27071,Koochiching County,Minnesota,7.1,0.4366,27071
+2018,27073,Lac Qui Parle County,Minnesota,8.3,0.1006,27073
+2018,27075,Lake County,Minnesota,6.4,0.1102,27075
+2018,27077,Lake Of The Woods County,Minnesota,7.6,0.1576,27077
+2018,27079,Le Sueur County,Minnesota,8.4,0.1146,27079
+2018,27081,Lincoln County,Minnesota,9.1,0.0666,27081
+2018,27083,Lyon County,Minnesota,8.1,0.4532,27083
+2018,27087,Mahnomen County,Minnesota,8.9,0.8717,27087
+2018,27089,Marshall County,Minnesota,9.2,0.1411,27089
+2018,27091,Martin County,Minnesota,8.2,0.1933,27091
+2018,27085,Mcleod County,Minnesota,7.8,0.1261,27085
+2018,27093,Meeker County,Minnesota,7.9,0.1869,27093
+2018,27095,Mille Lacs County,Minnesota,9.2,0.5917,27095
+2018,27097,Morrison County,Minnesota,8,0.2682,27097
+2018,27099,Mower County,Minnesota,8.1,0.6283,27099
+2018,27101,Murray County,Minnesota,6.9,0.1064,27101
+2018,27103,Nicollet County,Minnesota,7.6,0.2513,27103
+2018,27105,Nobles County,Minnesota,9.9,0.815,27105
+2018,27107,Norman County,Minnesota,7.3,0.3248,27107
+2018,27109,Olmsted County,Minnesota,7,0.2599,27109
+2018,27111,Otter Tail County,Minnesota,7.9,0.2099,27111
+2018,27113,Pennington County,Minnesota,7.6,0.3016,27113
+2018,27115,Pine County,Minnesota,8.9,0.4631,27115
+2018,27117,Pipestone County,Minnesota,6.9,0.4646,27117
+2018,27119,Polk County,Minnesota,7.7,0.3669,27119
+2018,27121,Pope County,Minnesota,5.7,0.0315,27121
+2018,27123,Ramsey County,Minnesota,8,0.6334,27123
+2018,27125,Red Lake County,Minnesota,8.4,0.1525,27125
+2018,27127,Redwood County,Minnesota,9.9,0.2293,27127
+2018,27129,Renville County,Minnesota,8,0.1968,27129
+2018,27131,Rice County,Minnesota,6.2,0.393,27131
+2018,27133,Rock County,Minnesota,7,0.1532,27133
+2018,27135,Roseau County,Minnesota,8.5,0.2478,27135
+2018,27139,Scott County,Minnesota,7.2,0.1108,27139
+2018,27141,Sherburne County,Minnesota,6.8,0.0885,27141
+2018,27143,Sibley County,Minnesota,8.9,0.1315,27143
+2018,27137,St. Louis County,Minnesota,7.3,0.3118,27137
+2018,27145,Stearns County,Minnesota,6.9,0.3885,27145
+2018,27147,Steele County,Minnesota,7.9,0.3013,27147
+2018,27149,Stevens County,Minnesota,8.1,0.2258,27149
+2018,27151,Swift County,Minnesota,8.1,0.3213,27151
+2018,27153,Todd County,Minnesota,7.5,0.4812,27153
+2018,27155,Traverse County,Minnesota,8.6,0.2602,27155
+2018,27157,Wabasha County,Minnesota,8.1,0.0589,27157
+2018,27159,Wadena County,Minnesota,8.1,0.6554,27159
+2018,27161,Waseca County,Minnesota,8.3,0.2503,27161
+2018,27163,Washington County,Minnesota,7.6,0.0682,27163
+2018,27165,Watonwan County,Minnesota,8.7,0.5191,27165
+2018,27167,Wilkin County,Minnesota,8.8,0.1924,27167
+2018,27169,Winona County,Minnesota,8.2,0.2115,27169
+2018,27171,Wright County,Minnesota,7,0.0462,27171
+2018,27173,Yellow Medicine County,Minnesota,7.7,0.3344,27173
+2018,28001,Adams County,Mississippi,11.7,0.9914,28001
+2018,28003,Alcorn County,Mississippi,10.3,0.6955,28003
+2018,28005,Amite County,Mississippi,10.6,0.8191,28005
+2018,28007,Attala County,Mississippi,9.9,0.9844,28007
+2018,28009,Benton County,Mississippi,10,0.6605,28009
+2018,28011,Bolivar County,Mississippi,12.4,0.9675,28011
+2018,28013,Calhoun County,Mississippi,11.8,0.965,28013
+2018,28015,Carroll County,Mississippi,10.1,0.6303,28015
+2018,28017,Chickasaw County,Mississippi,10.2,0.9143,28017
+2018,28019,Choctaw County,Mississippi,12.4,0.8541,28019
+2018,28021,Claiborne County,Mississippi,9.3,0.992,28021
+2018,28023,Clarke County,Mississippi,9.9,0.6669,28023
+2018,28025,Clay County,Mississippi,12.1,0.7054,28025
+2018,28027,Coahoma County,Mississippi,13.3,0.9322,28027
+2018,28029,Copiah County,Mississippi,12.6,0.9411,28029
+2018,28031,Covington County,Mississippi,9.7,0.7879,28031
+2018,28033,Desoto County,Mississippi,12.3,0.3032,28033
+2018,28035,Forrest County,Mississippi,10.9,0.9366,28035
+2018,28037,Franklin County,Mississippi,8.7,0.5717,28037
+2018,28039,George County,Mississippi,10.5,0.6137,28039
+2018,28041,Greene County,Mississippi,9.6,0.6067,28041
+2018,28043,Grenada County,Mississippi,12.2,0.8771,28043
+2018,28045,Hancock County,Mississippi,7.9,0.5924,28045
+2018,28047,Harrison County,Mississippi,10.1,0.8838,28047
+2018,28049,Hinds County,Mississippi,11.7,0.8742,28049
+2018,28051,Holmes County,Mississippi,12.4,0.9818,28051
+2018,28053,Humphreys County,Mississippi,8.6,0.9369,28053
+2018,28055,Issaquena County,Mississippi,8,0.951,28055
+2018,28057,Itawamba County,Mississippi,11.8,0.5487,28057
+2018,28059,Jackson County,Mississippi,11.8,0.5433,28059
+2018,28061,Jasper County,Mississippi,11.5,0.7691,28061
+2018,28063,Jefferson County,Mississippi,11.1,0.9637,28063
+2018,28065,Jefferson Davis County,Mississippi,10.3,0.8439,28065
+2018,28067,Jones County,Mississippi,13.3,0.892,28067
+2018,28069,Kemper County,Mississippi,9,0.9274,28069
+2018,28071,Lafayette County,Mississippi,9.8,0.5096,28071
+2018,28073,Lamar County,Mississippi,10.5,0.5306,28073
+2018,28075,Lauderdale County,Mississippi,9.5,0.9283,28075
+2018,28077,Lawrence County,Mississippi,10.3,0.6634,28077
+2018,28079,Leake County,Mississippi,11.3,0.9946,28079
+2018,28081,Lee County,Mississippi,11.2,0.7952,28081
+2018,28083,Leflore County,Mississippi,12.6,0.9653,28083
+2018,28085,Lincoln County,Mississippi,12.4,0.7586,28085
+2018,28087,Lowndes County,Mississippi,13.2,0.7975,28087
+2018,28089,Madison County,Mississippi,8.3,0.2898,28089
+2018,28091,Marion County,Mississippi,9.6,0.935,28091
+2018,28093,Marshall County,Mississippi,10.4,0.6904,28093
+2018,28095,Monroe County,Mississippi,13.1,0.6398,28095
+2018,28097,Montgomery County,Mississippi,10.7,0.8914,28097
+2018,28099,Neshoba County,Mississippi,12.7,0.9685,28099
+2018,28101,Newton County,Mississippi,9.9,0.9213,28101
+2018,28103,Noxubee County,Mississippi,10.2,0.986,28103
+2018,28105,Oktibbeha County,Mississippi,9.7,0.642,28105
+2018,28107,Panola County,Mississippi,12.8,0.8933,28107
+2018,28109,Pearl River County,Mississippi,11.4,0.7051,28109
+2018,28111,Perry County,Mississippi,10,0.7086,28111
+2018,28113,Pike County,Mississippi,12.9,0.9882,28113
+2018,28115,Pontotoc County,Mississippi,10.8,0.8962,28115
+2018,28117,Prentiss County,Mississippi,10.6,0.8513,28117
+2018,28119,Quitman County,Mississippi,9.5,0.9545,28119
+2018,28121,Rankin County,Mississippi,9.5,0.3127,28121
+2018,28123,Scott County,Mississippi,14.4,0.985,28123
+2018,28125,Sharkey County,Mississippi,8.4,0.9729,28125
+2018,28127,Simpson County,Mississippi,11.7,0.9073,28127
+2018,28129,Smith County,Mississippi,10.2,0.4732,28129
+2018,28131,Stone County,Mississippi,8.9,0.6045,28131
+2018,28133,Sunflower County,Mississippi,15.7,0.9494,28133
+2018,28135,Tallahatchie County,Mississippi,11.4,0.9736,28135
+2018,28137,Tate County,Mississippi,10.1,0.865,28137
+2018,28139,Tippah County,Mississippi,12.1,0.8646,28139
+2018,28141,Tishomingo County,Mississippi,10.2,0.6659,28141
+2018,28143,Tunica County,Mississippi,9.1,0.972,28143
+2018,28145,Union County,Mississippi,8.8,0.8277,28145
+2018,28147,Walthall County,Mississippi,12.3,0.8611,28147
+2018,28149,Warren County,Mississippi,10.8,0.8605,28149
+2018,28151,Washington County,Mississippi,14.2,0.9783,28151
+2018,28153,Wayne County,Mississippi,13.7,0.8997,28153
+2018,28155,Webster County,Mississippi,8.4,0.5962,28155
+2018,28157,Wilkinson County,Mississippi,9.1,0.9169,28157
+2018,28159,Winston County,Mississippi,13.9,0.9306,28159
+2018,28161,Yalobusha County,Mississippi,13.3,0.7347,28161
+2018,28163,Yazoo County,Mississippi,8.7,0.9952,28163
+2018,29001,Adair County,Missouri,7.6,0.4548,29001
+2018,29003,Andrew County,Missouri,6.9,0.0325,29003
+2018,29005,Atchison County,Missouri,9.2,0.0736,29005
+2018,29007,Audrain County,Missouri,8.1,0.615,29007
+2018,29009,Barry County,Missouri,8.3,0.7099,29009
+2018,29011,Barton County,Missouri,7.2,0.5994,29011
+2018,29013,Bates County,Missouri,8.7,0.3857,29013
+2018,29015,Benton County,Missouri,8,0.5513,29015
+2018,29017,Bollinger County,Missouri,7.7,0.4793,29017
+2018,29019,Boone County,Missouri,7.4,0.2927,29019
+2018,29021,Buchanan County,Missouri,11.7,0.7182,29021
+2018,29023,Butler County,Missouri,9.2,0.8172,29023
+2018,29025,Caldwell County,Missouri,7.7,0.4513,29025
+2018,29027,Callaway County,Missouri,10.9,0.3232,29027
+2018,29029,Camden County,Missouri,8.4,0.3363,29029
+2018,29031,Cape Girardeau County,Missouri,9.8,0.4118,29031
+2018,29033,Carroll County,Missouri,9.3,0.5325,29033
+2018,29035,Carter County,Missouri,6.7,0.7455,29035
+2018,29037,Cass County,Missouri,8.1,0.1188,29037
+2018,29039,Cedar County,Missouri,6.5,0.6411,29039
+2018,29041,Chariton County,Missouri,9,0.1898,29041
+2018,29043,Christian County,Missouri,8.7,0.1497,29043
+2018,29045,Clark County,Missouri,8.2,0.342,29045
+2018,29047,Clay County,Missouri,9,0.1363,29047
+2018,29049,Clinton County,Missouri,8.3,0.1643,29049
+2018,29051,Cole County,Missouri,8.1,0.2583,29051
+2018,29053,Cooper County,Missouri,7.2,0.3892,29053
+2018,29055,Crawford County,Missouri,9.2,0.7554,29055
+2018,29057,Dade County,Missouri,7,0.6637,29057
+2018,29059,Dallas County,Missouri,6.9,0.7019,29059
+2018,29061,Daviess County,Missouri,6.7,0.4707,29061
+2018,29063,Dekalb County,Missouri,8.2,0.4054,29063
+2018,29065,Dent County,Missouri,7.1,0.6312,29065
+2018,29067,Douglas County,Missouri,7.7,0.5232,29067
+2018,29069,Dunklin County,Missouri,12.4,0.958,29069
+2018,29071,Franklin County,Missouri,8.6,0.1459,29071
+2018,29073,Gasconade County,Missouri,7.9,0.0854,29073
+2018,29075,Gentry County,Missouri,9.3,0.4389,29075
+2018,29077,Greene County,Missouri,10.8,0.4395,29077
+2018,29079,Grundy County,Missouri,7.7,0.6185,29079
+2018,29081,Harrison County,Missouri,10.7,0.7417,29081
+2018,29083,Henry County,Missouri,8.3,0.5959,29083
+2018,29085,Hickory County,Missouri,6.7,0.4672,29085
+2018,29087,Holt County,Missouri,8.9,0.1959,29087
+2018,29089,Howard County,Missouri,6.8,0.4041,29089
+2018,29091,Howell County,Missouri,11.9,0.6717,29091
+2018,29093,Iron County,Missouri,8.3,0.7822,29093
+2018,29095,Jackson County,Missouri,9.8,0.5354,29095
+2018,29097,Jasper County,Missouri,8.9,0.6564,29097
+2018,29099,Jefferson County,Missouri,9.8,0.1863,29099
+2018,29101,Johnson County,Missouri,9,0.3506,29101
+2018,29103,Knox County,Missouri,8.1,0.557,29103
+2018,29105,Laclede County,Missouri,8.3,0.6178,29105
+2018,29107,Lafayette County,Missouri,8.1,0.3882,29107
+2018,29109,Lawrence County,Missouri,7.6,0.7866,29109
+2018,29111,Lewis County,Missouri,9.5,0.4465,29111
+2018,29113,Lincoln County,Missouri,9.9,0.2939,29113
+2018,29115,Linn County,Missouri,8.5,0.272,29115
+2018,29117,Livingston County,Missouri,9.1,0.3748,29117
+2018,29121,Macon County,Missouri,8,0.586,29121
+2018,29123,Madison County,Missouri,9,0.4777,29123
+2018,29125,Maries County,Missouri,7,0.5118,29125
+2018,29127,Marion County,Missouri,9,0.5459,29127
+2018,29119,Mcdonald County,Missouri,7.8,0.8631,29119
+2018,29129,Mercer County,Missouri,6.7,0.3045,29129
+2018,29131,Miller County,Missouri,6.8,0.501,29131
+2018,29133,Mississippi County,Missouri,11.2,0.9076,29133
+2018,29135,Moniteau County,Missouri,7.4,0.5143,29135
+2018,29137,Monroe County,Missouri,7.5,0.3876,29137
+2018,29139,Montgomery County,Missouri,6.6,0.5331,29139
+2018,29141,Morgan County,Missouri,6.5,0.629,29141
+2018,29143,New Madrid County,Missouri,12,0.8968,29143
+2018,29145,Newton County,Missouri,8,0.4341,29145
+2018,29147,Nodaway County,Missouri,7.5,0.222,29147
+2018,29149,Oregon County,Missouri,8.2,0.4885,29149
+2018,29151,Osage County,Missouri,8.1,0.0497,29151
+2018,29153,Ozark County,Missouri,7.4,0.5825,29153
+2018,29155,Pemiscot County,Missouri,12,0.9303,29155
+2018,29157,Perry County,Missouri,7.7,0.2312,29157
+2018,29159,Pettis County,Missouri,8.3,0.8035,29159
+2018,29161,Phelps County,Missouri,6.7,0.6596,29161
+2018,29163,Pike County,Missouri,8.3,0.5376,29163
+2018,29165,Platte County,Missouri,9,0.0959,29165
+2018,29167,Polk County,Missouri,8,0.5987,29167
+2018,29169,Pulaski County,Missouri,8.2,0.6503,29169
+2018,29171,Putnam County,Missouri,6.9,0.5764,29171
+2018,29173,Ralls County,Missouri,6.1,0.1045,29173
+2018,29175,Randolph County,Missouri,8.2,0.5554,29175
+2018,29177,Ray County,Missouri,9.3,0.2573,29177
+2018,29179,Reynolds County,Missouri,7.8,0.5573,29179
+2018,29181,Ripley County,Missouri,10,0.715,29181
+2018,29195,Saline County,Missouri,9,0.8162,29195
+2018,29197,Schuyler County,Missouri,7.5,0.3831,29197
+2018,29199,Scotland County,Missouri,7.4,0.5303,29199
+2018,29201,Scott County,Missouri,10.3,0.7844,29201
+2018,29203,Shannon County,Missouri,6.6,0.6449,29203
+2018,29205,Shelby County,Missouri,8.1,0.3984,29205
+2018,29183,St. Charles County,Missouri,8.9,0.0363,29183
+2018,29185,St. Clair County,Missouri,7.3,0.4987,29185
+2018,29187,St. Francois County,Missouri,8.4,0.7016,29187
+2018,29189,St. Louis County,Missouri,8.6,0.2611,29189
+2018,29510,St. Louis City,Missouri,11.9,0.7796,29510
+2018,29186,Ste. Genevieve County,Missouri,7,0.1885,29186
+2018,29207,Stoddard County,Missouri,13.2,0.4643,29207
+2018,29209,Stone County,Missouri,7,0.3487,29209
+2018,29211,Sullivan County,Missouri,7.8,0.6296,29211
+2018,29213,Taney County,Missouri,9.1,0.8217,29213
+2018,29215,Texas County,Missouri,8.4,0.8303,29215
+2018,29217,Vernon County,Missouri,7.1,0.451,29217
+2018,29219,Warren County,Missouri,8.8,0.3841,29219
+2018,29221,Washington County,Missouri,8.6,0.7904,29221
+2018,29223,Wayne County,Missouri,8.2,0.7646,29223
+2018,29225,Webster County,Missouri,7.6,0.6385,29225
+2018,29227,Worth County,Missouri,7.1,0.2239,29227
+2018,29229,Wright County,Missouri,8.4,0.9006,29229
+2018,30001,Beaverhead County,Montana,6.7,0.2516,30001
+2018,30003,Big Horn County,Montana,12.8,0.8274,30003
+2018,30005,Blaine County,Montana,12.3,0.915,30005
+2018,30007,Broadwater County,Montana,6.8,0.042,30007
+2018,30009,Carbon County,Montana,5.8,0.0433,30009
+2018,30011,Carter County,Montana,6.5,0.0487,30011
+2018,30013,Cascade County,Montana,8.5,0.4102,30013
+2018,30015,Chouteau County,Montana,8.1,0.4799,30015
+2018,30017,Custer County,Montana,9.5,0.2901,30017
+2018,30019,Daniels County,Montana,7.2,0.0242,30019
+2018,30021,Dawson County,Montana,7.6,0.0752,30021
+2018,30023,Deer Lodge County,Montana,9.2,0.4717,30023
+2018,30025,Fallon County,Montana,7.2,0.0217,30025
+2018,30027,Fergus County,Montana,8.8,0.2376,30027
+2018,30029,Flathead County,Montana,6.1,0.0924,30029
+2018,30031,Gallatin County,Montana,5,0.0427,30031
+2018,30033,Garfield County,Montana,7.7,0.0076,30033
+2018,30035,Glacier County,Montana,13.5,0.8583,30035
+2018,30037,Golden Valley County,Montana,6.8,0.0519,30037
+2018,30039,Granite County,Montana,7.3,0.0764,30039
+2018,30041,Hill County,Montana,9,0.6984,30041
+2018,30043,Jefferson County,Montana,6.6,0.0481,30043
+2018,30045,Judith Basin County,Montana,8.2,0.0162,30045
+2018,30047,Lake County,Montana,8.4,0.6468,30047
+2018,30049,Lewis And Clark County,Montana,7.8,0.1258,30049
+2018,30051,Liberty County,Montana,8.8,0.4099,30051
+2018,30053,Lincoln County,Montana,7.7,0.4194,30053
+2018,30057,Madison County,Montana,6,0.1726,30057
+2018,30055,Mccone County,Montana,6.5,0.0774,30055
+2018,30059,Meagher County,Montana,6.7,0.0465,30059
+2018,30061,Mineral County,Montana,7.1,0.5621,30061
+2018,30063,Missoula County,Montana,6.2,0.178,30063
+2018,30065,Musselshell County,Montana,6.3,0.3551,30065
+2018,30067,Park County,Montana,6.1,0.0688,30067
+2018,30069,Petroleum County,Montana,6.9,0.0029,30069
+2018,30071,Phillips County,Montana,7.1,0.4146,30071
+2018,30073,Pondera County,Montana,9.7,0.8296,30073
+2018,30075,Powder River County,Montana,6.4,0.0392,30075
+2018,30077,Powell County,Montana,7.9,0.2545,30077
+2018,30079,Prairie County,Montana,6.9,0.0758,30079
+2018,30081,Ravalli County,Montana,6.9,0.186,30081
+2018,30083,Richland County,Montana,8.2,0.2121,30083
+2018,30085,Roosevelt County,Montana,13.6,0.8879,30085
+2018,30087,Rosebud County,Montana,9.5,0.607,30087
+2018,30089,Sanders County,Montana,8.5,0.3478,30089
+2018,30091,Sheridan County,Montana,6.9,0.0949,30091
+2018,30093,Silver Bow County,Montana,8.7,0.5258,30093
+2018,30095,Stillwater County,Montana,7.6,0.036,30095
+2018,30097,Sweet Grass County,Montana,7.3,0.0086,30097
+2018,30099,Teton County,Montana,6.9,0.2981,30099
+2018,30101,Toole County,Montana,6.8,0.4768,30101
+2018,30103,Treasure County,Montana,7.3,0.0567,30103
+2018,30105,Valley County,Montana,8.7,0.1162,30105
+2018,30107,Wheatland County,Montana,6.6,0.5436,30107
+2018,30109,Wibaux County,Montana,7.8,0.3933,30109
+2018,30111,Yellowstone County,Montana,7.2,0.2497,30111
+2018,31001,Adams County,Nebraska,9.2,0.3592,31001
+2018,31003,Antelope County,Nebraska,8.2,0.1032,31003
+2018,31005,Arthur County,Nebraska,6.8,0.0083,31005
+2018,31007,Banner County,Nebraska,7.6,0.0041,31007
+2018,31009,Blaine County,Nebraska,7,0.0908,31009
+2018,31011,Boone County,Nebraska,7.2,0.0283,31011
+2018,31013,Box Butte County,Nebraska,9.5,0.3586,31013
+2018,31015,Boyd County,Nebraska,7,0.092,31015
+2018,31017,Brown County,Nebraska,7.2,0.1252,31017
+2018,31019,Buffalo County,Nebraska,8.8,0.2656,31019
+2018,31021,Burt County,Nebraska,7,0.2541,31021
+2018,31023,Butler County,Nebraska,8.5,0.1172,31023
+2018,31025,Cass County,Nebraska,8.5,0.0108,31025
+2018,31027,Cedar County,Nebraska,6.1,0.0121,31027
+2018,31029,Chase County,Nebraska,6.1,0.1551,31029
+2018,31031,Cherry County,Nebraska,6,0.2261,31031
+2018,31033,Cheyenne County,Nebraska,8.2,0.121,31033
+2018,31035,Clay County,Nebraska,7.2,0.1646,31035
+2018,31037,Colfax County,Nebraska,7.1,0.5188,31037
+2018,31039,Cuming County,Nebraska,6.2,0.1936,31039
+2018,31041,Custer County,Nebraska,8.1,0.1818,31041
+2018,31043,Dakota County,Nebraska,10.4,0.8615,31043
+2018,31045,Dawes County,Nebraska,6.7,0.1717,31045
+2018,31047,Dawson County,Nebraska,10.6,0.7933,31047
+2018,31049,Deuel County,Nebraska,7.6,0.165,31049
+2018,31051,Dixon County,Nebraska,7.2,0.379,31051
+2018,31053,Dodge County,Nebraska,8.2,0.5691,31053
+2018,31055,Douglas County,Nebraska,9.5,0.4669,31055
+2018,31057,Dundy County,Nebraska,6.2,0.3038,31057
+2018,31059,Fillmore County,Nebraska,8.7,0.0618,31059
+2018,31061,Franklin County,Nebraska,7.8,0.0768,31061
+2018,31063,Frontier County,Nebraska,6.5,0.0994,31063
+2018,31065,Furnas County,Nebraska,7.7,0.1825,31065
+2018,31067,Gage County,Nebraska,9,0.1105,31067
+2018,31069,Garden County,Nebraska,7.1,0.0143,31069
+2018,31071,Garfield County,Nebraska,7.2,0.043,31071
+2018,31073,Gosper County,Nebraska,7.1,0.0051,31073
+2018,31075,Grant County,Nebraska,6.5,0.1328,31075
+2018,31077,Greeley County,Nebraska,7.8,0.0411,31077
+2018,31079,Hall County,Nebraska,9.7,0.6701,31079
+2018,31081,Hamilton County,Nebraska,9,0.0089,31081
+2018,31083,Harlan County,Nebraska,7.5,0.1239,31083
+2018,31085,Hayes County,Nebraska,7.3,0.0436,31085
+2018,31087,Hitchcock County,Nebraska,9.4,0.1943,31087
+2018,31089,Holt County,Nebraska,7.8,0.0981,31089
+2018,31091,Hooker County,Nebraska,6.8,0.1468,31091
+2018,31093,Howard County,Nebraska,8.4,0.0803,31093
+2018,31095,Jefferson County,Nebraska,7.8,0.2185,31095
+2018,31097,Johnson County,Nebraska,7.3,0.5777,31097
+2018,31099,Kearney County,Nebraska,7.2,0.0939,31099
+2018,31101,Keith County,Nebraska,6.7,0.2268,31101
+2018,31103,Keya Paha County,Nebraska,7.4,0.001,31103
+2018,31105,Kimball County,Nebraska,7.3,0.5611,31105
+2018,31107,Knox County,Nebraska,8,0.3277,31107
+2018,31109,Lancaster County,Nebraska,8,0.3025,31109
+2018,31111,Lincoln County,Nebraska,9.8,0.3675,31111
+2018,31113,Logan County,Nebraska,7,0.1073,31113
+2018,31115,Loup County,Nebraska,8.4,0.0045,31115
+2018,31119,Madison County,Nebraska,8.2,0.5105,31119
+2018,31117,Mcpherson County,Nebraska,6.6,0.0838,31117
+2018,31121,Merrick County,Nebraska,10.7,0.1975,31121
+2018,31123,Morrill County,Nebraska,9.8,0.422,31123
+2018,31125,Nance County,Nebraska,8.2,0.0825,31125
+2018,31127,Nemaha County,Nebraska,9,0.1659,31127
+2018,31129,Nuckolls County,Nebraska,6.9,0.1736,31129
+2018,31131,Otoe County,Nebraska,9.1,0.2287,31131
+2018,31133,Pawnee County,Nebraska,7.7,0.2318,31133
+2018,31135,Perkins County,Nebraska,6.2,0.0538,31135
+2018,31137,Phelps County,Nebraska,7.6,0.1226,31137
+2018,31139,Pierce County,Nebraska,8.7,0.0229,31139
+2018,31141,Platte County,Nebraska,8.4,0.2994,31141
+2018,31143,Polk County,Nebraska,6.8,0.1908,31143
+2018,31145,Red Willow County,Nebraska,7.5,0.2373,31145
+2018,31147,Richardson County,Nebraska,7.1,0.1025,31147
+2018,31149,Rock County,Nebraska,7.5,0.0092,31149
+2018,31151,Saline County,Nebraska,9.6,0.5978,31151
+2018,31153,Sarpy County,Nebraska,8.5,0.0971,31153
+2018,31155,Saunders County,Nebraska,8.7,0.0424,31155
+2018,31157,Scotts Bluff County,Nebraska,10.8,0.5675,31157
+2018,31159,Seward County,Nebraska,6.8,0.0468,31159
+2018,31161,Sheridan County,Nebraska,9,0.5968,31161
+2018,31163,Sherman County,Nebraska,7.3,0.0739,31163
+2018,31165,Sioux County,Nebraska,6.4,0.0178,31165
+2018,31167,Stanton County,Nebraska,7.8,0.057,31167
+2018,31169,Thayer County,Nebraska,7.2,0.058,31169
+2018,31171,Thomas County,Nebraska,7.5,0.0035,31171
+2018,31173,Thurston County,Nebraska,13.6,0.8866,31173
+2018,31175,Valley County,Nebraska,7.1,0.1484,31175
+2018,31177,Washington County,Nebraska,7.6,0.0379,31177
+2018,31179,Wayne County,Nebraska,7.8,0.0847,31179
+2018,31181,Webster County,Nebraska,7.5,0.1092,31181
+2018,31183,Wheeler County,Nebraska,7.5,0.0048,31183
+2018,31185,York County,Nebraska,9,0.1828,31185
+2018,32510,Carson City,Nevada,9.1,0.8443,32510
+2018,32001,Churchill County,Nevada,8.7,0.6048,32001
+2018,32003,Clark County,Nevada,10,0.7404,32003
+2018,32005,Douglas County,Nevada,6.3,0.1793,32005
+2018,32007,Elko County,Nevada,8,0.5178,32007
+2018,32009,Esmeralda County,Nevada,6.9,0.6395,32009
+2018,32011,Eureka County,Nevada,7.3,0.0675,32011
+2018,32013,Humboldt County,Nevada,7.9,0.5869,32013
+2018,32015,Lander County,Nevada,7.7,0.8261,32015
+2018,32017,Lincoln County,Nevada,7.9,0.4213,32017
+2018,32019,Lyon County,Nevada,8.5,0.5783,32019
+2018,32021,Mineral County,Nevada,9.7,0.8815,32021
+2018,32023,Nye County,Nevada,10.2,0.7309,32023
+2018,32027,Pershing County,Nevada,6.7,0.9038,32027
+2018,32029,Storey County,Nevada,7.2,0.0717,32029
+2018,32031,Washoe County,Nevada,7,0.5271,32031
+2018,32033,White Pine County,Nevada,9.3,0.3742,32033
+2018,33001,Belknap County,New Hampshire,7.7,0.0841,33001
+2018,33003,Carroll County,New Hampshire,8,0.0583,33003
+2018,33005,Cheshire County,New Hampshire,8,0.1417,33005
+2018,33007,Coos County,New Hampshire,10,0.529,33007
+2018,33009,Grafton County,New Hampshire,6.1,0.1882,33009
+2018,33011,Hillsborough County,New Hampshire,8.5,0.1911,33011
+2018,33013,Merrimack County,New Hampshire,7.7,0.1455,33013
+2018,33015,Rockingham County,New Hampshire,7.3,0.0111,33015
+2018,33017,Strafford County,New Hampshire,9.7,0.1748,33017
+2018,33019,Sullivan County,New Hampshire,7.8,0.1513,33019
+2018,34001,Atlantic County,New Jersey,10.6,0.7911,34001
+2018,34003,Bergen County,New Jersey,7.5,0.2395,34003
+2018,34005,Burlington County,New Jersey,10.1,0.2054,34005
+2018,34007,Camden County,New Jersey,11.6,0.6118,34007
+2018,34009,Cape May County,New Jersey,8.5,0.3398,34009
+2018,34011,Cumberland County,New Jersey,10.7,0.9592,34011
+2018,34013,Essex County,New Jersey,10.5,0.8404,34013
+2018,34015,Gloucester County,New Jersey,9.5,0.1675,34015
+2018,34017,Hudson County,New Jersey,8.8,0.6424,34017
+2018,34019,Hunterdon County,New Jersey,5.7,0.0264,34019
+2018,34021,Mercer County,New Jersey,9.3,0.558,34021
+2018,34023,Middlesex County,New Jersey,10.3,0.4659,34023
+2018,34025,Monmouth County,New Jersey,7.1,0.1605,34025
+2018,34027,Morris County,New Jersey,6.3,0.1201,34027
+2018,34029,Ocean County,New Jersey,8.4,0.3354,34029
+2018,34031,Passaic County,New Jersey,8.8,0.7764,34031
+2018,34033,Salem County,New Jersey,12.8,0.5901,34033
+2018,34035,Somerset County,New Jersey,6.4,0.1,34035
+2018,34037,Sussex County,New Jersey,7.8,0.0191,34037
+2018,34039,Union County,New Jersey,7.4,0.6232,34039
+2018,34041,Warren County,New Jersey,8,0.2178,34041
+2018,35001,Bernalillo County,New Mexico,7.4,0.6828,35001
+2018,35003,Catron County,New Mexico,6.6,0.3357,35003
+2018,35005,Chaves County,New Mexico,9.8,0.9551,35005
+2018,35006,Cibola County,New Mexico,12.5,0.9984,35006
+2018,35007,Colfax County,New Mexico,8,0.9627,35007
+2018,35009,Curry County,New Mexico,9.9,0.8774,35009
+2018,35011,De Baca County,New Mexico,7.3,0.6939,35011
+2018,35013,Doña Ana County,New Mexico,9.4,0.9841,35013
+2018,35015,Eddy County,New Mexico,11.4,0.7032,35015
+2018,35017,Grant County,New Mexico,7.5,0.9296,35017
+2018,35019,Guadalupe County,New Mexico,7.1,0.9529,35019
+2018,35021,Harding County,New Mexico,6.9,0.3615,35021
+2018,35023,Hidalgo County,New Mexico,7,0.9631,35023
+2018,35025,Lea County,New Mexico,11.1,0.9217,35025
+2018,35027,Lincoln County,New Mexico,6.2,0.4796,35027
+2018,35028,Los Alamos County,New Mexico,6.1,0.0248,35028
+2018,35029,Luna County,New Mexico,9.6,0.999,35029
+2018,35031,Mckinley County,New Mexico,15.9,0.9889,35031
+2018,35033,Mora County,New Mexico,9.5,0.7959,35033
+2018,35035,Otero County,New Mexico,9.1,0.914,35035
+2018,35037,Quay County,New Mexico,7.4,0.8096,35037
+2018,35041,Roosevelt County,New Mexico,7.9,0.943,35041
+2018,35045,San Juan County,New Mexico,11.5,0.9194,35045
+2018,35047,San Miguel County,New Mexico,10.5,0.9863,35047
+2018,35043,Sandoval County,New Mexico,8,0.4818,35043
+2018,35049,Santa Fe County,New Mexico,5.8,0.5255,35049
+2018,35051,Sierra County,New Mexico,7.6,0.9146,35051
+2018,35053,Socorro County,New Mexico,8.8,0.9745,35053
+2018,35055,Taos County,New Mexico,6.1,0.8586,35055
+2018,35057,Torrance County,New Mexico,9.3,0.749,35057
+2018,35059,Union County,New Mexico,7.3,0.6793,35059
+2018,35061,Valencia County,New Mexico,9.6,0.9041,35061
+2018,36001,Albany County,New York,8.3,0.3041,36001
+2018,36003,Allegany County,New York,9.4,0.5818,36003
+2018,36005,Bronx County,New York,12.8,0.9927,36005
+2018,36007,Broome County,New York,8.8,0.6166,36007
+2018,36009,Cattaraugus County,New York,11.6,0.7283,36009
+2018,36011,Cayuga County,New York,9,0.5025,36011
+2018,36013,Chautauqua County,New York,9.8,0.7248,36013
+2018,36015,Chemung County,New York,10.4,0.485,36015
+2018,36017,Chenango County,New York,10.3,0.5646,36017
+2018,36019,Clinton County,New York,9.5,0.5312,36019
+2018,36021,Columbia County,New York,7.3,0.3854,36021
+2018,36023,Cortland County,New York,9.2,0.3452,36023
+2018,36025,Delaware County,New York,8.2,0.6331,36025
+2018,36027,Dutchess County,New York,8.3,0.4207,36027
+2018,36029,Erie County,New York,9.7,0.414,36029
+2018,36031,Essex County,New York,8,0.3869,36031
+2018,36033,Franklin County,New York,11.4,0.7073,36033
+2018,36035,Fulton County,New York,11.1,0.501,36035
+2018,36037,Genesee County,New York,10.5,0.1879,36037
+2018,36039,Greene County,New York,8.8,0.4159,36039
+2018,36041,Hamilton County,New York,8.5,0.3898,36041
+2018,36043,Herkimer County,New York,8,0.5322,36043
+2018,36045,Jefferson County,New York,10.1,0.6484,36045
+2018,36047,Kings County,New York,9.4,0.8153,36047
+2018,36049,Lewis County,New York,11,0.2911,36049
+2018,36051,Livingston County,New York,9.4,0.3424,36051
+2018,36053,Madison County,New York,8.4,0.1666,36053
+2018,36055,Monroe County,New York,7.9,0.5204,36055
+2018,36057,Montgomery County,New York,10.4,0.8306,36057
+2018,36059,Nassau County,New York,7.3,0.243,36059
+2018,36061,New York County,New York,6.6,0.551,36061
+2018,36063,Niagara County,New York,10.8,0.3318,36063
+2018,36065,Oneida County,New York,11.5,0.6946,36065
+2018,36067,Onondaga County,New York,9.2,0.5207,36067
+2018,36069,Ontario County,New York,7.9,0.2315,36069
+2018,36071,Orange County,New York,8.5,0.5538,36071
+2018,36073,Orleans County,New York,11.9,0.643,36073
+2018,36075,Oswego County,New York,8.6,0.6497,36075
+2018,36077,Otsego County,New York,7,0.4236,36077
+2018,36079,Putnam County,New York,6.5,0.0812,36079
+2018,36081,Queens County,New York,10.6,0.6201,36081
+2018,36083,Rensselaer County,New York,8.8,0.343,36083
+2018,36085,Richmond County,New York,9.8,0.4764,36085
+2018,36087,Rockland County,New York,7.6,0.6038,36087
+2018,36091,Saratoga County,New York,7.5,0.0475,36091
+2018,36093,Schenectady County,New York,9.3,0.3943,36093
+2018,36095,Schoharie County,New York,8.7,0.4013,36095
+2018,36097,Schuyler County,New York,9.7,0.3691,36097
+2018,36099,Seneca County,New York,9.7,0.449,36099
+2018,36089,St. Lawrence County,New York,9.6,0.7475,36089
+2018,36101,Steuben County,New York,10.7,0.4691,36101
+2018,36103,Suffolk County,New York,8.3,0.2146,36103
+2018,36105,Sullivan County,New York,9.4,0.7939,36105
+2018,36107,Tioga County,New York,9.3,0.1994,36107
+2018,36109,Tompkins County,New York,6.5,0.3462,36109
+2018,36111,Ulster County,New York,7.9,0.4704,36111
+2018,36113,Warren County,New York,7.5,0.1742,36113
+2018,36115,Washington County,New York,10.1,0.4,36115
+2018,36117,Wayne County,New York,10.8,0.3414,36117
+2018,36119,Westchester County,New York,7.2,0.5516,36119
+2018,36121,Wyoming County,New York,9.9,0.3121,36121
+2018,36123,Yates County,New York,10.6,0.4392,36123
+2018,37001,Alamance County,North Carolina,8.8,0.7838,37001
+2018,37003,Alexander County,North Carolina,8.3,0.6341,37003
+2018,37005,Alleghany County,North Carolina,6.9,0.6268,37005
+2018,37007,Anson County,North Carolina,8,0.9443,37007
+2018,37009,Ashe County,North Carolina,7.5,0.4994,37009
+2018,37011,Avery County,North Carolina,7,0.6446,37011
+2018,37013,Beaufort County,North Carolina,8.9,0.7156,37013
+2018,37015,Bertie County,North Carolina,11.4,0.9385,37015
+2018,37017,Bladen County,North Carolina,9.6,0.9446,37017
+2018,37019,Brunswick County,North Carolina,7.7,0.3583,37019
+2018,37021,Buncombe County,North Carolina,6.9,0.3799,37021
+2018,37023,Burke County,North Carolina,7.3,0.8487,37023
+2018,37025,Cabarrus County,North Carolina,9.4,0.4175,37025
+2018,37027,Caldwell County,North Carolina,12.2,0.651,37027
+2018,37029,Camden County,North Carolina,8,0.307,37029
+2018,37031,Carteret County,North Carolina,10.6,0.4255,37031
+2018,37033,Caswell County,North Carolina,7.7,0.836,37033
+2018,37035,Catawba County,North Carolina,8.8,0.6481,37035
+2018,37037,Chatham County,North Carolina,7.4,0.3809,37037
+2018,37039,Cherokee County,North Carolina,8.2,0.4869,37039
+2018,37041,Chowan County,North Carolina,10.2,0.8118,37041
+2018,37043,Clay County,North Carolina,6.7,0.2191,37043
+2018,37045,Cleveland County,North Carolina,9.9,0.835,37045
+2018,37047,Columbus County,North Carolina,10.6,0.9481,37047
+2018,37049,Craven County,North Carolina,9.2,0.8099,37049
+2018,37051,Cumberland County,North Carolina,11.4,0.864,37051
+2018,37053,Currituck County,North Carolina,7.9,0.1194,37053
+2018,37055,Dare County,North Carolina,7.4,0.1449,37055
+2018,37057,Davidson County,North Carolina,11.5,0.6841,37057
+2018,37059,Davie County,North Carolina,7.2,0.4411,37059
+2018,37061,Duplin County,North Carolina,9.2,0.979,37061
+2018,37063,Durham County,North Carolina,7.4,0.6197,37063
+2018,37065,Edgecombe County,North Carolina,9.6,0.9726,37065
+2018,37067,Forsyth County,North Carolina,10.1,0.6834,37067
+2018,37069,Franklin County,North Carolina,9.7,0.6376,37069
+2018,37071,Gaston County,North Carolina,8.7,0.672,37071
+2018,37073,Gates County,North Carolina,9.3,0.3567,37073
+2018,37075,Graham County,North Carolina,7.1,0.6338,37075
+2018,37077,Granville County,North Carolina,9.1,0.6561,37077
+2018,37079,Greene County,North Carolina,8.3,0.9924,37079
+2018,37081,Guilford County,North Carolina,10.3,0.6369,37081
+2018,37083,Halifax County,North Carolina,11.6,0.9646,37083
+2018,37085,Harnett County,North Carolina,12.1,0.7869,37085
+2018,37087,Haywood County,North Carolina,8,0.2809,37087
+2018,37089,Henderson County,North Carolina,8.3,0.321,37089
+2018,37091,Hertford County,North Carolina,13.1,0.9873,37091
+2018,37093,Hoke County,North Carolina,9.2,0.8924,37093
+2018,37095,Hyde County,North Carolina,8.8,0.8627,37095
+2018,37097,Iredell County,North Carolina,9.6,0.3745,37097
+2018,37099,Jackson County,North Carolina,8.4,0.6236,37099
+2018,37101,Johnston County,North Carolina,10,0.5395,37101
+2018,37103,Jones County,North Carolina,8.1,0.8761,37103
+2018,37105,Lee County,North Carolina,8.4,0.8481,37105
+2018,37107,Lenoir County,North Carolina,9.2,0.9933,37107
+2018,37109,Lincoln County,North Carolina,7,0.3564,37109
+2018,37113,Macon County,North Carolina,9.5,0.3548,37113
+2018,37115,Madison County,North Carolina,6.8,0.4586,37115
+2018,37117,Martin County,North Carolina,10,0.7541,37117
+2018,37111,Mcdowell County,North Carolina,8.3,0.7895,37111
+2018,37119,Mecklenburg County,North Carolina,8.1,0.4408,37119
+2018,37121,Mitchell County,North Carolina,8.2,0.4223,37121
+2018,37123,Montgomery County,North Carolina,9.2,0.8713,37123
+2018,37125,Moore County,North Carolina,6.5,0.3621,37125
+2018,37127,Nash County,North Carolina,12,0.8287,37127
+2018,37129,New Hanover County,North Carolina,6.6,0.3771,37129
+2018,37131,Northampton County,North Carolina,10,0.9022,37131
+2018,37133,Onslow County,North Carolina,10,0.7465,37133
+2018,37135,Orange County,North Carolina,6.9,0.2959,37135
+2018,37137,Pamlico County,North Carolina,7.6,0.7162,37137
+2018,37139,Pasquotank County,North Carolina,8.7,0.7748,37139
+2018,37141,Pender County,North Carolina,8.8,0.5478,37141
+2018,37143,Perquimans County,North Carolina,7.6,0.5048,37143
+2018,37145,Person County,North Carolina,7.2,0.7732,37145
+2018,37147,Pitt County,North Carolina,9.1,0.8242,37147
+2018,37149,Polk County,North Carolina,8.8,0.3825,37149
+2018,37151,Randolph County,North Carolina,8.9,0.6965,37151
+2018,37153,Richmond County,North Carolina,11.5,0.9796,37153
+2018,37155,Robeson County,North Carolina,13.1,0.9911,37155
+2018,37157,Rockingham County,North Carolina,9.5,0.7857,37157
+2018,37159,Rowan County,North Carolina,8.1,0.8143,37159
+2018,37161,Rutherford County,North Carolina,11.2,0.7551,37161
+2018,37163,Sampson County,North Carolina,11.4,0.9723,37163
+2018,37165,Scotland County,North Carolina,11.8,0.9936,37165
+2018,37167,Stanly County,North Carolina,7.4,0.6325,37167
+2018,37169,Stokes County,North Carolina,10.4,0.3067,37169
+2018,37171,Surry County,North Carolina,9.5,0.7258,37171
+2018,37173,Swain County,North Carolina,7.7,0.7774,37173
+2018,37175,Transylvania County,North Carolina,7.9,0.3975,37175
+2018,37177,Tyrrell County,North Carolina,8.1,0.8764,37177
+2018,37179,Union County,North Carolina,8.1,0.1873,37179
+2018,37181,Vance County,North Carolina,9.6,0.9787,37181
+2018,37183,Wake County,North Carolina,8.7,0.2774,37183
+2018,37185,Warren County,North Carolina,8.3,0.8943,37185
+2018,37187,Washington County,North Carolina,10,0.8787,37187
+2018,37189,Watauga County,North Carolina,7,0.4121,37189
+2018,37191,Wayne County,North Carolina,13.2,0.9503,37191
+2018,37193,Wilkes County,North Carolina,8.9,0.6924,37193
+2018,37195,Wilson County,North Carolina,9.6,0.936,37195
+2018,37197,Yadkin County,North Carolina,9,0.6404,37197
+2018,37199,Yancey County,North Carolina,7.4,0.5736,37199
+2018,38001,Adams County,North Dakota,8.5,0.0299,38001
+2018,38003,Barnes County,North Dakota,7.4,0.1245,38003
+2018,38005,Benson County,North Dakota,8.4,0.8433,38005
+2018,38007,Billings County,North Dakota,6.4,0.0312,38007
+2018,38009,Bottineau County,North Dakota,7.7,0.0691,38009
+2018,38011,Bowman County,North Dakota,7.1,0.1755,38011
+2018,38013,Burke County,North Dakota,7.1,0.007,38013
+2018,38015,Burleigh County,North Dakota,7.7,0.1739,38015
+2018,38017,Cass County,North Dakota,8.1,0.1427,38017
+2018,38019,Cavalier County,North Dakota,6.9,0.0172,38019
+2018,38021,Dickey County,North Dakota,8.4,0.1159,38021
+2018,38023,Divide County,North Dakota,6.4,0.0334,38023
+2018,38025,Dunn County,North Dakota,8.9,0.2226,38025
+2018,38027,Eddy County,North Dakota,6.7,0.2904,38027
+2018,38029,Emmons County,North Dakota,8.4,0.0955,38029
+2018,38031,Foster County,North Dakota,8.3,0.0175,38031
+2018,38033,Golden Valley County,North Dakota,7,0.093,38033
+2018,38035,Grand Forks County,North Dakota,9.7,0.3029,38035
+2018,38037,Grant County,North Dakota,8.3,0.071,38037
+2018,38039,Griggs County,North Dakota,7.2,0.0732,38039
+2018,38041,Hettinger County,North Dakota,7.6,0.0561,38041
+2018,38043,Kidder County,North Dakota,6,0.029,38043
+2018,38045,Lamoure County,North Dakota,6.4,0.0443,38045
+2018,38047,Logan County,North Dakota,7.6,0.0382,38047
+2018,38049,Mchenry County,North Dakota,7,0.0296,38049
+2018,38051,Mcintosh County,North Dakota,7.4,0.1061,38051
+2018,38053,Mckenzie County,North Dakota,7.4,0.392,38053
+2018,38055,Mclean County,North Dakota,7,0.0834,38055
+2018,38057,Mercer County,North Dakota,7.8,0.1016,38057
+2018,38059,Morton County,North Dakota,8.6,0.1035,38059
+2018,38061,Mountrail County,North Dakota,9.5,0.3758,38061
+2018,38063,Nelson County,North Dakota,7.8,0.035,38063
+2018,38065,Oliver County,North Dakota,7,0.2108,38065
+2018,38067,Pembina County,North Dakota,10.6,0.0417,38067
+2018,38069,Pierce County,North Dakota,6.3,0.1914,38069
+2018,38071,Ramsey County,North Dakota,9.1,0.3532,38071
+2018,38073,Ransom County,North Dakota,9.3,0.0857,38073
+2018,38075,Renville County,North Dakota,7.7,0.028,38075
+2018,38077,Richland County,North Dakota,9.1,0.1217,38077
+2018,38079,Rolette County,North Dakota,14.2,0.907,38079
+2018,38081,Sargent County,North Dakota,8.8,0.0232,38081
+2018,38083,Sheridan County,North Dakota,7.7,0.0742,38083
+2018,38085,Sioux County,North Dakota,13.5,0.8844,38085
+2018,38087,Slope County,North Dakota,6.7,0.0137,38087
+2018,38089,Stark County,North Dakota,6.6,0.214,38089
+2018,38091,Steele County,North Dakota,9.6,0.0019,38091
+2018,38093,Stutsman County,North Dakota,7.1,0.2424,38093
+2018,38095,Towner County,North Dakota,6.2,0.1946,38095
+2018,38097,Traill County,North Dakota,9.6,0.0927,38097
+2018,38099,Walsh County,North Dakota,8.3,0.3682,38099
+2018,38101,Ward County,North Dakota,9.1,0.1678,38101
+2018,38103,Wells County,North Dakota,8.5,0.0611,38103
+2018,38105,Williams County,North Dakota,9.9,0.251,38105
+2018,39001,Adams County,Ohio,11.7,0.7704,39001
+2018,39003,Allen County,Ohio,10.5,0.5793,39003
+2018,39005,Ashland County,Ohio,7.8,0.4334,39005
+2018,39007,Ashtabula County,Ohio,9.3,0.7857,39007
+2018,39009,Athens County,Ohio,10.5,0.7325,39009
+2018,39011,Auglaize County,Ohio,8.4,0.0535,39011
+2018,39013,Belmont County,Ohio,11.4,0.3596,39013
+2018,39015,Brown County,Ohio,9.5,0.4048,39015
+2018,39017,Butler County,Ohio,9.5,0.3618,39017
+2018,39019,Carroll County,Ohio,9,0.1538,39019
+2018,39021,Champaign County,Ohio,8.5,0.2978,39021
+2018,39023,Clark County,Ohio,10.5,0.7271,39023
+2018,39025,Clermont County,Ohio,10.7,0.1029,39025
+2018,39027,Clinton County,Ohio,8,0.4424,39027
+2018,39029,Columbiana County,Ohio,10.8,0.4854,39029
+2018,39031,Coshocton County,Ohio,8.6,0.6207,39031
+2018,39033,Crawford County,Ohio,9.2,0.3191,39033
+2018,39035,Cuyahoga County,Ohio,9.9,0.6809,39035
+2018,39037,Darke County,Ohio,9.1,0.1347,39037
+2018,39039,Defiance County,Ohio,9,0.2166,39039
+2018,39041,Delaware County,Ohio,8.7,0.0166,39041
+2018,39043,Erie County,Ohio,9.7,0.2914,39043
+2018,39045,Fairfield County,Ohio,8.7,0.2354,39045
+2018,39047,Fayette County,Ohio,9.4,0.5016,39047
+2018,39049,Franklin County,Ohio,10.5,0.5124,39049
+2018,39051,Fulton County,Ohio,7.8,0.1777,39051
+2018,39053,Gallia County,Ohio,12.7,0.664,39053
+2018,39055,Geauga County,Ohio,8.2,0.0901,39055
+2018,39057,Greene County,Ohio,10.2,0.2076,39057
+2018,39059,Guernsey County,Ohio,9.6,0.6707,39059
+2018,39061,Hamilton County,Ohio,11.2,0.5369,39061
+2018,39063,Hancock County,Ohio,9,0.2111,39063
+2018,39065,Hardin County,Ohio,10.7,0.471,39065
+2018,39067,Harrison County,Ohio,9.6,0.5194,39067
+2018,39069,Henry County,Ohio,8,0.1557,39069
+2018,39071,Highland County,Ohio,11.7,0.6898,39071
+2018,39073,Hocking County,Ohio,9.7,0.4685,39073
+2018,39075,Holmes County,Ohio,7.1,0.436,39075
+2018,39077,Huron County,Ohio,6.9,0.4325,39077
+2018,39079,Jackson County,Ohio,14.3,0.7726,39079
+2018,39081,Jefferson County,Ohio,11,0.5494,39081
+2018,39083,Knox County,Ohio,9.1,0.2943,39083
+2018,39085,Lake County,Ohio,8.6,0.1293,39085
+2018,39087,Lawrence County,Ohio,13.9,0.5583,39087
+2018,39089,Licking County,Ohio,9.4,0.229,39089
+2018,39091,Logan County,Ohio,8.1,0.3169,39091
+2018,39093,Lorain County,Ohio,11.9,0.5089,39093
+2018,39095,Lucas County,Ohio,10.4,0.6876,39095
+2018,39097,Madison County,Ohio,10,0.3382,39097
+2018,39099,Mahoning County,Ohio,11.9,0.5889,39099
+2018,39101,Marion County,Ohio,10.2,0.6414,39101
+2018,39103,Medina County,Ohio,8.3,0.0102,39103
+2018,39105,Meigs County,Ohio,12.9,0.6787,39105
+2018,39107,Mercer County,Ohio,9.2,0.051,39107
+2018,39109,Miami County,Ohio,7.4,0.1191,39109
+2018,39111,Monroe County,Ohio,9.4,0.443,39111
+2018,39113,Montgomery County,Ohio,11.1,0.6726,39113
+2018,39115,Morgan County,Ohio,10.1,0.5659,39115
+2018,39117,Morrow County,Ohio,11.1,0.192,39117
+2018,39119,Muskingum County,Ohio,10.5,0.5981,39119
+2018,39121,Noble County,Ohio,8.5,0.4293,39121
+2018,39123,Ottawa County,Ohio,7.7,0.1541,39123
+2018,39125,Paulding County,Ohio,8.7,0.2885,39125
+2018,39127,Perry County,Ohio,7.6,0.5545,39127
+2018,39129,Pickaway County,Ohio,9.5,0.2818,39129
+2018,39131,Pike County,Ohio,12.1,0.7994,39131
+2018,39133,Portage County,Ohio,8.4,0.2455,39133
+2018,39135,Preble County,Ohio,7.3,0.1691,39135
+2018,39137,Putnam County,Ohio,6.9,0.0153,39137
+2018,39139,Richland County,Ohio,10.8,0.6169,39139
+2018,39141,Ross County,Ohio,12.5,0.7255,39141
+2018,39143,Sandusky County,Ohio,9.2,0.3987,39143
+2018,39145,Scioto County,Ohio,12.4,0.8347,39145
+2018,39147,Seneca County,Ohio,11.1,0.3755,39147
+2018,39149,Shelby County,Ohio,7.1,0.1892,39149
+2018,39151,Stark County,Ohio,10.3,0.3666,39151
+2018,39153,Summit County,Ohio,10.3,0.3334,39153
+2018,39155,Trumbull County,Ohio,9.2,0.464,39155
+2018,39157,Tuscarawas County,Ohio,8.9,0.3443,39157
+2018,39159,Union County,Ohio,7.9,0.0771,39159
+2018,39161,Van Wert County,Ohio,9.1,0.1697,39161
+2018,39163,Vinton County,Ohio,7.6,0.7229,39163
+2018,39165,Warren County,Ohio,9,0.0478,39165
+2018,39167,Washington County,Ohio,11.4,0.3497,39167
+2018,39169,Wayne County,Ohio,8,0.479,39169
+2018,39171,Williams County,Ohio,10.5,0.2691,39171
+2018,39173,Wood County,Ohio,11,0.1662,39173
+2018,39175,Wyandot County,Ohio,9.4,0.2274,39175
+2018,40001,Adair County,Oklahoma,10.6,0.8965,40001
+2018,40003,Alfalfa County,Oklahoma,7.5,0.2535,40003
+2018,40005,Atoka County,Oklahoma,8,0.8076,40005
+2018,40007,Beaver County,Oklahoma,7.4,0.4554,40007
+2018,40009,Beckham County,Oklahoma,9.4,0.7118,40009
+2018,40011,Blaine County,Oklahoma,9,0.6678,40011
+2018,40013,Bryan County,Oklahoma,10.2,0.8127,40013
+2018,40015,Caddo County,Oklahoma,11.3,0.9459,40015
+2018,40017,Canadian County,Oklahoma,9.7,0.2621,40017
+2018,40019,Carter County,Oklahoma,11.3,0.7914,40019
+2018,40021,Cherokee County,Oklahoma,11.3,0.9271,40021
+2018,40023,Choctaw County,Oklahoma,11.6,0.9602,40023
+2018,40025,Cimarron County,Oklahoma,7.5,0.4475,40025
+2018,40027,Cleveland County,Oklahoma,9.6,0.3436,40027
+2018,40029,Coal County,Oklahoma,8,0.8255,40029
+2018,40031,Comanche County,Oklahoma,12.4,0.8354,40031
+2018,40033,Cotton County,Oklahoma,7.5,0.6742,40033
+2018,40035,Craig County,Oklahoma,8.8,0.8538,40035
+2018,40037,Creek County,Oklahoma,9.6,0.4901,40037
+2018,40039,Custer County,Oklahoma,8.4,0.7503,40039
+2018,40041,Delaware County,Oklahoma,10.7,0.7697,40041
+2018,40043,Dewey County,Oklahoma,8.5,0.2248,40043
+2018,40045,Ellis County,Oklahoma,6.9,0.3019,40045
+2018,40047,Garfield County,Oklahoma,8.3,0.5908,40047
+2018,40049,Garvin County,Oklahoma,9.2,0.5115,40049
+2018,40051,Grady County,Oklahoma,8.7,0.308,40051
+2018,40053,Grant County,Oklahoma,8.2,0.1634,40053
+2018,40055,Greer County,Oklahoma,8.3,0.7742,40055
+2018,40057,Harmon County,Oklahoma,7,0.8108,40057
+2018,40059,Harper County,Oklahoma,6.6,0.3185,40059
+2018,40061,Haskell County,Oklahoma,7.8,0.8736,40061
+2018,40063,Hughes County,Oklahoma,10.4,0.8115,40063
+2018,40065,Jackson County,Oklahoma,8.1,0.8226,40065
+2018,40067,Jefferson County,Oklahoma,8.5,0.8745,40067
+2018,40069,Johnston County,Oklahoma,8.6,0.8468,40069
+2018,40071,Kay County,Oklahoma,9.4,0.842,40071
+2018,40073,Kingfisher County,Oklahoma,9.1,0.3806,40073
+2018,40075,Kiowa County,Oklahoma,9.4,0.6545,40075
+2018,40077,Latimer County,Oklahoma,7.9,0.8936,40077
+2018,40079,Le Flore County,Oklahoma,10.5,0.9032,40079
+2018,40081,Lincoln County,Oklahoma,8.8,0.4787,40081
+2018,40083,Logan County,Oklahoma,8.8,0.2984,40083
+2018,40085,Love County,Oklahoma,8,0.6293,40085
+2018,40093,Major County,Oklahoma,8.7,0.3204,40093
+2018,40095,Marshall County,Oklahoma,9.6,0.8545,40095
+2018,40097,Mayes County,Oklahoma,11.2,0.7519,40097
+2018,40087,Mcclain County,Oklahoma,9.3,0.1624,40087
+2018,40089,Mccurtain County,Oklahoma,10.4,0.9137,40089
+2018,40091,Mcintosh County,Oklahoma,11.2,0.7828,40091
+2018,40099,Murray County,Oklahoma,9.5,0.7092,40099
+2018,40101,Muskogee County,Oklahoma,11.9,0.9338,40101
+2018,40103,Noble County,Oklahoma,8.3,0.3385,40103
+2018,40105,Nowata County,Oklahoma,7.5,0.5895,40105
+2018,40107,Okfuskee County,Oklahoma,8.4,0.9287,40107
+2018,40109,Oklahoma County,Oklahoma,11,0.6818,40109
+2018,40111,Okmulgee County,Oklahoma,8.9,0.8659,40111
+2018,40113,Osage County,Oklahoma,7.8,0.6239,40113
+2018,40115,Ottawa County,Oklahoma,9.9,0.9576,40115
+2018,40117,Pawnee County,Oklahoma,9.7,0.5424,40117
+2018,40119,Payne County,Oklahoma,9.3,0.5131,40119
+2018,40121,Pittsburg County,Oklahoma,10.4,0.8264,40121
+2018,40123,Pontotoc County,Oklahoma,9.2,0.65,40123
+2018,40125,Pottawatomie County,Oklahoma,12.1,0.7815,40125
+2018,40127,Pushmataha County,Oklahoma,7.1,0.7863,40127
+2018,40129,Roger Mills County,Oklahoma,7.2,0.4003,40129
+2018,40131,Rogers County,Oklahoma,8.6,0.2834,40131
+2018,40133,Seminole County,Oklahoma,10,0.929,40133
+2018,40135,Sequoyah County,Oklahoma,8.5,0.9159,40135
+2018,40137,Stephens County,Oklahoma,11.1,0.6051,40137
+2018,40139,Texas County,Oklahoma,8.2,0.821,40139
+2018,40141,Tillman County,Oklahoma,8.1,0.871,40141
+2018,40143,Tulsa County,Oklahoma,10.3,0.6159,40143
+2018,40145,Wagoner County,Oklahoma,12.3,0.4245,40145
+2018,40147,Washington County,Oklahoma,10.9,0.4382,40147
+2018,40149,Washita County,Oklahoma,8.5,0.4045,40149
+2018,40151,Woods County,Oklahoma,8,0.314,40151
+2018,40153,Woodward County,Oklahoma,10.1,0.5745,40153
+2018,41001,Baker County,Oregon,9.2,0.6854,41001
+2018,41003,Benton County,Oregon,5.4,0.349,41003
+2018,41005,Clackamas County,Oregon,7.6,0.1895,41005
+2018,41007,Clatsop County,Oregon,8.1,0.5185,41007
+2018,41009,Columbia County,Oregon,9.4,0.4025,41009
+2018,41011,Coos County,Oregon,11,0.743,41011
+2018,41013,Crook County,Oregon,10.3,0.5729,41013
+2018,41015,Curry County,Oregon,7.3,0.4879,41015
+2018,41017,Deschutes County,Oregon,6.9,0.1637,41017
+2018,41019,Douglas County,Oregon,8.9,0.7277,41019
+2018,41021,Gilliam County,Oregon,7.2,0.5092,41021
+2018,41023,Grant County,Oregon,6.6,0.5465,41023
+2018,41025,Harney County,Oregon,7.5,0.7108,41025
+2018,41027,Hood River County,Oregon,6.7,0.5455,41027
+2018,41029,Jackson County,Oregon,8.3,0.7354,41029
+2018,41031,Jefferson County,Oregon,8.7,0.9118,41031
+2018,41033,Josephine County,Oregon,8.8,0.6557,41033
+2018,41035,Klamath County,Oregon,7.7,0.8688,41035
+2018,41037,Lake County,Oregon,7.2,0.7608,41037
+2018,41039,Lane County,Oregon,8,0.649,41039
+2018,41041,Lincoln County,Oregon,8.2,0.5522,41041
+2018,41043,Linn County,Oregon,8.5,0.679,41043
+2018,41045,Malheur County,Oregon,8.7,0.9965,41045
+2018,41047,Marion County,Oregon,10.3,0.8535,41047
+2018,41049,Morrow County,Oregon,7.6,0.7643,41049
+2018,41051,Multnomah County,Oregon,8.1,0.4675,41051
+2018,41053,Polk County,Oregon,7.8,0.5777,41053
+2018,41055,Sherman County,Oregon,6.9,0.135,41055
+2018,41057,Tillamook County,Oregon,6.9,0.6586,41057
+2018,41059,Umatilla County,Oregon,9.5,0.9688,41059
+2018,41061,Union County,Oregon,9.5,0.6729,41061
+2018,41063,Wallowa County,Oregon,7.7,0.5032,41063
+2018,41065,Wasco County,Oregon,7.4,0.8389,41065
+2018,41067,Washington County,Oregon,8.4,0.3194,41067
+2018,41069,Wheeler County,Oregon,6.9,0.3901,41069
+2018,41071,Yamhill County,Oregon,10.4,0.6608,41071
+2018,42001,Adams County,Pennsylvania,9.9,0.2118,42001
+2018,42003,Allegheny County,Pennsylvania,8.3,0.2506,42003
+2018,42005,Armstrong County,Pennsylvania,10.9,0.2475,42005
+2018,42007,Beaver County,Pennsylvania,7.3,0.2481,42007
+2018,42009,Bedford County,Pennsylvania,8.6,0.2729,42009
+2018,42011,Berks County,Pennsylvania,7.3,0.6162,42011
+2018,42013,Blair County,Pennsylvania,6.7,0.3981,42013
+2018,42015,Bradford County,Pennsylvania,8.8,0.3471,42015
+2018,42017,Bucks County,Pennsylvania,9.2,0.0831,42017
+2018,42019,Butler County,Pennsylvania,7.3,0.079,42019
+2018,42021,Cambria County,Pennsylvania,9.5,0.4892,42021
+2018,42023,Cameron County,Pennsylvania,6.9,0.3006,42023
+2018,42025,Carbon County,Pennsylvania,7.2,0.3048,42025
+2018,42027,Centre County,Pennsylvania,8.2,0.2892,42027
+2018,42029,Chester County,Pennsylvania,6.9,0.1436,42029
+2018,42031,Clarion County,Pennsylvania,8,0.4771,42031
+2018,42033,Clearfield County,Pennsylvania,9.8,0.6054,42033
+2018,42035,Clinton County,Pennsylvania,8.6,0.486,42035
+2018,42037,Columbia County,Pennsylvania,8.6,0.2768,42037
+2018,42039,Crawford County,Pennsylvania,9.1,0.5064,42039
+2018,42041,Cumberland County,Pennsylvania,9.5,0.1615,42041
+2018,42043,Dauphin County,Pennsylvania,8,0.4975,42043
+2018,42045,Delaware County,Pennsylvania,7.8,0.4131,42045
+2018,42047,Elk County,Pennsylvania,9,0.1166,42047
+2018,42049,Erie County,Pennsylvania,7.7,0.6194,42049
+2018,42051,Fayette County,Pennsylvania,9,0.6248,42051
+2018,42053,Forest County,Pennsylvania,7.3,0.7115,42053
+2018,42055,Franklin County,Pennsylvania,8.9,0.3373,42055
+2018,42057,Fulton County,Pennsylvania,8.5,0.2201,42057
+2018,42059,Greene County,Pennsylvania,8.4,0.435,42059
+2018,42061,Huntingdon County,Pennsylvania,9.1,0.4908,42061
+2018,42063,Indiana County,Pennsylvania,8.4,0.5484,42063
+2018,42065,Jefferson County,Pennsylvania,10.3,0.3312,42065
+2018,42067,Juniata County,Pennsylvania,7,0.4484,42067
+2018,42069,Lackawanna County,Pennsylvania,7.7,0.5252,42069
+2018,42071,Lancaster County,Pennsylvania,8.8,0.4573,42071
+2018,42073,Lawrence County,Pennsylvania,8.6,0.4694,42073
+2018,42075,Lebanon County,Pennsylvania,9.3,0.5328,42075
+2018,42077,Lehigh County,Pennsylvania,8.2,0.635,42077
+2018,42079,Luzerne County,Pennsylvania,8.5,0.6089,42079
+2018,42081,Lycoming County,Pennsylvania,8.6,0.421,42081
+2018,42083,Mckean County,Pennsylvania,7.8,0.5462,42083
+2018,42085,Mercer County,Pennsylvania,9.3,0.542,42085
+2018,42087,Mifflin County,Pennsylvania,9.1,0.4723,42087
+2018,42089,Monroe County,Pennsylvania,9.1,0.3064,42089
+2018,42091,Montgomery County,Pennsylvania,6.8,0.1653,42091
+2018,42093,Montour County,Pennsylvania,7,0.3111,42093
+2018,42095,Northampton County,Pennsylvania,8.2,0.2876,42095
+2018,42097,Northumberland County,Pennsylvania,9.1,0.5006,42097
+2018,42099,Perry County,Pennsylvania,7.5,0.1089,42099
+2018,42101,Philadelphia County,Pennsylvania,11.6,0.9204,42101
+2018,42103,Pike County,Pennsylvania,6.9,0.1287,42103
+2018,42105,Potter County,Pennsylvania,7.9,0.4417,42105
+2018,42107,Schuylkill County,Pennsylvania,9.5,0.4506,42107
+2018,42109,Snyder County,Pennsylvania,8,0.2299,42109
+2018,42111,Somerset County,Pennsylvania,7.6,0.4226,42111
+2018,42113,Sullivan County,Pennsylvania,7,0.3576,42113
+2018,42115,Susquehanna County,Pennsylvania,8,0.2064,42115
+2018,42117,Tioga County,Pennsylvania,8,0.3153,42117
+2018,42119,Union County,Pennsylvania,7,0.3605,42119
+2018,42121,Venango County,Pennsylvania,9.2,0.4229,42121
+2018,42123,Warren County,Pennsylvania,6.7,0.2134,42123
+2018,42125,Washington County,Pennsylvania,9.4,0.1694,42125
+2018,42127,Wayne County,Pennsylvania,7.2,0.2631,42127
+2018,42129,Westmoreland County,Pennsylvania,8.3,0.1379,42129
+2018,42131,Wyoming County,Pennsylvania,8.4,0.1121,42131
+2018,42133,York County,Pennsylvania,9.3,0.329,42133
+2018,44001,Bristol County,Rhode Island,6,0.1236,44001
+2018,44003,Kent County,Rhode Island,8.8,0.1519,44003
+2018,44005,Newport County,Rhode Island,6.8,0.179,44005
+2018,44007,Providence County,Rhode Island,9.8,0.7592,44007
+2018,44009,Washington County,Rhode Island,6.8,0.0889,44009
+2018,45001,Abbeville County,South Carolina,12.1,0.8564,45001
+2018,45003,Aiken County,South Carolina,10.7,0.6666,45003
+2018,45005,Allendale County,South Carolina,13.6,0.993,45005
+2018,45007,Anderson County,South Carolina,12.4,0.701,45007
+2018,45009,Bamberg County,South Carolina,12.5,0.9516,45009
+2018,45011,Barnwell County,South Carolina,13.5,0.9904,45011
+2018,45013,Beaufort County,South Carolina,6.3,0.4006,45013
+2018,45015,Berkeley County,South Carolina,12.8,0.5146,45015
+2018,45017,Calhoun County,South Carolina,9,0.5627,45017
+2018,45019,Charleston County,South Carolina,10.2,0.3156,45019
+2018,45021,Cherokee County,South Carolina,10.6,0.6978,45021
+2018,45023,Chester County,South Carolina,13.2,0.7363,45023
+2018,45025,Chesterfield County,South Carolina,14.3,0.9487,45025
+2018,45027,Clarendon County,South Carolina,10.9,0.9793,45027
+2018,45029,Colleton County,South Carolina,12.6,0.8,45029
+2018,45031,Darlington County,South Carolina,13,0.9268,45031
+2018,45033,Dillon County,South Carolina,13.2,0.9682,45033
+2018,45035,Dorchester County,South Carolina,11,0.4188,45035
+2018,45037,Edgefield County,South Carolina,10.7,0.8484,45037
+2018,45039,Fairfield County,South Carolina,12.3,0.7484,45039
+2018,45041,Florence County,South Carolina,13.5,0.8987,45041
+2018,45043,Georgetown County,South Carolina,12.3,0.6771,45043
+2018,45045,Greenville County,South Carolina,10,0.5038,45045
+2018,45047,Greenwood County,South Carolina,10.7,0.9344,45047
+2018,45049,Hampton County,South Carolina,12.6,0.8032,45049
+2018,45051,Horry County,South Carolina,10.8,0.6102,45051
+2018,45053,Jasper County,South Carolina,12.4,0.9449,45053
+2018,45055,Kershaw County,South Carolina,11.7,0.4959,45055
+2018,45057,Lancaster County,South Carolina,11.7,0.5121,45057
+2018,45059,Laurens County,South Carolina,13.8,0.9172,45059
+2018,45061,Lee County,South Carolina,12.4,0.921,45061
+2018,45063,Lexington County,South Carolina,9.8,0.442,45063
+2018,45067,Marion County,South Carolina,13.1,0.9293,45067
+2018,45069,Marlboro County,South Carolina,14.2,0.9869,45069
+2018,45065,Mccormick County,South Carolina,10.2,0.7373,45065
+2018,45071,Newberry County,South Carolina,12.2,0.9232,45071
+2018,45073,Oconee County,South Carolina,10.2,0.7293,45073
+2018,45075,Orangeburg County,South Carolina,14,0.9229,45075
+2018,45077,Pickens County,South Carolina,9.9,0.599,45077
+2018,45079,Richland County,South Carolina,10.7,0.6309,45079
+2018,45081,Saluda County,South Carolina,11.4,0.7949,45081
+2018,45083,Spartanburg County,South Carolina,11.2,0.7618,45083
+2018,45085,Sumter County,South Carolina,11.5,0.9732,45085
+2018,45087,Union County,South Carolina,10.4,0.8678,45087
+2018,45089,Williamsburg County,South Carolina,17.2,0.9704,45089
+2018,45091,York County,South Carolina,9.8,0.3662,45091
+2018,46003,Aurora County,South Dakota,7.8,0.2726,46003
+2018,46005,Beadle County,South Dakota,6.9,0.6506,46005
+2018,46007,Bennett County,South Dakota,11.2,0.7927,46007
+2018,46009,Bon Homme County,South Dakota,8.3,0.2382,46009
+2018,46011,Brookings County,South Dakota,7.7,0.1561,46011
+2018,46013,Brown County,South Dakota,9.4,0.3287,46013
+2018,46015,Brule County,South Dakota,7.2,0.5713,46015
+2018,46017,Buffalo County,South Dakota,12.1,0.971,46017
+2018,46019,Butte County,South Dakota,8.1,0.3627,46019
+2018,46021,Campbell County,South Dakota,6.5,0.0064,46021
+2018,46023,Charles Mix County,South Dakota,8.3,0.7389,46023
+2018,46025,Clark County,South Dakota,7.4,0.171,46025
+2018,46027,Clay County,South Dakota,8.3,0.2468,46027
+2018,46029,Codington County,South Dakota,8.5,0.2449,46029
+2018,46031,Corson County,South Dakota,14.2,0.8395,46031
+2018,46033,Custer County,South Dakota,7.5,0.228,46033
+2018,46035,Davison County,South Dakota,8,0.2338,46035
+2018,46037,Day County,South Dakota,6.9,0.185,46037
+2018,46039,Deuel County,South Dakota,7.6,0.0822,46039
+2018,46041,Dewey County,South Dakota,15.3,0.8831,46041
+2018,46043,Douglas County,South Dakota,7.5,0.1503,46043
+2018,46045,Edmunds County,South Dakota,7.2,0.0341,46045
+2018,46047,Fall River County,South Dakota,9.2,0.4172,46047
+2018,46049,Faulk County,South Dakota,7.6,0.0777,46049
+2018,46051,Grant County,South Dakota,6.5,0.0551,46051
+2018,46053,Gregory County,South Dakota,7,0.2847,46053
+2018,46055,Haakon County,South Dakota,6.3,0.3624,46055
+2018,46057,Hamlin County,South Dakota,7.9,0.1586,46057
+2018,46059,Hand County,South Dakota,6.9,0.0309,46059
+2018,46061,Hanson County,South Dakota,6.8,0.0013,46061
+2018,46063,Harding County,South Dakota,6.6,0.0828,46063
+2018,46065,Hughes County,South Dakota,8.5,0.4061,46065
+2018,46067,Hutchinson County,South Dakota,7.2,0.2487,46067
+2018,46069,Hyde County,South Dakota,7,0.0943,46069
+2018,46071,Jackson County,South Dakota,11.3,0.9666,46071
+2018,46073,Jerauld County,South Dakota,7.3,0.0506,46073
+2018,46075,Jones County,South Dakota,6.9,0.0051,46075
+2018,46077,Kingsbury County,South Dakota,8.7,0.0223,46077
+2018,46079,Lake County,South Dakota,7.2,0.1965,46079
+2018,46081,Lawrence County,South Dakota,6.6,0.2618,46081
+2018,46083,Lincoln County,South Dakota,8.3,0.0201,46083
+2018,46085,Lyman County,South Dakota,8.6,0.7137,46085
+2018,46091,Marshall County,South Dakota,6.5,0.2131,46091
+2018,46087,Mccook County,South Dakota,7.7,0.2229,46087
+2018,46089,Mcpherson County,South Dakota,7.7,0.2889,46089
+2018,46093,Meade County,South Dakota,7.5,0.0892,46093
+2018,46095,Mellette County,South Dakota,8.4,0.9156,46095
+2018,46097,Miner County,South Dakota,6.8,0.1057,46097
+2018,46099,Minnehaha County,South Dakota,8,0.3589,46099
+2018,46101,Moody County,South Dakota,7.1,0.3908,46101
+2018,46102,Oglala Lakota County,South Dakota,17.9,0.9943,46102
+2018,46103,Pennington County,South Dakota,8.2,0.4162,46103
+2018,46105,Perkins County,South Dakota,6.7,0.1096,46105
+2018,46107,Potter County,South Dakota,7.5,0.0516,46107
+2018,46109,Roberts County,South Dakota,8.8,0.7178,46109
+2018,46111,Sanborn County,South Dakota,8.6,0.0385,46111
+2018,46115,Spink County,South Dakota,7.1,0.1768,46115
+2018,46117,Stanley County,South Dakota,6.7,0.1099,46117
+2018,46119,Sully County,South Dakota,7,0.0073,46119
+2018,46121,Todd County,South Dakota,15.9,0.9564,46121
+2018,46123,Tripp County,South Dakota,7.7,0.3411,46123
+2018,46125,Turner County,South Dakota,8,0.108,46125
+2018,46127,Union County,South Dakota,7.2,0.0274,46127
+2018,46129,Walworth County,South Dakota,8.4,0.3939,46129
+2018,46135,Yankton County,South Dakota,7.7,0.3159,46135
+2018,46137,Ziebach County,South Dakota,15.9,0.9538,46137
+2018,47001,Anderson County,Tennessee,9,0.6064,47001
+2018,47003,Bedford County,Tennessee,7.7,0.7758,47003
+2018,47005,Benton County,Tennessee,8.2,0.7029,47005
+2018,47007,Bledsoe County,Tennessee,9,0.8159,47007
+2018,47009,Blount County,Tennessee,7.2,0.2452,47009
+2018,47011,Bradley County,Tennessee,11.4,0.6914,47011
+2018,47013,Campbell County,Tennessee,10.1,0.7338,47013
+2018,47015,Cannon County,Tennessee,7.5,0.3704,47015
+2018,47017,Carroll County,Tennessee,8.9,0.7443,47017
+2018,47019,Carter County,Tennessee,11.8,0.6153,47019
+2018,47021,Cheatham County,Tennessee,6.9,0.2369,47021
+2018,47023,Chester County,Tennessee,8.5,0.6436,47023
+2018,47025,Claiborne County,Tennessee,10.8,0.7102,47025
+2018,47027,Clay County,Tennessee,8,0.5939,47027
+2018,47029,Cocke County,Tennessee,11.1,0.6857,47029
+2018,47031,Coffee County,Tennessee,9.9,0.4914,47031
+2018,47033,Crockett County,Tennessee,7.8,0.7812,47033
+2018,47035,Cumberland County,Tennessee,8.9,0.5373,47035
+2018,47037,Davidson County,Tennessee,8.3,0.5363,47037
+2018,47039,Decatur County,Tennessee,8.9,0.5086,47039
+2018,47041,Dekalb County,Tennessee,8.9,0.4306,47041
+2018,47043,Dickson County,Tennessee,8.1,0.429,47043
+2018,47045,Dyer County,Tennessee,9.8,0.7596,47045
+2018,47047,Fayette County,Tennessee,10,0.2554,47047
+2018,47049,Fentress County,Tennessee,7.4,0.6373,47049
+2018,47051,Franklin County,Tennessee,9.4,0.3764,47051
+2018,47053,Gibson County,Tennessee,12.1,0.735,47053
+2018,47055,Giles County,Tennessee,7.5,0.6032,47055
+2018,47057,Grainger County,Tennessee,7.8,0.593,47057
+2018,47059,Greene County,Tennessee,12.6,0.5446,47059
+2018,47061,Grundy County,Tennessee,8.3,0.8685,47061
+2018,47063,Hamblen County,Tennessee,11.4,0.8146,47063
+2018,47065,Hamilton County,Tennessee,10.6,0.4137,47065
+2018,47067,Hancock County,Tennessee,6.8,0.7666,47067
+2018,47069,Hardeman County,Tennessee,9.9,0.8672,47069
+2018,47071,Hardin County,Tennessee,9.2,0.7064,47071
+2018,47073,Hawkins County,Tennessee,9.9,0.708,47073
+2018,47075,Haywood County,Tennessee,11.9,0.8717,47075
+2018,47077,Henderson County,Tennessee,12.5,0.6981,47077
+2018,47079,Henry County,Tennessee,8.9,0.6347,47079
+2018,47081,Hickman County,Tennessee,10,0.5662,47081
+2018,47083,Houston County,Tennessee,6.9,0.5551,47083
+2018,47085,Humphreys County,Tennessee,7.1,0.3688,47085
+2018,47087,Jackson County,Tennessee,8.6,0.6,47087
+2018,47089,Jefferson County,Tennessee,9.9,0.5608,47089
+2018,47091,Johnson County,Tennessee,6.5,0.5653,47091
+2018,47093,Knox County,Tennessee,9.9,0.3035,47093
+2018,47095,Lake County,Tennessee,7.5,0.9185,47095
+2018,47097,Lauderdale County,Tennessee,12.8,0.9672,47097
+2018,47099,Lawrence County,Tennessee,9.9,0.8318,47099
+2018,47101,Lewis County,Tennessee,7,0.6363,47101
+2018,47103,Lincoln County,Tennessee,7.2,0.6777,47103
+2018,47105,Loudon County,Tennessee,9.8,0.3863,47105
+2018,47111,Macon County,Tennessee,10.1,0.6927,47111
+2018,47113,Madison County,Tennessee,12.7,0.7124,47113
+2018,47115,Marion County,Tennessee,9.8,0.5061,47115
+2018,47117,Marshall County,Tennessee,9.6,0.6099,47117
+2018,47119,Maury County,Tennessee,10.6,0.3949,47119
+2018,47107,Mcminn County,Tennessee,10.7,0.6551,47107
+2018,47109,Mcnairy County,Tennessee,10.1,0.7172,47109
+2018,47121,Meigs County,Tennessee,9.4,0.4933,47121
+2018,47123,Monroe County,Tennessee,8.2,0.6478,47123
+2018,47125,Montgomery County,Tennessee,12.4,0.5172,47125
+2018,47127,Moore County,Tennessee,7.1,0.0914,47127
+2018,47129,Morgan County,Tennessee,7.7,0.7494,47129
+2018,47131,Obion County,Tennessee,12.1,0.7694,47131
+2018,47133,Overton County,Tennessee,7.9,0.4576,47133
+2018,47135,Perry County,Tennessee,7.7,0.6799,47135
+2018,47137,Pickett County,Tennessee,7,0.4153,47137
+2018,47139,Polk County,Tennessee,8.8,0.4904,47139
+2018,47141,Putnam County,Tennessee,8.4,0.6182,47141
+2018,47143,Rhea County,Tennessee,10.4,0.8207,47143
+2018,47145,Roane County,Tennessee,8.4,0.3844,47145
+2018,47147,Robertson County,Tennessee,9.1,0.4287,47147
+2018,47149,Rutherford County,Tennessee,10.5,0.3268,47149
+2018,47151,Scott County,Tennessee,9.9,0.7637,47151
+2018,47153,Sequatchie County,Tennessee,8.5,0.572,47153
+2018,47155,Sevier County,Tennessee,10.2,0.6111,47155
+2018,47157,Shelby County,Tennessee,10.7,0.7847,47157
+2018,47159,Smith County,Tennessee,8.3,0.2608,47159
+2018,47161,Stewart County,Tennessee,7.1,0.4086,47161
+2018,47163,Sullivan County,Tennessee,10.2,0.5411,47163
+2018,47165,Sumner County,Tennessee,8,0.2057,47165
+2018,47167,Tipton County,Tennessee,9.7,0.45,47167
+2018,47169,Trousdale County,Tennessee,7.4,0.522,47169
+2018,47171,Unicoi County,Tennessee,9.3,0.7981,47171
+2018,47173,Union County,Tennessee,7.9,0.6672,47173
+2018,47175,Van Buren County,Tennessee,7.7,0.6025,47175
+2018,47177,Warren County,Tennessee,10.3,0.8322,47177
+2018,47179,Washington County,Tennessee,10.4,0.4589,47179
+2018,47181,Wayne County,Tennessee,8.9,0.7624,47181
+2018,47183,Weakley County,Tennessee,8.3,0.6583,47183
+2018,47185,White County,Tennessee,8.8,0.5984,47185
+2018,47187,Williamson County,Tennessee,7,0.021,47187
+2018,47189,Wilson County,Tennessee,7.8,0.1465,47189
+2018,48001,Anderson County,Texas,8.1,0.7946,48001
+2018,48003,Andrews County,Texas,7.3,0.4736,48003
+2018,48005,Angelina County,Texas,12.6,0.9771,48005
+2018,48007,Aransas County,Texas,7,0.8019,48007
+2018,48009,Archer County,Texas,8.6,0.0898,48009
+2018,48011,Armstrong County,Texas,6.8,0.1599,48011
+2018,48013,Atascosa County,Texas,7.7,0.8497,48013
+2018,48015,Austin County,Texas,8.3,0.4936,48015
+2018,48017,Bailey County,Texas,6.8,0.8003,48017
+2018,48019,Bandera County,Texas,6.9,0.5076,48019
+2018,48021,Bastrop County,Texas,9.9,0.7459,48021
+2018,48023,Baylor County,Texas,6.6,0.1554,48023
+2018,48025,Bee County,Texas,7.4,0.9694,48025
+2018,48027,Bell County,Texas,9.8,0.8051,48027
+2018,48029,Bexar County,Texas,10.6,0.8258,48029
+2018,48031,Blanco County,Texas,7.3,0.2783,48031
+2018,48033,Borden County,Texas,7.1,0.0621,48033
+2018,48035,Bosque County,Texas,6.9,0.6175,48035
+2018,48037,Bowie County,Texas,8.6,0.8529,48037
+2018,48039,Brazoria County,Texas,9.8,0.5134,48039
+2018,48041,Brazos County,Texas,9.7,0.6532,48041
+2018,48043,Brewster County,Texas,6.9,0.6573,48043
+2018,48045,Briscoe County,Texas,6.8,0.4564,48045
+2018,48047,Brooks County,Texas,6.9,1,48047
+2018,48049,Brown County,Texas,7.5,0.6277,48049
+2018,48051,Burleson County,Texas,7.4,0.608,48051
+2018,48053,Burnet County,Texas,7,0.5299,48053
+2018,48055,Caldwell County,Texas,10.2,0.8732,48055
+2018,48057,Calhoun County,Texas,7.2,0.8618,48057
+2018,48059,Callahan County,Texas,7.6,0.2968,48059
+2018,48061,Cameron County,Texas,11.8,0.9758,48061
+2018,48063,Camp County,Texas,7.4,0.9019,48063
+2018,48065,Carson County,Texas,6.9,0.0338,48065
+2018,48067,Cass County,Texas,7.2,0.7841,48067
+2018,48069,Castro County,Texas,6.7,0.7774,48069
+2018,48071,Chambers County,Texas,7.3,0.4108,48071
+2018,48073,Cherokee County,Texas,8.7,0.9191,48073
+2018,48075,Childress County,Texas,7.2,0.75,48075
+2018,48077,Clay County,Texas,8.6,0.3182,48077
+2018,48079,Cochran County,Texas,7.1,0.8608,48079
+2018,48081,Coke County,Texas,7,0.6204,48081
+2018,48083,Coleman County,Texas,7,0.4185,48083
+2018,48085,Collin County,Texas,7,0.1506,48085
+2018,48087,Collingsworth County,Texas,6.8,0.8876,48087
+2018,48089,Colorado County,Texas,7.4,0.6847,48089
+2018,48091,Comal County,Texas,6.8,0.2379,48091
+2018,48093,Comanche County,Texas,6.9,0.7264,48093
+2018,48095,Concho County,Texas,7.1,0.4283,48095
+2018,48097,Cooke County,Texas,6.8,0.6226,48097
+2018,48099,Coryell County,Texas,7.3,0.7809,48099
+2018,48101,Cottle County,Texas,7,0.9363,48101
+2018,48103,Crane County,Texas,7.2,0.4739,48103
+2018,48105,Crockett County,Texas,6.8,0.6892,48105
+2018,48107,Crosby County,Texas,7.1,0.9395,48107
+2018,48109,Culberson County,Texas,7.2,0.9971,48109
+2018,48111,Dallam County,Texas,7.2,0.5503,48111
+2018,48113,Dallas County,Texas,8.2,0.7538,48113
+2018,48115,Dawson County,Texas,6.9,0.9475,48115
+2018,48117,Deaf Smith County,Texas,6.8,0.8411,48117
+2018,48119,Delta County,Texas,7.1,0.5704,48119
+2018,48121,Denton County,Texas,7,0.221,48121
+2018,48123,Dewitt County,Texas,7,0.8229,48123
+2018,48125,Dickens County,Texas,7,0.8796,48125
+2018,48127,Dimmit County,Texas,6.9,0.9997,48127
+2018,48129,Donley County,Texas,7.1,0.4525,48129
+2018,48131,Duval County,Texas,6.8,0.9994,48131
+2018,48133,Eastland County,Texas,6.9,0.8067,48133
+2018,48135,Ector County,Texas,7.6,0.7924,48135
+2018,48137,Edwards County,Texas,7,0.4385,48137
+2018,48141,El Paso County,Texas,11.2,0.9535,48141
+2018,48139,Ellis County,Texas,10.6,0.3924,48139
+2018,48143,Erath County,Texas,7.2,0.6252,48143
+2018,48145,Falls County,Texas,7.4,0.9799,48145
+2018,48147,Fannin County,Texas,6.9,0.5758,48147
+2018,48149,Fayette County,Texas,7.4,0.4363,48149
+2018,48151,Fisher County,Texas,7.1,0.4312,48151
+2018,48153,Floyd County,Texas,7.1,0.8299,48153
+2018,48155,Foard County,Texas,7.1,0.4783,48155
+2018,48157,Fort Bend County,Texas,7.8,0.2873,48157
+2018,48159,Franklin County,Texas,7.1,0.5277,48159
+2018,48161,Freestone County,Texas,7.7,0.843,48161
+2018,48163,Frio County,Texas,7,0.9866,48163
+2018,48165,Gaines County,Texas,7,0.6825,48165
+2018,48167,Galveston County,Texas,10.6,0.585,48167
+2018,48169,Garza County,Texas,7.1,0.7213,48169
+2018,48171,Gillespie County,Texas,6.7,0.3573,48171
+2018,48173,Glasscock County,Texas,6.9,0.1761,48173
+2018,48175,Goliad County,Texas,7.4,0.5815,48175
+2018,48177,Gonzales County,Texas,7.1,0.8959,48177
+2018,48179,Gray County,Texas,8.3,0.8446,48179
+2018,48181,Grayson County,Texas,8.1,0.6592,48181
+2018,48183,Gregg County,Texas,8.1,0.8825,48183
+2018,48185,Grimes County,Texas,8.1,0.8602,48185
+2018,48187,Guadalupe County,Texas,8.8,0.4344,48187
+2018,48189,Hale County,Texas,6.9,0.9312,48189
+2018,48191,Hall County,Texas,7.1,0.95,48191
+2018,48193,Hamilton County,Texas,6.9,0.6083,48193
+2018,48195,Hansford County,Texas,7,0.7615,48195
+2018,48197,Hardeman County,Texas,7.6,0.728,48197
+2018,48199,Hardin County,Texas,6.8,0.2532,48199
+2018,48201,Harris County,Texas,10.4,0.7236,48201
+2018,48203,Harrison County,Texas,9.2,0.7306,48203
+2018,48205,Hartley County,Texas,6.9,0.5344,48205
+2018,48207,Haskell County,Texas,7,0.9755,48207
+2018,48209,Hays County,Texas,8,0.4924,48209
+2018,48211,Hemphill County,Texas,7,0.7427,48211
+2018,48213,Henderson County,Texas,9.7,0.7201,48213
+2018,48215,Hidalgo County,Texas,11.9,0.978,48215
+2018,48217,Hill County,Texas,8.3,0.8707,48217
+2018,48219,Hockley County,Texas,7,0.9025,48219
+2018,48221,Hood County,Texas,7.7,0.2602,48221
+2018,48223,Hopkins County,Texas,7.2,0.7067,48223
+2018,48225,Houston County,Texas,10.2,0.9131,48225
+2018,48227,Howard County,Texas,7.4,0.9153,48227
+2018,48229,Hudspeth County,Texas,6.9,0.9825,48229
+2018,48231,Hunt County,Texas,8.5,0.8341,48231
+2018,48233,Hutchinson County,Texas,7,0.6631,48233
+2018,48235,Irion County,Texas,6.9,0.2013,48235
+2018,48237,Jack County,Texas,7.2,0.6538,48237
+2018,48239,Jackson County,Texas,7.2,0.6774,48239
+2018,48241,Jasper County,Texas,8.4,0.8239,48241
+2018,48243,Jeff Davis County,Texas,7.1,0.3611,48243
+2018,48245,Jefferson County,Texas,11.1,0.8567,48245
+2018,48247,Jim Hogg County,Texas,7.1,0.9917,48247
+2018,48249,Jim Wells County,Texas,7.1,0.9226,48249
+2018,48251,Johnson County,Texas,10,0.5073,48251
+2018,48253,Jones County,Texas,7.2,0.6328,48253
+2018,48255,Karnes County,Texas,7.1,0.8424,48255
+2018,48257,Kaufman County,Texas,8.7,0.5691,48257
+2018,48259,Kendall County,Texas,8.5,0.2283,48259
+2018,48261,Kenedy County,Texas,6.9,0.7328,48261
+2018,48263,Kent County,Texas,7,0.4427,48263
+2018,48265,Kerr County,Texas,7.5,0.6959,48265
+2018,48267,Kimble County,Texas,6.8,0.5885,48267
+2018,48269,King County,Texas,6.8,0.1955,48269
+2018,48271,Kinney County,Texas,6.9,0.8561,48271
+2018,48273,Kleberg County,Texas,6.9,0.9834,48273
+2018,48275,Knox County,Texas,6.7,0.7962,48275
+2018,48283,La Salle County,Texas,6.8,0.8191,48283
+2018,48277,Lamar County,Texas,10.7,0.8357,48277
+2018,48279,Lamb County,Texas,7,0.8975,48279
+2018,48281,Lampasas County,Texas,8.1,0.5443,48281
+2018,48285,Lavaca County,Texas,7.3,0.6879,48285
+2018,48287,Lee County,Texas,8.1,0.6752,48287
+2018,48289,Leon County,Texas,6.8,0.6156,48289
+2018,48291,Liberty County,Texas,8.9,0.9427,48291
+2018,48293,Limestone County,Texas,6.9,0.9532,48293
+2018,48295,Lipscomb County,Texas,6.9,0.4605,48295
+2018,48297,Live Oak County,Texas,6.9,0.6917,48297
+2018,48299,Llano County,Texas,7,0.4666,48299
+2018,48301,Loving County,Texas,7.2,0.7573,48301
+2018,48303,Lubbock County,Texas,7,0.7497,48303
+2018,48305,Lynn County,Texas,6.9,0.8908,48305
+2018,48313,Madison County,Texas,7.8,0.8376,48313
+2018,48315,Marion County,Texas,7.5,0.6885,48315
+2018,48317,Martin County,Texas,6.9,0.4239,48317
+2018,48319,Mason County,Texas,7,0.357,48319
+2018,48321,Matagorda County,Texas,7.1,0.9067,48321
+2018,48323,Maverick County,Texas,7,0.9742,48323
+2018,48307,Mcculloch County,Texas,7.2,0.7395,48307
+2018,48309,Mclennan County,Texas,8.6,0.8436,48309
+2018,48311,Mcmullen County,Texas,7.1,0.7631,48311
+2018,48325,Medina County,Texas,8.1,0.6697,48325
+2018,48327,Menard County,Texas,7,0.5854,48327
+2018,48329,Midland County,Texas,6.7,0.4748,48329
+2018,48331,Milam County,Texas,8.7,0.7627,48331
+2018,48333,Mills County,Texas,6.8,0.7688,48333
+2018,48335,Mitchell County,Texas,7.4,0.6213,48335
+2018,48337,Montague County,Texas,7.3,0.5841,48337
+2018,48339,Montgomery County,Texas,8,0.3914,48339
+2018,48341,Moore County,Texas,7.2,0.699,48341
+2018,48343,Morris County,Texas,7.3,0.7299,48343
+2018,48345,Motley County,Texas,7.4,0.7003,48345
+2018,48347,Nacogdoches County,Texas,11.4,0.9822,48347
+2018,48349,Navarro County,Texas,11.3,0.9662,48349
+2018,48351,Newton County,Texas,7.2,0.7207,48351
+2018,48353,Nolan County,Texas,6.9,0.8866,48353
+2018,48355,Nueces County,Texas,11.2,0.8363,48355
+2018,48357,Ochiltree County,Texas,7.1,0.5787,48357
+2018,48359,Oldham County,Texas,7.1,0.4322,48359
+2018,48361,Orange County,Texas,11.2,0.5812,48361
+2018,48363,Palo Pinto County,Texas,10,0.8799,48363
+2018,48365,Panola County,Texas,7.2,0.6952,48365
+2018,48367,Parker County,Texas,8.2,0.2561,48367
+2018,48369,Parmer County,Texas,7.1,0.7576,48369
+2018,48371,Pecos County,Texas,7.2,0.8213,48371
+2018,48373,Polk County,Texas,9.5,0.9121,48373
+2018,48375,Potter County,Texas,7.7,0.9248,48375
+2018,48377,Presidio County,Texas,7.5,0.9981,48377
+2018,48379,Rains County,Texas,6.8,0.4016,48379
+2018,48381,Randall County,Texas,7.6,0.2204,48381
+2018,48383,Reagan County,Texas,6.8,0.4806,48383
+2018,48385,Real County,Texas,6.8,0.7169,48385
+2018,48387,Red River County,Texas,11.4,0.565,48387
+2018,48389,Reeves County,Texas,7,0.7803,48389
+2018,48391,Refugio County,Texas,7,0.9414,48391
+2018,48393,Roberts County,Texas,6.7,0.0911,48393
+2018,48395,Robertson County,Texas,7.7,0.7529,48395
+2018,48397,Rockwall County,Texas,6.9,0.1124,48397
+2018,48399,Runnels County,Texas,6.9,0.5449,48399
+2018,48401,Rusk County,Texas,9.7,0.7965,48401
+2018,48403,Sabine County,Texas,7.1,0.5309,48403
+2018,48405,San Augustine County,Texas,8.1,0.8889,48405
+2018,48407,San Jacinto County,Texas,7.3,0.6869,48407
+2018,48409,San Patricio County,Texas,7.5,0.8309,48409
+2018,48411,San Saba County,Texas,6.8,0.7315,48411
+2018,48413,Schleicher County,Texas,6.9,0.5857,48413
+2018,48415,Scurry County,Texas,7,0.6994,48415
+2018,48417,Shackelford County,Texas,6.9,0.685,48417
+2018,48419,Shelby County,Texas,8,0.9522,48419
+2018,48421,Sherman County,Texas,7,0.4611,48421
+2018,48423,Smith County,Texas,9.1,0.7462,48423
+2018,48425,Somervell County,Texas,6.9,0.5605,48425
+2018,48427,Starr County,Texas,8.4,0.9815,48427
+2018,48429,Stephens County,Texas,7.8,0.885,48429
+2018,48431,Sterling County,Texas,7,0.4127,48431
+2018,48433,Stonewall County,Texas,7,0.3236,48433
+2018,48435,Sutton County,Texas,6.8,0.6041,48435
+2018,48437,Swisher County,Texas,7,0.9701,48437
+2018,48439,Tarrant County,Texas,10.9,0.5475,48439
+2018,48441,Taylor County,Texas,7.7,0.6933,48441
+2018,48443,Terrell County,Texas,6.9,0.4713,48443
+2018,48445,Terry County,Texas,7.5,0.9876,48445
+2018,48447,Throckmorton County,Texas,6.9,0.2678,48447
+2018,48449,Titus County,Texas,6.9,0.8901,48449
+2018,48451,Tom Green County,Texas,8,0.6643,48451
+2018,48453,Travis County,Texas,7.5,0.3812,48453
+2018,48455,Trinity County,Texas,7.9,0.8016,48455
+2018,48457,Tyler County,Texas,7.2,0.8834,48457
+2018,48459,Upshur County,Texas,6.8,0.5898,48459
+2018,48461,Upton County,Texas,6.8,0.6519,48461
+2018,48463,Uvalde County,Texas,6.7,0.9548,48463
+2018,48465,Val Verde County,Texas,6.8,0.9678,48465
+2018,48467,Van Zandt County,Texas,7.5,0.5589,48467
+2018,48469,Victoria County,Texas,10.2,0.7834,48469
+2018,48471,Walker County,Texas,7.3,0.6997,48471
+2018,48473,Waller County,Texas,9.7,0.8331,48473
+2018,48475,Ward County,Texas,7,0.6494,48475
+2018,48477,Washington County,Texas,8.1,0.7312,48477
+2018,48479,Webb County,Texas,7.7,0.9497,48479
+2018,48481,Wharton County,Texas,7.9,0.8758,48481
+2018,48483,Wheeler County,Texas,6.9,0.6962,48483
+2018,48485,Wichita County,Texas,13.7,0.8166,48485
+2018,48487,Wilbarger County,Texas,10.1,0.9083,48487
+2018,48489,Willacy County,Texas,7.1,0.9892,48489
+2018,48491,Williamson County,Texas,8.5,0.2016,48491
+2018,48493,Wilson County,Texas,6.6,0.4436,48493
+2018,48495,Winkler County,Texas,6.9,0.6541,48495
+2018,48497,Wise County,Texas,9.8,0.5768,48497
+2018,48499,Wood County,Texas,6.9,0.6322,48499
+2018,48501,Yoakum County,Texas,7.1,0.492,48501
+2018,48503,Young County,Texas,8.3,0.5532,48503
+2018,48505,Zapata County,Texas,6.8,0.9895,48505
+2018,48507,Zavala County,Texas,6.8,0.9987,48507
+2018,49001,Beaver County,Utah,7.4,0.2522,49001
+2018,49003,Box Elder County,Utah,9.3,0.1592,49003
+2018,49005,Cache County,Utah,6.3,0.3201,49005
+2018,49007,Carbon County,Utah,9.3,0.5615,49007
+2018,49009,Daggett County,Utah,7.5,0.0755,49009
+2018,49011,Davis County,Utah,8.7,0.0796,49011
+2018,49013,Duchesne County,Utah,8,0.4822,49013
+2018,49015,Emery County,Utah,9.5,0.2627,49015
+2018,49017,Garfield County,Utah,6.6,0.4592,49017
+2018,49019,Grand County,Utah,7.1,0.5213,49019
+2018,49021,Iron County,Utah,8.2,0.4525,49021
+2018,49023,Juab County,Utah,7.6,0.2331,49023
+2018,49025,Kane County,Utah,7.7,0.1054,49025
+2018,49027,Millard County,Utah,7.8,0.3554,49027
+2018,49029,Morgan County,Utah,7.6,0.0003,49029
+2018,49031,Piute County,Utah,6.9,0.2713,49031
+2018,49033,Rich County,Utah,7.3,0.1971,49033
+2018,49035,Salt Lake County,Utah,7.6,0.3229,49035
+2018,49037,San Juan County,Utah,9.7,0.9752,49037
+2018,49039,Sanpete County,Utah,8,0.6019,49039
+2018,49041,Sevier County,Utah,7.8,0.3261,49041
+2018,49043,Summit County,Utah,4.8,0.05,49043
+2018,49045,Tooele County,Utah,11.1,0.3143,49045
+2018,49047,Uintah County,Utah,10.8,0.4838,49047
+2018,49049,Utah County,Utah,7.5,0.278,49049
+2018,49051,Wasatch County,Utah,5.9,0.0643,49051
+2018,49053,Washington County,Utah,7.2,0.4143,49053
+2018,49055,Wayne County,Utah,6.4,0.2908,49055
+2018,49057,Weber County,Utah,8.8,0.4271,49057
+2018,50001,Addison County,Vermont,6.6,0.0965,50001
+2018,50003,Bennington County,Vermont,8.4,0.2924,50003
+2018,50005,Caledonia County,Vermont,7.6,0.2672,50005
+2018,50007,Chittenden County,Vermont,6.5,0.1831,50007
+2018,50009,Essex County,Vermont,7.9,0.2067,50009
+2018,50011,Franklin County,Vermont,9.3,0.1111,50011
+2018,50013,Grand Isle County,Vermont,7.7,0.0025,50013
+2018,50015,Lamoille County,Vermont,7.3,0.1309,50015
+2018,50017,Orange County,Vermont,7.5,0.172,50017
+2018,50019,Orleans County,Vermont,7,0.4258,50019
+2018,50021,Rutland County,Vermont,8,0.2787,50021
+2018,50023,Washington County,Vermont,6.2,0.1752,50023
+2018,50025,Windham County,Vermont,6.2,0.3054,50025
+2018,50027,Windsor County,Vermont,7.2,0.128,50027
+2018,51001,Accomack County,Virginia,11.5,0.8025,51001
+2018,51003,Albemarle County,Virginia,7.6,0.1732,51003
+2018,51510,Alexandria City,Virginia,5.9,0.2003,51510
+2018,51005,Alleghany County,Virginia,9.2,0.4462,51005
+2018,51007,Amelia County,Virginia,8.6,0.3166,51007
+2018,51009,Amherst County,Virginia,11.5,0.4682,51009
+2018,51011,Appomattox County,Virginia,8.1,0.3637,51011
+2018,51013,Arlington County,Virginia,6.3,0.1401,51013
+2018,51015,Augusta County,Virginia,10.4,0.149,51015
+2018,51017,Bath County,Virginia,6.6,0.2471,51017
+2018,51019,Bedford County,Virginia,10.9,0.0984,51019
+2018,51021,Bland County,Virginia,7.6,0.3449,51021
+2018,51023,Botetourt County,Virginia,6,0.0414,51023
+2018,51520,Bristol City,Virginia,8.4,0.751,51520
+2018,51025,Brunswick County,Virginia,9.7,0.8955,51025
+2018,51027,Buchanan County,Virginia,9.1,0.7545,51027
+2018,51029,Buckingham County,Virginia,9.3,0.7901,51029
+2018,51530,Buena Vista City,Virginia,7.2,0.3242,51530
+2018,51031,Campbell County,Virginia,11.4,0.2615,51031
+2018,51033,Caroline County,Virginia,8.8,0.3481,51033
+2018,51035,Carroll County,Virginia,8.9,0.3369,51035
+2018,51036,Charles City County,Virginia,7.7,0.2366,51036
+2018,51037,Charlotte County,Virginia,8.4,0.7057,51037
+2018,51540,Charlottesville City,Virginia,8.3,0.4092,51540
+2018,51550,Chesapeake City,Virginia,9.8,0.2592,51550
+2018,51041,Chesterfield County,Virginia,9.9,0.1799,51041
+2018,51043,Clarke County,Virginia,7.3,0.1131,51043
+2018,51570,Colonial Heights City,Virginia,7.1,0.5685,51570
+2018,51580,Covington City,Virginia,7.3,0.4634,51580
+2018,51045,Craig County,Virginia,7.7,0.0745,51045
+2018,51047,Culpeper County,Virginia,9.4,0.4882,51047
+2018,51049,Cumberland County,Virginia,7.9,0.5831,51049
+2018,51590,Danville City,Virginia,10.9,0.9589,51590
+2018,51051,Dickenson County,Virginia,7.9,0.6806,51051
+2018,51053,Dinwiddie County,Virginia,10.6,0.4182,51053
+2018,51595,Emporia City,Virginia,8.5,0.9567,51595
+2018,51057,Essex County,Virginia,8.7,0.5634,51057
+2018,51059,Fairfax County,Virginia,5.6,0.1876,51059
+2018,51600,Fairfax City,Virginia,7.4,0.2411,51600
+2018,51610,Falls Church City,Virginia,6.5,0.1389,51610
+2018,51061,Fauquier County,Virginia,7.5,0.0287,51061
+2018,51063,Floyd County,Virginia,6.7,0.1115,51063
+2018,51065,Fluvanna County,Virginia,9.6,0.0631,51065
+2018,51067,Franklin County,Virginia,10,0.401,51067
+2018,51620,Franklin City,Virginia,8.5,0.7175,51620
+2018,51069,Frederick County,Virginia,9.1,0.1822,51069
+2018,51630,Fredericksburg City,Virginia,8.3,0.5631,51630
+2018,51640,Galax City,Virginia,7.3,0.9838,51640
+2018,51071,Giles County,Virginia,7.8,0.2742,51071
+2018,51073,Gloucester County,Virginia,9,0.0366,51073
+2018,51075,Goochland County,Virginia,7,0.0459,51075
+2018,51077,Grayson County,Virginia,7.4,0.6459,51077
+2018,51079,Greene County,Virginia,7.3,0.1631,51079
+2018,51081,Greensville County,Virginia,9.1,0.814,51081
+2018,51083,Halifax County,Virginia,11.4,0.6723,51083
+2018,51650,Hampton City,Virginia,12.7,0.6675,51650
+2018,51085,Hanover County,Virginia,8.1,0.0156,51085
+2018,51660,Harrisonburg City,Virginia,7.3,0.793,51660
+2018,51087,Henrico County,Virginia,9.3,0.2573,51087
+2018,51089,Henry County,Virginia,11.5,0.8857,51089
+2018,51091,Highland County,Virginia,7,0.065,51091
+2018,51670,Hopewell City,Virginia,10.7,0.9408,51670
+2018,51093,Isle Of Wight County,Virginia,8.7,0.3392,51093
+2018,51095,James City County,Virginia,8.3,0.115,51095
+2018,51097,King And Queen County,Virginia,8.7,0.3245,51097
+2018,51099,King George County,Virginia,9.4,0.0159,51099
+2018,51101,King William County,Virginia,9.4,0.0357,51101
+2018,51103,Lancaster County,Virginia,8.8,0.1583,51103
+2018,51105,Lee County,Virginia,9.5,0.8073,51105
+2018,51678,Lexington City,Virginia,7.5,0.3226,51678
+2018,51107,Loudoun County,Virginia,5.5,0.0904,51107
+2018,51109,Louisa County,Virginia,8.8,0.3325,51109
+2018,51111,Lunenburg County,Virginia,9.7,0.8643,51111
+2018,51680,Lynchburg City,Virginia,7.8,0.7369,51680
+2018,51113,Madison County,Virginia,8.5,0.164,51113
+2018,51683,Manassas City,Virginia,8.2,0.4446,51683
+2018,51685,Manassas Park City,Virginia,7.6,0.528,51685
+2018,51690,Martinsville City,Virginia,7.7,0.9105,51690
+2018,51115,Mathews County,Virginia,7.6,0.0207,51115
+2018,51117,Mecklenburg County,Virginia,10.4,0.7768,51117
+2018,51119,Middlesex County,Virginia,7.5,0.2025,51119
+2018,51121,Montgomery County,Virginia,9.5,0.2959,51121
+2018,51125,Nelson County,Virginia,7.7,0.3,51125
+2018,51127,New Kent County,Virginia,7.5,0.0061,51127
+2018,51700,Newport News City,Virginia,13.3,0.8156,51700
+2018,51710,Norfolk City,Virginia,11.7,0.7717,51710
+2018,51131,Northampton County,Virginia,9.5,0.6764,51131
+2018,51133,Northumberland County,Virginia,6.7,0.1213,51133
+2018,51720,Norton City,Virginia,7.2,0.9054,51720
+2018,51135,Nottoway County,Virginia,11.1,0.9096,51135
+2018,51137,Orange County,Virginia,8,0.465,51137
+2018,51139,Page County,Virginia,11.2,0.3936,51139
+2018,51141,Patrick County,Virginia,7.9,0.6389,51141
+2018,51730,Petersburg City,Virginia,14,0.9643,51730
+2018,51143,Pittsylvania County,Virginia,9.6,0.6427,51143
+2018,51735,Poquoson City,Virginia,7,0.0127,51735
+2018,51740,Portsmouth City,Virginia,12.4,0.8006,51740
+2018,51145,Powhatan County,Virginia,7.5,0.0057,51145
+2018,51147,Prince Edward County,Virginia,8.8,0.7296,51147
+2018,51149,Prince George County,Virginia,9.3,0.3175,51149
+2018,51153,Prince William County,Virginia,8.8,0.3022,51153
+2018,51155,Pulaski County,Virginia,9.3,0.4831,51155
+2018,51750,Radford City,Virginia,7.5,0.4124,51750
+2018,51157,Rappahannock County,Virginia,7.8,0.0213,51157
+2018,51159,Richmond County,Virginia,10.1,0.6143,51159
+2018,51760,Richmond City,Virginia,10.3,0.7729,51760
+2018,51161,Roanoke County,Virginia,10.2,0.1312,51161
+2018,51770,Roanoke City,Virginia,10.6,0.8038,51770
+2018,51163,Rockbridge County,Virginia,9.5,0.1433,51163
+2018,51165,Rockingham County,Virginia,8.7,0.3197,51165
+2018,51167,Russell County,Virginia,9.4,0.4487,51167
+2018,51775,Salem City,Virginia,8.4,0.3089,51775
+2018,51169,Scott County,Virginia,11.3,0.6758,51169
+2018,51171,Shenandoah County,Virginia,9.4,0.3643,51171
+2018,51173,Smyth County,Virginia,9.6,0.7548,51173
+2018,51175,Southampton County,Virginia,9.1,0.4755,51175
+2018,51177,Spotsylvania County,Virginia,7.8,0.2159,51177
+2018,51179,Stafford County,Virginia,7.7,0.1541,51179
+2018,51790,Staunton City,Virginia,7.4,0.4449,51790
+2018,51800,Suffolk City,Virginia,11.5,0.3468,51800
+2018,51181,Surry County,Virginia,7.9,0.3659,51181
+2018,51183,Sussex County,Virginia,8.7,0.9092,51183
+2018,51185,Tazewell County,Virginia,10.5,0.5936,51185
+2018,51810,Virginia Beach City,Virginia,9.5,0.1889,51810
+2018,51187,Warren County,Virginia,8.8,0.2564,51187
+2018,51191,Washington County,Virginia,9,0.3646,51191
+2018,51820,Waynesboro City,Virginia,8.6,0.6013,51820
+2018,51193,Westmoreland County,Virginia,9.3,0.292,51193
+2018,51830,Williamsburg City,Virginia,8.5,0.385,51830
+2018,51840,Winchester City,Virginia,6.9,0.722,51840
+2018,51195,Wise County,Virginia,13.2,0.8599,51195
+2018,51197,Wythe County,Virginia,9,0.3965,51197
+2018,51199,York County,Virginia,9.3,0.1997,51199
+2018,53001,Adams County,Washington,8.1,0.9621,53001
+2018,53003,Asotin County,Washington,9,0.4248,53003
+2018,53005,Benton County,Washington,8,0.514,53005
+2018,53007,Chelan County,Washington,7.2,0.678,53007
+2018,53009,Clallam County,Washington,9.5,0.6146,53009
+2018,53011,Clark County,Washington,8.9,0.2857,53011
+2018,53013,Columbia County,Washington,8.7,0.3146,53013
+2018,53015,Cowlitz County,Washington,10.7,0.7885,53015
+2018,53017,Douglas County,Washington,7.1,0.7707,53017
+2018,53019,Ferry County,Washington,7.5,0.8223,53019
+2018,53021,Franklin County,Washington,10,0.8691,53021
+2018,53023,Garfield County,Washington,8.6,0.1834,53023
+2018,53025,Grant County,Washington,8.6,0.8452,53025
+2018,53027,Grays Harbor County,Washington,9.6,0.8392,53027
+2018,53029,Island County,Washington,7.1,0.1857,53029
+2018,53031,Jefferson County,Washington,5.4,0.2414,53031
+2018,53033,King County,Washington,7.6,0.2854,53033
+2018,53035,Kitsap County,Washington,8.2,0.2825,53035
+2018,53037,Kittitas County,Washington,6.6,0.2831,53037
+2018,53039,Klickitat County,Washington,8.9,0.5723,53039
+2018,53041,Lewis County,Washington,9.2,0.7889,53041
+2018,53043,Lincoln County,Washington,7.4,0.1984,53043
+2018,53045,Mason County,Washington,8.9,0.6382,53045
+2018,53047,Okanogan County,Washington,8.4,0.9255,53047
+2018,53049,Pacific County,Washington,9.1,0.736,53049
+2018,53051,Pend Oreille County,Washington,7.5,0.536,53051
+2018,53053,Pierce County,Washington,10.1,0.4873,53053
+2018,53055,San Juan County,Washington,4.5,0.0863,53055
+2018,53057,Skagit County,Washington,7,0.5382,53057
+2018,53059,Skamania County,Washington,8.4,0.2194,53059
+2018,53061,Snohomish County,Washington,8.6,0.2755,53061
+2018,53063,Spokane County,Washington,8.5,0.4825,53063
+2018,53065,Stevens County,Washington,6.9,0.4615,53065
+2018,53067,Thurston County,Washington,8.5,0.3299,53067
+2018,53069,Wahkiakum County,Washington,8.1,0.1809,53069
+2018,53071,Walla Walla County,Washington,9,0.6831,53071
+2018,53073,Whatcom County,Washington,7.4,0.4541,53073
+2018,53075,Whitman County,Washington,8.3,0.5108,53075
+2018,53077,Yakima County,Washington,10.9,0.9277,53077
+2018,54001,Barbour County,West Virginia,11.1,0.6513,54001
+2018,54003,Berkeley County,West Virginia,10.4,0.4433,54003
+2018,54005,Boone County,West Virginia,15.7,0.7041,54005
+2018,54007,Braxton County,West Virginia,9.2,0.6646,54007
+2018,54009,Brooke County,West Virginia,11.5,0.3306,54009
+2018,54011,Cabell County,West Virginia,11,0.6245,54011
+2018,54013,Calhoun County,West Virginia,8.4,0.5239,54013
+2018,54015,Clay County,West Virginia,9.3,0.6885,54015
+2018,54017,Doddridge County,West Virginia,6.6,0.3608,54017
+2018,54019,Fayette County,West Virginia,13.9,0.764,54019
+2018,54021,Gilmer County,West Virginia,8.4,0.7564,54021
+2018,54023,Grant County,West Virginia,11.7,0.3675,54023
+2018,54025,Greenbrier County,West Virginia,10.6,0.5557,54025
+2018,54027,Hampshire County,West Virginia,8.3,0.6433,54027
+2018,54029,Hancock County,West Virginia,9.1,0.4051,54029
+2018,54031,Hardy County,West Virginia,9.4,0.285,54031
+2018,54033,Harrison County,West Virginia,12.3,0.4089,54033
+2018,54035,Jackson County,West Virginia,11.9,0.2529,54035
+2018,54037,Jefferson County,West Virginia,9.1,0.2255,54037
+2018,54039,Kanawha County,West Virginia,12.6,0.5656,54039
+2018,54041,Lewis County,West Virginia,9.3,0.6761,54041
+2018,54043,Lincoln County,West Virginia,10.8,0.6057,54043
+2018,54045,Logan County,West Virginia,14.1,0.7471,54045
+2018,54049,Marion County,West Virginia,11.6,0.4939,54049
+2018,54051,Marshall County,West Virginia,10.3,0.2153,54051
+2018,54053,Mason County,West Virginia,10.5,0.5497,54053
+2018,54047,Mcdowell County,West Virginia,10.2,0.9029,54047
+2018,54055,Mercer County,West Virginia,13,0.8089,54055
+2018,54057,Mineral County,West Virginia,9.8,0.5933,54057
+2018,54059,Mingo County,West Virginia,14.2,0.785,54059
+2018,54061,Monongalia County,West Virginia,9.8,0.4111,54061
+2018,54063,Monroe County,West Virginia,9.6,0.4662,54063
+2018,54065,Morgan County,West Virginia,9.7,0.1764,54065
+2018,54067,Nicholas County,West Virginia,9.1,0.5411,54067
+2018,54069,Ohio County,West Virginia,8.4,0.3108,54069
+2018,54071,Pendleton County,West Virginia,10.2,0.358,54071
+2018,54073,Pleasants County,West Virginia,7.7,0.4468,54073
+2018,54075,Pocahontas County,West Virginia,8.9,0.4971,54075
+2018,54077,Preston County,West Virginia,12.8,0.5732,54077
+2018,54079,Putnam County,West Virginia,9.8,0.0408,54079
+2018,54081,Raleigh County,West Virginia,13.5,0.7685,54081
+2018,54083,Randolph County,West Virginia,9.4,0.5806,54083
+2018,54085,Ritchie County,West Virginia,8.9,0.364,54085
+2018,54087,Roane County,West Virginia,10.2,0.6465,54087
+2018,54089,Summers County,West Virginia,10.5,0.829,54089
+2018,54091,Taylor County,West Virginia,10.9,0.4949,54091
+2018,54093,Tucker County,West Virginia,9.6,0.3672,54093
+2018,54095,Tyler County,West Virginia,8.6,0.2213,54095
+2018,54097,Upshur County,West Virginia,10.2,0.6911,54097
+2018,54099,Wayne County,West Virginia,13.5,0.6006,54099
+2018,54101,Webster County,West Virginia,8.9,0.7487,54101
+2018,54103,Wetzel County,West Virginia,11.5,0.4752,54103
+2018,54105,Wirt County,West Virginia,8.7,0.3748,54105
+2018,54107,Wood County,West Virginia,13.4,0.3723,54107
+2018,54109,Wyoming County,West Virginia,10.4,0.6443,54109
+2018,55001,Adams County,Wisconsin,10.4,0.5685,55001
+2018,55003,Ashland County,Wisconsin,7.5,0.55,55003
+2018,55005,Barron County,Wisconsin,8.6,0.3271,55005
+2018,55007,Bayfield County,Wisconsin,6.2,0.099,55007
+2018,55009,Brown County,Wisconsin,8.6,0.3299,55009
+2018,55011,Buffalo County,Wisconsin,8,0.0576,55011
+2018,55013,Burnett County,Wisconsin,7.2,0.1672,55013
+2018,55015,Calumet County,Wisconsin,7,0.0182,55015
+2018,55017,Chippewa County,Wisconsin,6.5,0.2105,55017
+2018,55019,Clark County,Wisconsin,6.9,0.535,55019
+2018,55021,Columbia County,Wisconsin,8.2,0.1204,55021
+2018,55023,Crawford County,Wisconsin,7.3,0.3971,55023
+2018,55025,Dane County,Wisconsin,5.5,0.1688,55025
+2018,55027,Dodge County,Wisconsin,9.1,0.2019,55027
+2018,55029,Door County,Wisconsin,8.4,0.0557,55029
+2018,55031,Douglas County,Wisconsin,8.1,0.2748,55031
+2018,55033,Dunn County,Wisconsin,7.1,0.1847,55033
+2018,55035,Eau Claire County,Wisconsin,7.7,0.2175,55035
+2018,55037,Florence County,Wisconsin,6.8,0.1452,55037
+2018,55039,Fond Du Lac County,Wisconsin,7.7,0.2038,55039
+2018,55041,Forest County,Wisconsin,7,0.5774,55041
+2018,55043,Grant County,Wisconsin,6.6,0.1939,55043
+2018,55045,Green County,Wisconsin,7.4,0.0529,55045
+2018,55047,Green Lake County,Wisconsin,6.8,0.2869,55047
+2018,55049,Iowa County,Wisconsin,8.4,0.0131,55049
+2018,55051,Iron County,Wisconsin,6.9,0.3602,55051
+2018,55053,Jackson County,Wisconsin,8.6,0.5003,55053
+2018,55055,Jefferson County,Wisconsin,6.4,0.1854,55055
+2018,55057,Juneau County,Wisconsin,7.1,0.378,55057
+2018,55059,Kenosha County,Wisconsin,7.3,0.5111,55059
+2018,55061,Kewaunee County,Wisconsin,7.6,0.0586,55061
+2018,55063,La Crosse County,Wisconsin,6.1,0.2089,55063
+2018,55065,Lafayette County,Wisconsin,7.3,0.1596,55065
+2018,55067,Langlade County,Wisconsin,7.5,0.3535,55067
+2018,55069,Lincoln County,Wisconsin,7,0.1013,55069
+2018,55071,Manitowoc County,Wisconsin,7,0.1621,55071
+2018,55073,Marathon County,Wisconsin,6.3,0.1443,55073
+2018,55075,Marinette County,Wisconsin,6.5,0.2971,55075
+2018,55077,Marquette County,Wisconsin,8,0.2596,55077
+2018,55078,Menominee County,Wisconsin,10,0.7672,55078
+2018,55079,Milwaukee County,Wisconsin,9.5,0.8061,55079
+2018,55081,Monroe County,Wisconsin,7.8,0.4621,55081
+2018,55083,Oconto County,Wisconsin,7.3,0.064,55083
+2018,55085,Oneida County,Wisconsin,7,0.014,55085
+2018,55087,Outagamie County,Wisconsin,9.4,0.0978,55087
+2018,55089,Ozaukee County,Wisconsin,6.2,0.0134,55089
+2018,55091,Pepin County,Wisconsin,6.7,0.1019,55091
+2018,55093,Pierce County,Wisconsin,6.4,0.0806,55093
+2018,55095,Polk County,Wisconsin,8.4,0.0873,55095
+2018,55097,Portage County,Wisconsin,6.7,0.1653,55097
+2018,55099,Price County,Wisconsin,6.8,0.1602,55099
+2018,55101,Racine County,Wisconsin,8.6,0.4551,55101
+2018,55103,Richland County,Wisconsin,8,0.3073,55103
+2018,55105,Rock County,Wisconsin,9.3,0.4561,55105
+2018,55107,Rusk County,Wisconsin,7.4,0.3465,55107
+2018,55111,Sauk County,Wisconsin,8.7,0.2344,55111
+2018,55113,Sawyer County,Wisconsin,7.5,0.4268,55113
+2018,55115,Shawano County,Wisconsin,8.3,0.1382,55115
+2018,55117,Sheboygan County,Wisconsin,6.9,0.2245,55117
+2018,55109,St. Croix County,Wisconsin,6.9,0.0146,55109
+2018,55119,Taylor County,Wisconsin,7.5,0.2,55119
+2018,55121,Trempealeau County,Wisconsin,8.1,0.2812,55121
+2018,55123,Vernon County,Wisconsin,7.2,0.3834,55123
+2018,55125,Vilas County,Wisconsin,7.1,0.1395,55125
+2018,55127,Walworth County,Wisconsin,6.4,0.2688,55127
+2018,55129,Washburn County,Wisconsin,6.8,0.108,55129
+2018,55131,Washington County,Wisconsin,7.4,0.0099,55131
+2018,55133,Waukesha County,Wisconsin,7.3,0.0194,55133
+2018,55135,Waupaca County,Wisconsin,6.5,0.1815,55135
+2018,55137,Waushara County,Wisconsin,8,0.3653,55137
+2018,55139,Winnebago County,Wisconsin,7.9,0.1608,55139
+2018,55141,Wood County,Wisconsin,6.4,0.1535,55141
+2018,56001,Albany County,Wyoming,8.5,0.2494,56001
+2018,56003,Big Horn County,Wyoming,10.2,0.3955,56003
+2018,56005,Campbell County,Wyoming,7.3,0.3315,56005
+2018,56007,Carbon County,Wyoming,7.6,0.5029,56007
+2018,56009,Converse County,Wyoming,7.3,0.2048,56009
+2018,56011,Crook County,Wyoming,6.7,0.0328,56011
+2018,56013,Fremont County,Wyoming,8.3,0.5624,56013
+2018,56015,Goshen County,Wyoming,7,0.3264,56015
+2018,56017,Hot Springs County,Wyoming,8,0.1229,56017
+2018,56019,Johnson County,Wyoming,5.3,0.1774,56019
+2018,56021,Laramie County,Wyoming,9.1,0.2697,56021
+2018,56023,Lincoln County,Wyoming,7.2,0.0809,56023
+2018,56025,Natrona County,Wyoming,8.5,0.2952,56025
+2018,56027,Niobrara County,Wyoming,6.8,0.336,56027
+2018,56029,Park County,Wyoming,6.5,0.0659,56029
+2018,56031,Platte County,Wyoming,9.3,0.0952,56031
+2018,56033,Sheridan County,Wyoming,6.6,0.0895,56033
+2018,56035,Sublette County,Wyoming,6.8,0.0293,56035
+2018,56037,Sweetwater County,Wyoming,7.8,0.3701,56037
+2018,56039,Teton County,Wyoming,3.8,0.1127,56039
+2018,56041,Uinta County,Wyoming,8.4,0.4522,56041
+2018,56043,Washakie County,Wyoming,7.4,0.3732,56043
+2018,56045,Weston County,Wyoming,7.6,0.3475,56045
