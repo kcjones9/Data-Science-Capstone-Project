@@ -1,7 +1,7 @@
 # Data-Science-Capstone-Project
 This repository contains the code and findings of my data science capstone project<br />
 To see the progression and results of the project go to the Capstone Project PPTx file and download it to view the PowerPoint <br />
-TLDR summary of the project <br />
+<br />TLDR summary of the project <br />
 <br />•The purpose of this project was to use machine learning in the form of regression models to research diabetes diagnosed incidence and mortality rates in the U.S. and see what interesting trends and information I could learn from them to better understand diabetes in the U.S. <br />
 <br />•To accomplish this I took data from the census, country health rankings, and CDC. This data included diabetes diagnosed incidence and mortality rates as well as data on independent variables such as population demographics and health. This data was all at the county level. I also took some data at the state level to use for visualization in the PowerPoint <br />
 <br />•After collecting the datasets I performed some data exploration and then cleaned and merged them into two separate datasets, one for both dependent variables. I also checked for multicollinearity among the independent variables  <br />
